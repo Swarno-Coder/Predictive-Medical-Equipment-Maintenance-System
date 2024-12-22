@@ -15,8 +15,8 @@ st.write("# Predictive Medical Equipment Maintenance System ⛑🔬")
 st.write("### This system predicts the probability of equipment failure based on various factors.")
 st.write("The model is a prototype trained on synthetic data and may not reflect real-world scenarios.")
 
-st.write("---")
 st.write("**Please enter the equipment details to predict the failure probability.**")
+st.write("---")
 
 # Sidebar for User Inputs
 st.sidebar.header("User Input Parameters")
