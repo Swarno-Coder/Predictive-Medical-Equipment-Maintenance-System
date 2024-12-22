@@ -1,0 +1,1001 @@
+equipment_id,equipment_type,temperature_avg,humidity_avg,last_maintenance_days,uptime_hours,sensor_1,sensor_2,vibration,voltage_fluctuation,pressure,equipment_health,failure_probability,failure_reason,maintenance_level,cost_implications,updated_uptime
+EQ-9784,CT Scanner,37.1,52.7,338,2224,-0.03,0.6,0.15,0.31,125.8,Critical,0.8,Sensor Drift,High,12201,2937
+EQ-9117,Ventilator,34.1,72.4,196,400,0.02,0.18,5.53,1.45,123.1,Critical,1.0,Component Wear,High,7229,1362
+EQ-3077,Ventilator,24.3,28.9,373,1118,0.97,-0.04,3.49,0.93,125.5,Moderate,0.45,Sensor Drift,Medium,7604,2291
+EQ-4508,CT Scanner,34.9,41.9,379,4738,0.75,0.9,0.49,0.92,118.1,Critical,0.7,Pressure Leak,High,11242,5820
+EQ-2862,Ventilator,27.4,74.5,102,1256,0.86,0.29,4.24,0.47,109.5,Moderate,0.3,Overheating,Medium,9151,1982
+EQ-3396,CT Scanner,37.3,31.4,119,3226,0.39,1.02,1.93,1.41,125.1,Critical,0.7,Component Wear,High,11593,3699
+EQ-6929,X-ray Machine,19.0,64.5,623,3489,0.44,0.33,2.93,0.77,103.9,Moderate,0.35,Overheating,Medium,13109,4093
+EQ-3560,CT Scanner,31.8,68.3,206,3981,0.06,0.74,1.88,0.99,129.7,Critical,0.75,Component Wear,High,3270,4447
+EQ-7707,CT Scanner,24.1,79.1,161,2818,0.38,0.75,1.13,0.73,116.1,Moderate,0.3,Overheating,Medium,3616,3165
+EQ-4023,MRI Scanner,22.5,46.8,168,3612,0.05,0.48,2.01,1.29,107.6,Good,0.25,Pressure Leak,Low,5393,4640
+EQ-2851,CT Scanner,22.9,78.9,508,2791,0.89,0.84,4.97,1.24,123.9,Critical,0.9,Sensor Drift,High,8293,3502
+EQ-8299,CT Scanner,35.5,37.0,709,4607,0.25,0.28,1.28,0.56,123.1,Critical,0.8,Overheating,High,3274,5461
+EQ-5325,X-ray Machine,29.3,54.5,528,905,0.55,0.72,1.17,0.28,99.6,Moderate,0.35,Voltage Surge,Medium,12848,1832
+EQ-1983,Ventilator,31.5,60.1,685,2626,0.0,0.59,2.05,0.21,102.4,Critical,0.95,Voltage Surge,High,9636,3618
+EQ-5544,X-ray Machine,27.1,76.2,423,634,-0.06,0.64,3.92,0.93,126.4,Critical,0.7,Voltage Surge,High,10520,838
+EQ-6303,X-ray Machine,38.9,63.8,683,4709,0.7,0.97,-0.03,1.42,97.8,Critical,0.9,Pressure Leak,High,9581,5490
+EQ-7768,MRI Scanner,35.4,41.1,226,2835,0.74,0.26,4.65,0.15,96.2,Moderate,0.4,Overheating,Medium,2581,3541
+EQ-5216,X-ray Machine,33.6,71.9,413,1554,0.52,0.99,0.17,0.63,93.3,Critical,0.6,Overheating,High,1417,2475
+EQ-4497,Blood Analyzer,38.4,62.2,614,4654,0.43,0.6,3.51,1.24,120.9,Critical,1.0,Voltage Surge,High,6293,5076
+EQ-4100,Ventilator,34.0,20.6,10,3476,0.25,0.69,2.55,1.31,94.0,Critical,0.6,Sensor Drift,High,10272,3654
+EQ-4523,Ventilator,21.3,52.0,628,3130,0.89,0.93,5.23,0.97,104.5,Moderate,0.5,Sensor Drift,Medium,8541,3824
+EQ-3893,CT Scanner,29.0,67.5,492,400,0.63,0.93,0.37,0.52,94.7,Critical,0.95,Pressure Leak,High,11489,1590
+EQ-8384,X-ray Machine,23.8,43.9,29,1969,0.25,0.12,1.36,0.98,124.4,Good,0.15,Sensor Drift,Low,8006,2737
+EQ-6648,CT Scanner,23.5,65.6,662,3508,0.65,0.99,4.2,0.81,81.5,Critical,0.6,Voltage Surge,High,11873,3968
+EQ-6912,Blood Analyzer,20.9,45.6,632,484,0.4,0.69,1.88,1.1,129.4,Critical,0.65,Sensor Drift,High,10358,698
+EQ-1683,MRI Scanner,23.8,38.2,89,1605,0.34,0.27,3.17,0.11,97.2,Good,0.05,Component Wear,Low,5893,2658
+EQ-8295,X-ray Machine,25.6,30.9,280,4400,0.33,0.23,1.72,0.15,96.0,Good,0.05,Sensor Drift,Low,3319,5475
+EQ-9457,MRI Scanner,37.8,69.6,493,1980,0.29,0.51,4.41,0.15,120.1,Critical,1.0,Component Wear,High,7312,2941
+EQ-3317,MRI Scanner,30.2,42.6,643,3541,0.77,0.67,5.55,0.53,113.8,Moderate,0.5,Voltage Surge,Medium,7584,4638
+EQ-8805,CT Scanner,32.2,44.9,404,2138,0.6,0.93,1.66,1.46,121.0,Critical,1.0,Sensor Drift,High,13906,2313
+EQ-7664,Blood Analyzer,27.2,52.9,510,4437,0.73,0.87,2.92,0.67,103.8,Moderate,0.35,Voltage Surge,Medium,7887,4744
+EQ-4601,Ventilator,18.3,42.7,728,4251,0.12,0.38,1.49,0.28,105.8,Moderate,0.35,Component Wear,Medium,14319,4505
+EQ-6446,CT Scanner,22.9,29.6,569,1229,0.39,0.19,0.17,0.52,123.0,Moderate,0.45,Sensor Drift,Medium,9600,1925
+EQ-1481,Blood Analyzer,21.4,77.8,122,748,0.6,0.87,3.81,0.49,124.5,Moderate,0.4,Voltage Surge,Medium,1544,1009
+EQ-8408,Ventilator,21.3,38.2,88,1948,0.46,0.02,3.39,0.95,90.0,Good,0.05,Voltage Surge,Low,10273,2339
+EQ-1591,X-ray Machine,30.1,70.9,439,1869,0.06,0.05,1.13,0.15,90.9,Critical,0.6,Sensor Drift,High,12044,2097
+EQ-1418,CT Scanner,34.9,42.3,441,1958,0.29,0.31,0.43,1.38,84.4,Critical,0.9,Voltage Surge,High,6308,2500
+EQ-7391,CT Scanner,38.3,25.9,301,4990,0.28,0.28,4.0,1.16,96.9,Critical,0.9,Overheating,High,7218,5647
+EQ-2871,Blood Analyzer,30.5,77.7,153,4415,0.82,0.24,3.24,0.32,121.5,Moderate,0.4,Pressure Leak,Medium,3522,5492
+EQ-4143,Blood Analyzer,35.8,75.7,250,1658,0.87,0.66,2.73,0.04,123.9,Critical,0.75,Voltage Surge,High,8095,2735
+EQ-7367,CT Scanner,19.2,26.8,728,464,0.7,0.12,2.01,0.81,122.6,Moderate,0.45,Overheating,Medium,7946,714
+EQ-5938,X-ray Machine,32.6,42.5,607,3289,0.91,0.61,3.14,0.89,95.3,Moderate,0.35,Sensor Drift,Medium,8331,4045
+EQ-4573,Blood Analyzer,23.8,40.3,123,2814,0.36,0.74,4.33,1.29,90.3,Good,0.25,Overheating,Low,6296,3222
+EQ-5119,Ventilator,21.1,42.4,629,2724,0.72,0.44,1.87,1.01,111.1,Moderate,0.55,Voltage Surge,Medium,7939,3146
+EQ-1655,MRI Scanner,28.0,43.7,574,1261,0.68,0.43,0.09,1.29,129.4,Critical,0.65,Overheating,High,1436,2029
+EQ-3311,Ventilator,30.0,77.6,474,2117,0.41,0.26,0.58,0.59,92.9,Critical,0.6,Overheating,High,11879,2257
+EQ-3271,CT Scanner,28.5,35.6,33,4223,0.3,0.67,0.7,1.4,105.3,Critical,0.6,Component Wear,High,12397,5413
+EQ-9147,Ventilator,18.7,32.3,190,2964,0.85,0.02,1.61,1.27,125.2,Moderate,0.35,Voltage Surge,Medium,6146,3972
+EQ-9981,Blood Analyzer,31.3,72.4,42,2916,0.68,0.62,2.79,0.71,118.2,Moderate,0.3,Pressure Leak,Medium,14652,3669
+EQ-6559,Ventilator,30.1,63.2,633,4731,0.09,0.95,5.04,0.2,116.9,Critical,1.0,Sensor Drift,High,8877,5889
+EQ-5211,Blood Analyzer,37.6,25.9,662,2266,0.87,0.37,5.3,0.88,102.2,Critical,0.85,Pressure Leak,High,14729,2737
+EQ-1146,X-ray Machine,39.9,52.9,172,590,0.1,0.57,1.24,0.12,129.1,Moderate,0.5,Sensor Drift,Medium,1252,1134
+EQ-6966,Ventilator,20.9,31.5,79,150,0.4,0.43,1.95,0.23,103.7,Good,0.05,Pressure Leak,Low,9005,586
+EQ-8451,CT Scanner,36.1,21.0,483,2732,0.65,0.88,5.05,1.38,84.5,Critical,1.0,Overheating,High,5251,2977
+EQ-5505,CT Scanner,35.0,60.1,220,1112,0.29,0.11,4.97,0.34,123.5,Critical,0.75,Component Wear,High,3608,1475
+EQ-8969,X-ray Machine,29.5,60.7,594,4265,0.25,0.68,4.62,1.49,98.1,Moderate,0.55,Voltage Surge,Medium,2307,5310
+EQ-1621,CT Scanner,23.7,33.9,169,1194,1.02,0.99,1.18,0.16,100.1,Good,0.05,Overheating,Low,12770,1312
+EQ-5511,X-ray Machine,23.0,42.0,172,1743,0.11,0.23,2.52,0.3,101.7,Good,0.05,Component Wear,Low,10026,1984
+EQ-5982,Blood Analyzer,30.2,37.5,586,4775,0.83,0.26,2.76,1.12,102.8,Moderate,0.55,Pressure Leak,Medium,13532,5112
+EQ-9652,CT Scanner,35.5,33.0,416,757,0.66,0.12,3.19,0.68,94.9,Critical,0.7,Pressure Leak,High,7301,1552
+EQ-6078,MRI Scanner,33.7,35.4,13,2106,0.55,0.77,0.93,0.56,91.3,Moderate,0.4,Voltage Surge,Medium,9663,2841
+EQ-1103,MRI Scanner,30.1,24.3,266,2898,0.36,0.71,5.85,0.41,121.0,Moderate,0.3,Pressure Leak,Medium,4057,3410
+EQ-3994,Blood Analyzer,36.0,72.6,257,592,0.81,0.39,3.97,1.08,91.4,Critical,0.85,Sensor Drift,High,10738,1444
+EQ-8759,Ventilator,29.7,34.3,220,3761,0.86,0.64,1.88,0.13,94.7,Moderate,0.35,Component Wear,Medium,7199,3916
+EQ-5046,Ventilator,20.8,56.7,6,764,0.17,0.58,3.45,0.71,125.3,Good,0.15,Pressure Leak,Low,8715,1674
+EQ-6218,Blood Analyzer,36.6,41.5,55,838,0.58,0.88,4.43,0.46,111.2,Moderate,0.4,Sensor Drift,Medium,9388,1978
+EQ-4014,CT Scanner,22.3,30.1,50,430,0.42,0.57,5.6,0.64,111.5,Good,0.2,Pressure Leak,Low,13641,1182
+EQ-5062,MRI Scanner,29.6,47.9,200,2070,0.65,0.11,3.35,1.08,117.9,Good,0.25,Sensor Drift,Low,6507,3167
+EQ-1901,CT Scanner,23.8,25.8,512,161,0.45,0.14,5.61,0.88,101.5,Moderate,0.5,Overheating,Medium,12289,1169
+EQ-1645,Blood Analyzer,18.0,41.7,426,808,0.97,0.12,3.57,0.28,128.7,Moderate,0.45,Component Wear,Medium,11779,1043
+EQ-1073,MRI Scanner,26.2,27.5,698,2654,0.47,0.04,4.73,1.19,115.0,Moderate,0.55,Sensor Drift,Medium,14594,3824
+EQ-1522,CT Scanner,21.1,69.5,622,4349,0.8,0.95,4.23,0.95,107.9,Critical,0.6,Component Wear,High,1300,5067
+EQ-1246,Blood Analyzer,38.2,46.6,325,3161,0.53,0.49,4.79,0.63,103.8,Moderate,0.4,Component Wear,Medium,8141,3285
+EQ-9239,Ventilator,23.2,26.0,38,4763,0.41,0.56,4.72,0.0,94.6,Good,0.05,Sensor Drift,Low,13323,5797
+EQ-4645,CT Scanner,28.4,50.6,431,950,0.75,0.61,1.83,0.75,109.7,Critical,0.7,Overheating,High,2358,1541
+EQ-2896,X-ray Machine,28.6,31.3,239,2236,0.89,0.22,4.46,0.91,101.5,Good,0.05,Pressure Leak,Low,14973,3221
+EQ-7319,Blood Analyzer,23.6,28.4,316,1248,0.58,0.32,2.4,1.23,118.2,Good,0.25,Overheating,Low,12781,2019
+EQ-8950,Blood Analyzer,21.4,42.3,559,2310,0.96,0.64,5.65,1.22,86.7,Critical,0.7,Overheating,High,4359,2533
+EQ-3411,CT Scanner,29.5,35.4,274,2211,0.58,0.06,5.91,0.1,107.5,Critical,0.85,Component Wear,High,6539,2390
+EQ-6385,MRI Scanner,34.8,44.7,573,952,0.41,0.87,5.37,1.51,81.0,Critical,1.0,Pressure Leak,High,6494,1697
+EQ-1504,Ventilator,22.2,26.3,245,4783,0.51,0.75,3.2,1.04,105.4,Moderate,0.55,Pressure Leak,Medium,12941,5363
+EQ-5876,CT Scanner,35.6,24.2,615,3559,0.07,0.68,0.41,1.26,122.0,Critical,1.0,Component Wear,High,5128,3843
+EQ-9036,Blood Analyzer,34.5,63.0,74,3510,0.78,0.68,4.68,1.23,91.6,Critical,0.6,Sensor Drift,High,1794,4078
+EQ-2421,Ventilator,30.8,43.7,331,4801,0.71,0.83,2.39,0.72,109.1,Critical,0.7,Component Wear,High,7569,5414
+EQ-7475,Blood Analyzer,18.0,22.2,632,831,0.09,1.03,2.11,1.04,116.5,Moderate,0.55,Component Wear,Medium,5440,1184
+EQ-9665,Blood Analyzer,28.8,22.2,365,126,0.75,0.89,2.13,0.42,116.9,Moderate,0.35,Pressure Leak,Medium,14922,708
+EQ-3581,MRI Scanner,27.0,39.9,552,1324,0.89,0.84,0.24,0.98,124.2,Moderate,0.45,Overheating,Medium,10896,1958
+EQ-5923,X-ray Machine,24.8,78.3,530,3575,0.48,0.2,3.36,0.22,129.1,Critical,0.7,Voltage Surge,High,14484,3939
+EQ-8629,X-ray Machine,29.2,32.2,19,2987,0.12,0.57,3.07,0.29,105.9,Good,0.05,Overheating,Low,4458,3256
+EQ-1319,Blood Analyzer,33.0,71.6,489,1934,0.3,0.09,2.62,1.01,106.6,Critical,0.8,Component Wear,High,10293,2899
+EQ-7399,MRI Scanner,25.9,36.6,118,4708,0.7,0.77,1.05,0.63,111.1,Good,0.05,Voltage Surge,Low,11751,5779
+EQ-9300,MRI Scanner,25.2,39.0,290,463,0.18,0.37,5.18,1.33,117.9,Moderate,0.4,Voltage Surge,Medium,11041,598
+EQ-7211,Blood Analyzer,34.3,67.7,14,2747,0.68,0.8,1.98,0.49,96.8,Moderate,0.4,Overheating,Medium,13806,3666
+EQ-4473,MRI Scanner,32.0,65.9,452,3508,1.03,0.16,3.59,1.27,96.4,Critical,0.8,Voltage Surge,High,4633,3894
+EQ-4987,CT Scanner,21.4,20.7,643,861,0.5,0.4,2.89,1.3,116.4,Moderate,0.55,Pressure Leak,Medium,9217,1454
+EQ-3238,Blood Analyzer,20.0,23.2,416,4373,0.34,0.71,5.41,1.4,112.5,Critical,0.7,Voltage Surge,High,6119,4881
+EQ-3742,CT Scanner,36.2,40.0,514,1874,0.98,0.2,3.82,0.67,93.1,Critical,0.7,Component Wear,High,6104,2391
+EQ-8121,MRI Scanner,36.8,60.5,535,998,0.19,0.64,3.68,0.91,93.3,Critical,0.7,Voltage Surge,High,10597,2077
+EQ-6086,CT Scanner,37.6,79.9,454,3547,0.86,0.76,5.97,0.05,89.9,Critical,1.0,Component Wear,High,11502,3803
+EQ-5424,Blood Analyzer,35.5,38.2,575,263,0.19,0.7,0.84,0.74,84.2,Critical,0.7,Overheating,High,13512,364
+EQ-1299,Blood Analyzer,19.4,56.1,632,3954,0.92,0.91,3.29,0.32,107.3,Moderate,0.35,Voltage Surge,Medium,10813,4242
+EQ-3842,MRI Scanner,24.0,56.5,233,660,0.56,0.46,2.77,-0.02,124.7,Good,0.15,Pressure Leak,Low,8742,791
+EQ-4227,MRI Scanner,31.2,50.0,344,4689,0.67,0.54,3.91,0.42,83.5,Moderate,0.35,Pressure Leak,Medium,1111,4874
+EQ-6414,Blood Analyzer,23.9,37.2,486,251,0.75,0.31,0.35,0.75,129.0,Moderate,0.45,Component Wear,Medium,8079,387
+EQ-6996,CT Scanner,24.5,56.7,350,163,0.89,0.23,2.3,1.42,100.5,Critical,0.8,Overheating,High,2561,1053
+EQ-1902,Blood Analyzer,32.7,76.9,598,1383,0.88,0.41,2.48,0.85,83.9,Critical,0.6,Component Wear,High,7780,1769
+EQ-9577,Ventilator,19.7,73.1,396,3889,0.51,1.02,3.31,0.26,127.4,Critical,0.7,Sensor Drift,High,2049,4350
+EQ-4863,X-ray Machine,34.8,73.2,309,2302,0.52,0.48,0.42,0.94,112.2,Moderate,0.3,Overheating,Medium,5983,3207
+EQ-2617,MRI Scanner,38.9,65.1,64,2144,0.22,0.56,1.45,0.08,91.7,Critical,0.65,Component Wear,High,6814,2553
+EQ-3030,Blood Analyzer,19.9,30.7,373,4230,0.8,0.34,1.24,1.07,107.1,Moderate,0.55,Sensor Drift,Medium,1657,4546
+EQ-7417,MRI Scanner,20.1,63.9,276,3270,0.31,0.64,0.09,0.95,125.6,Good,0.15,Pressure Leak,Low,1653,4016
+EQ-3445,MRI Scanner,38.8,37.0,234,2317,0.41,1.05,3.52,0.79,85.2,Moderate,0.4,Component Wear,Medium,13357,3252
+EQ-1090,MRI Scanner,21.9,42.1,365,1455,0.65,0.95,3.25,0.64,93.7,Moderate,0.35,Component Wear,Medium,12237,2251
+EQ-3636,CT Scanner,37.3,71.4,182,4465,0.31,0.14,5.04,0.09,109.8,Critical,1.0,Overheating,High,8157,5103
+EQ-3257,X-ray Machine,34.6,64.7,51,3357,0.45,0.56,1.87,0.18,101.8,Good,0.05,Sensor Drift,Low,2963,4182
+EQ-5754,Blood Analyzer,33.3,61.3,65,2116,0.72,0.44,2.34,1.05,122.0,Moderate,0.35,Component Wear,Medium,4062,2888
+EQ-1424,MRI Scanner,39.4,38.9,530,4301,0.18,0.95,0.35,0.47,87.1,Critical,0.7,Voltage Surge,High,3073,4468
+EQ-7549,X-ray Machine,29.4,29.8,617,3457,0.24,0.69,3.91,0.26,81.5,Moderate,0.35,Voltage Surge,Medium,7489,4475
+EQ-5411,Ventilator,23.0,74.6,419,3175,0.4,0.72,2.33,1.21,94.3,Critical,0.8,Component Wear,High,14133,4264
+EQ-3661,Ventilator,21.9,20.3,326,3386,0.39,0.82,5.59,0.82,102.5,Moderate,0.5,Pressure Leak,Medium,5020,3915
+EQ-1876,X-ray Machine,25.1,78.6,308,3117,0.24,0.91,4.15,0.74,127.5,Moderate,0.4,Voltage Surge,Medium,14644,3312
+EQ-3111,X-ray Machine,30.0,56.3,546,2891,0.95,0.05,4.58,0.9,91.1,Moderate,0.35,Component Wear,Medium,6518,3077
+EQ-2766,MRI Scanner,25.8,54.5,400,1647,0.17,0.14,1.97,0.31,120.1,Moderate,0.45,Component Wear,Medium,5219,2125
+EQ-6380,X-ray Machine,26.5,31.1,371,4560,0.15,0.57,3.44,0.06,91.7,Moderate,0.35,Pressure Leak,Medium,6127,5600
+EQ-2593,CT Scanner,30.6,53.6,292,3769,0.89,0.4,4.84,1.31,109.9,Critical,0.9,Voltage Surge,High,5786,4292
+EQ-9197,Ventilator,38.0,65.0,35,4009,0.55,0.18,3.68,0.51,113.7,Critical,0.65,Overheating,High,10423,4700
+EQ-2503,X-ray Machine,39.4,34.6,76,891,0.54,0.65,5.24,0.4,114.9,Moderate,0.55,Voltage Surge,Medium,4416,1369
+EQ-3675,MRI Scanner,39.8,36.6,253,3674,0.03,0.57,3.51,1.09,129.4,Critical,0.7,Overheating,High,11571,4161
+EQ-2130,X-ray Machine,26.8,72.0,104,4287,0.93,0.87,1.28,1.32,101.9,Moderate,0.5,Pressure Leak,Medium,7454,4812
+EQ-3153,Ventilator,21.2,51.4,22,2209,0.88,0.51,2.85,0.3,127.9,Good,0.15,Sensor Drift,Low,9044,3379
+EQ-8850,Ventilator,35.4,42.6,173,1075,0.59,-0.02,1.18,0.9,128.7,Moderate,0.5,Sensor Drift,Medium,5866,1737
+EQ-9968,CT Scanner,19.6,66.3,295,988,0.28,0.08,0.04,0.11,88.1,Critical,0.6,Sensor Drift,High,9781,1910
+EQ-8264,MRI Scanner,30.5,78.2,466,3146,0.33,0.57,4.97,1.44,91.6,Critical,0.8,Voltage Surge,High,2617,3425
+EQ-8678,X-ray Machine,31.7,28.9,722,1804,0.68,0.91,2.52,0.79,103.5,Moderate,0.35,Pressure Leak,Medium,6334,2263
+EQ-4858,X-ray Machine,25.0,73.6,254,3188,0.4,0.54,4.9,0.91,123.7,Moderate,0.4,Pressure Leak,Medium,4140,4241
+EQ-7148,CT Scanner,33.4,56.0,144,3686,0.51,0.9,4.97,0.68,87.7,Critical,0.65,Overheating,High,1136,4008
+EQ-9586,X-ray Machine,37.9,21.7,647,4029,0.23,0.51,1.46,1.11,112.3,Critical,0.9,Component Wear,High,4813,4937
+EQ-8737,CT Scanner,26.5,42.8,559,2635,0.31,0.84,3.42,0.41,128.0,Moderate,0.45,Pressure Leak,Medium,1659,2742
+EQ-4469,Blood Analyzer,34.7,45.5,384,1824,0.38,0.24,2.72,0.59,122.9,Critical,0.8,Overheating,High,1262,2218
+EQ-5233,X-ray Machine,28.8,75.1,615,1941,0.47,0.55,0.91,1.11,90.1,Critical,0.8,Pressure Leak,High,9456,2450
+EQ-9926,Ventilator,21.8,36.6,441,2114,0.6,0.17,5.14,0.59,118.4,Moderate,0.5,Pressure Leak,Medium,7337,3301
+EQ-5112,Blood Analyzer,18.8,77.2,603,3612,0.24,0.56,3.61,1.4,110.0,Critical,0.8,Pressure Leak,High,4687,3973
+EQ-5679,CT Scanner,25.4,58.7,31,2978,0.39,0.92,3.77,0.53,101.3,Moderate,0.3,Overheating,Medium,11825,3242
+EQ-5447,MRI Scanner,28.3,77.3,462,1406,0.21,0.98,4.77,0.87,121.2,Critical,0.7,Voltage Surge,High,11044,2361
+EQ-2637,MRI Scanner,31.1,75.2,286,100,0.1,0.25,3.96,1.27,111.7,Moderate,0.5,Sensor Drift,Medium,14089,701
+EQ-9490,Ventilator,36.4,34.4,715,1497,0.72,0.69,6.05,0.99,119.0,Critical,0.85,Component Wear,High,13594,2255
+EQ-2840,Ventilator,30.8,58.4,571,274,0.06,0.07,3.12,1.31,116.5,Critical,0.9,Component Wear,High,2993,885
+EQ-6439,Ventilator,32.5,56.3,307,2467,0.17,0.56,0.76,0.86,97.7,Critical,0.7,Voltage Surge,High,10521,3604
+EQ-2395,CT Scanner,18.9,44.1,466,1741,0.35,0.17,2.27,0.8,123.1,Moderate,0.45,Pressure Leak,Medium,10825,2388
+EQ-7119,MRI Scanner,27.3,72.4,66,3267,0.11,0.56,4.61,0.51,101.5,Moderate,0.3,Voltage Surge,Medium,6905,3386
+EQ-1530,X-ray Machine,39.1,64.1,332,3621,0.27,1.01,3.03,0.81,104.1,Moderate,0.4,Overheating,Medium,10292,4380
+EQ-4155,CT Scanner,33.5,76.7,563,834,0.77,0.57,5.07,1.14,95.9,Critical,1.0,Component Wear,High,9768,2018
+EQ-2632,CT Scanner,33.3,41.0,280,4553,0.58,0.29,4.26,1.41,86.4,Critical,0.9,Overheating,High,9169,5212
+EQ-1891,MRI Scanner,35.4,44.0,291,929,0.99,0.57,5.06,0.59,93.1,Moderate,0.55,Component Wear,Medium,7842,2023
+EQ-6052,Ventilator,22.7,60.3,284,4419,0.43,0.66,3.41,0.4,120.1,Critical,0.7,Pressure Leak,High,11239,4632
+EQ-3431,Blood Analyzer,20.3,58.8,205,4819,0.72,0.61,5.22,0.86,82.1,Good,0.2,Component Wear,Low,4079,5701
+EQ-8938,CT Scanner,35.4,24.4,174,2427,0.46,0.61,0.02,1.04,109.8,Critical,0.6,Sensor Drift,High,5397,3193
+EQ-1779,Ventilator,29.6,75.3,681,3671,0.38,0.44,4.45,0.61,123.0,Critical,0.7,Pressure Leak,High,14527,4526
+EQ-7481,Ventilator,23.1,66.7,650,791,0.02,0.05,1.61,0.59,116.9,Critical,0.6,Voltage Surge,High,13665,1468
+EQ-6786,Blood Analyzer,18.6,66.6,123,2288,0.32,0.87,4.1,1.46,103.6,Good,0.25,Overheating,Low,10003,2855
+EQ-9349,X-ray Machine,22.9,30.6,192,4514,0.2,0.24,3.38,0.39,118.9,Good,0.05,Component Wear,Low,5244,5425
+EQ-7745,Blood Analyzer,21.0,28.7,148,113,0.01,0.42,0.21,0.29,106.2,Good,0.05,Sensor Drift,Low,11932,916
+EQ-9939,Blood Analyzer,29.9,30.8,11,1186,0.11,0.65,3.3,0.59,126.6,Good,0.15,Component Wear,Low,5904,2007
+EQ-2832,MRI Scanner,27.3,39.3,241,4978,0.92,0.12,3.22,1.22,127.8,Moderate,0.35,Voltage Surge,Medium,1684,5190
+EQ-8825,X-ray Machine,39.5,79.5,257,1951,0.5,0.3,1.23,1.19,125.1,Critical,1.0,Voltage Surge,High,14333,2845
+EQ-6090,Ventilator,24.3,36.5,700,3451,0.93,0.9,2.84,1.32,104.1,Moderate,0.55,Sensor Drift,Medium,3366,3742
+EQ-1644,Ventilator,30.9,34.9,249,1396,0.02,0.71,4.69,1.18,88.2,Critical,0.9,Component Wear,High,6285,1554
+EQ-3066,CT Scanner,39.4,79.1,37,4399,0.01,0.35,1.6,1.13,114.9,Critical,1.0,Overheating,High,11389,5388
+EQ-5754,Blood Analyzer,38.7,37.3,43,2772,0.64,0.85,3.58,0.88,102.4,Moderate,0.4,Overheating,Medium,8683,3876
+EQ-5381,Blood Analyzer,27.9,57.2,61,1248,0.51,0.4,2.97,1.02,98.0,Good,0.25,Overheating,Low,10887,1846
+EQ-1840,MRI Scanner,29.7,23.7,461,3591,0.28,0.82,0.59,0.95,109.2,Moderate,0.35,Component Wear,Medium,5284,4019
+EQ-2164,Ventilator,21.9,79.0,545,2917,0.38,0.62,5.74,0.48,86.9,Critical,0.75,Sensor Drift,High,7290,3854
+EQ-4335,MRI Scanner,28.1,23.0,365,2204,0.6,0.12,3.02,1.35,94.7,Moderate,0.55,Voltage Surge,Medium,7490,3125
+EQ-3413,Ventilator,19.8,30.7,548,1816,0.45,0.46,2.63,1.03,92.2,Moderate,0.55,Pressure Leak,Medium,9235,2522
+EQ-5399,Blood Analyzer,39.1,26.0,130,4472,0.38,0.39,5.76,0.37,109.0,Moderate,0.55,Voltage Surge,Medium,1715,4753
+EQ-7757,CT Scanner,35.8,47.7,368,653,1.03,0.02,1.03,1.31,124.0,Critical,1.0,Voltage Surge,High,10847,1802
+EQ-8509,X-ray Machine,33.1,20.9,700,956,0.64,0.8,3.03,0.95,102.3,Moderate,0.35,Voltage Surge,Medium,10851,1197
+EQ-3788,CT Scanner,30.7,55.6,673,3138,0.54,0.52,3.28,1.4,96.4,Critical,1.0,Overheating,High,10323,4109
+EQ-4054,MRI Scanner,22.7,32.8,548,893,0.78,0.1,4.34,0.4,127.3,Moderate,0.45,Voltage Surge,Medium,5016,1817
+EQ-2443,Blood Analyzer,23.7,30.0,221,987,0.52,0.82,4.3,1.02,90.3,Good,0.25,Voltage Surge,Low,1556,1389
+EQ-9713,Blood Analyzer,26.2,45.8,400,3680,0.56,0.11,2.9,1.12,93.1,Moderate,0.55,Overheating,Medium,14930,4536
+EQ-8941,X-ray Machine,34.1,32.2,227,2139,0.39,0.65,1.45,0.06,90.4,Good,0.05,Overheating,Low,12789,2904
+EQ-4529,Ventilator,35.5,46.9,66,3614,0.03,0.57,2.6,1.37,123.6,Critical,0.7,Sensor Drift,High,13326,4412
+EQ-1034,X-ray Machine,28.1,46.5,120,3054,0.58,0.15,0.93,0.47,123.9,Good,0.15,Pressure Leak,Low,13031,3636
+EQ-7899,MRI Scanner,20.9,36.7,584,4262,0.76,0.05,1.17,0.87,98.2,Moderate,0.35,Pressure Leak,Medium,4337,4468
+EQ-9580,MRI Scanner,26.1,56.7,319,1241,0.99,0.14,4.05,0.4,113.9,Moderate,0.35,Pressure Leak,Medium,9265,2197
+EQ-3716,Ventilator,27.0,55.3,275,3168,0.52,0.67,2.56,0.07,100.7,Moderate,0.35,Component Wear,Medium,11314,4006
+EQ-8291,Blood Analyzer,27.5,52.7,481,3133,0.52,0.93,1.42,0.56,97.2,Moderate,0.35,Pressure Leak,Medium,11532,3770
+EQ-6694,MRI Scanner,36.4,73.7,383,1660,0.77,0.88,4.13,0.16,98.2,Critical,1.0,Voltage Surge,High,14316,2821
+EQ-8505,X-ray Machine,18.1,71.2,360,2021,0.24,0.75,5.57,0.73,106.0,Moderate,0.45,Component Wear,Medium,3361,2572
+EQ-3389,Blood Analyzer,33.9,51.4,376,2564,0.7,0.85,2.48,0.55,95.7,Moderate,0.35,Voltage Surge,Medium,13338,2900
+EQ-3434,X-ray Machine,36.6,40.8,479,3413,0.72,0.76,3.86,0.73,102.4,Critical,0.7,Component Wear,High,7254,4509
+EQ-6927,MRI Scanner,26.5,73.5,479,2449,0.62,0.3,1.88,0.12,84.9,Critical,0.6,Pressure Leak,High,14734,3516
+EQ-8564,MRI Scanner,38.8,66.0,276,4382,0.48,0.82,3.92,0.67,87.7,Critical,0.65,Voltage Surge,High,2056,4802
+EQ-3537,CT Scanner,34.0,46.1,535,4170,0.84,0.72,4.54,1.26,94.1,Critical,0.9,Voltage Surge,High,7632,4380
+EQ-7519,Blood Analyzer,30.3,57.5,414,4552,0.83,0.58,0.72,1.15,94.5,Moderate,0.55,Overheating,Medium,3412,4849
+EQ-3594,MRI Scanner,27.7,75.0,324,1600,0.36,0.1,5.26,0.33,92.1,Critical,0.75,Overheating,High,8606,2750
+EQ-5324,CT Scanner,25.9,54.2,291,2487,0.25,0.1,1.02,0.78,100.0,Moderate,0.35,Pressure Leak,Medium,14167,3406
+EQ-9700,CT Scanner,32.2,30.3,284,3613,0.13,0.75,4.72,0.81,98.6,Critical,0.7,Component Wear,High,2854,4122
+EQ-3696,CT Scanner,39.8,62.4,728,4227,0.49,0.75,3.56,0.18,128.3,Critical,1.0,Component Wear,High,10127,5382
+EQ-7870,X-ray Machine,29.1,26.0,696,4915,-0.01,0.36,3.06,0.33,81.2,Moderate,0.35,Voltage Surge,Medium,8390,5540
+EQ-6410,MRI Scanner,29.8,30.5,686,3693,0.44,0.3,2.13,0.45,110.8,Moderate,0.35,Sensor Drift,Medium,6602,4177
+EQ-4818,X-ray Machine,39.1,37.9,489,2551,0.47,0.18,5.06,1.29,123.4,Critical,1.0,Sensor Drift,High,3867,3580
+EQ-2543,Blood Analyzer,27.8,59.5,289,2572,0.71,0.96,1.37,1.22,93.3,Good,0.25,Voltage Surge,Low,9855,3607
+EQ-8929,CT Scanner,38.9,72.2,194,2174,0.28,0.77,0.84,0.14,105.8,Critical,0.85,Overheating,High,2888,2572
+EQ-3774,Blood Analyzer,22.7,37.2,239,2584,0.17,0.4,4.35,0.26,110.4,Good,0.05,Component Wear,Low,4739,3612
+EQ-9305,Blood Analyzer,22.3,40.1,40,2249,0.8,0.43,5.84,0.21,118.2,Good,0.2,Voltage Surge,Low,14369,3366
+EQ-2931,X-ray Machine,19.0,46.4,129,4283,0.19,0.35,5.64,0.4,88.7,Good,0.2,Component Wear,Low,13706,5095
+EQ-6060,Ventilator,20.2,46.4,413,1583,0.54,0.23,0.44,0.09,106.6,Moderate,0.35,Pressure Leak,Medium,3878,2184
+EQ-9523,CT Scanner,18.1,74.7,470,4267,0.97,0.24,5.2,0.37,94.0,Critical,0.75,Voltage Surge,High,7201,5012
+EQ-9480,X-ray Machine,34.8,25.4,300,2409,0.85,0.49,0.1,0.8,103.7,Good,0.05,Component Wear,Low,11817,2684
+EQ-5887,MRI Scanner,27.4,50.1,4,3198,0.28,0.3,2.11,0.54,128.2,Good,0.15,Overheating,Low,4051,4248
+EQ-1244,Ventilator,26.0,66.6,180,353,0.64,0.2,0.3,1.36,113.7,Moderate,0.5,Sensor Drift,Medium,2484,550
+EQ-4754,Blood Analyzer,22.3,39.6,711,2627,0.17,0.47,0.94,0.38,108.9,Moderate,0.35,Pressure Leak,Medium,11166,2948
+EQ-7235,CT Scanner,22.6,68.4,557,2481,0.4,0.81,1.76,0.61,104.1,Critical,0.6,Component Wear,High,2071,3568
+EQ-7311,Ventilator,34.3,40.4,496,2452,0.83,0.17,3.52,1.31,107.9,Critical,0.9,Component Wear,High,8141,3398
+EQ-7655,X-ray Machine,20.7,79.1,545,3274,0.92,0.09,3.11,0.14,88.4,Critical,0.6,Overheating,High,7697,3770
+EQ-1672,X-ray Machine,29.3,66.3,567,128,0.24,0.73,5.05,0.58,123.7,Critical,0.6,Pressure Leak,High,1108,634
+EQ-4837,CT Scanner,33.8,25.2,181,3301,0.68,0.66,5.4,0.48,88.5,Moderate,0.55,Pressure Leak,Medium,3454,3778
+EQ-8806,Ventilator,34.5,43.7,567,4100,0.36,0.15,0.26,0.89,103.6,Critical,0.7,Voltage Surge,High,14633,4906
+EQ-5401,Ventilator,21.5,26.1,686,1789,0.02,0.67,1.44,1.02,114.9,Moderate,0.55,Component Wear,Medium,5018,2218
+EQ-5000,Ventilator,22.5,61.3,184,4009,0.05,0.17,0.98,1.47,100.2,Moderate,0.5,Sensor Drift,Medium,11650,4442
+EQ-3106,MRI Scanner,35.7,37.8,88,3877,0.6,0.77,1.83,0.5,87.5,Moderate,0.4,Pressure Leak,Medium,5330,4972
+EQ-7458,X-ray Machine,21.4,51.7,550,3633,0.88,0.9,3.81,0.44,109.5,Moderate,0.35,Overheating,Medium,14908,4048
+EQ-6190,Ventilator,27.6,65.7,422,1960,0.63,0.82,1.07,0.64,123.9,Critical,0.7,Pressure Leak,High,5264,2363
+EQ-9737,Blood Analyzer,18.7,77.1,58,1060,0.15,0.42,2.62,1.04,91.4,Moderate,0.5,Voltage Surge,Medium,1071,1316
+EQ-6088,CT Scanner,33.4,22.0,503,640,0.26,0.56,3.75,0.71,84.2,Critical,0.7,Overheating,High,5900,796
+EQ-8413,MRI Scanner,38.3,37.8,345,633,0.88,0.92,1.37,0.47,92.2,Critical,0.7,Pressure Leak,High,8316,952
+EQ-3637,MRI Scanner,18.8,30.4,225,2590,0.29,0.89,2.39,1.31,83.9,Good,0.25,Component Wear,Low,3943,3263
+EQ-5747,Ventilator,33.9,26.4,433,1658,0.55,0.88,4.23,0.37,114.4,Critical,0.7,Sensor Drift,High,6518,1939
+EQ-3895,CT Scanner,35.0,73.4,351,4579,-0.08,0.03,2.75,0.82,99.7,Critical,0.95,Voltage Surge,High,4088,5400
+EQ-1676,CT Scanner,24.4,25.2,215,293,0.1,-0.04,2.35,0.17,113.2,Good,0.05,Pressure Leak,Low,11993,934
+EQ-4000,MRI Scanner,21.1,53.7,255,1688,-0.03,0.99,4.62,1.39,112.9,Good,0.25,Overheating,Low,13546,2209
+EQ-4550,Blood Analyzer,35.9,21.7,626,3680,0.7,0.59,1.83,0.92,87.2,Critical,0.7,Pressure Leak,High,10335,4491
+EQ-9156,X-ray Machine,21.3,23.2,704,4122,0.53,0.81,2.55,1.31,92.6,Moderate,0.55,Sensor Drift,Medium,7502,5063
+EQ-6621,Ventilator,21.3,69.9,407,3714,0.65,0.78,0.78,0.17,89.2,Critical,0.6,Component Wear,High,12676,4848
+EQ-2634,Blood Analyzer,37.5,29.1,614,756,0.68,1.0,4.8,0.09,82.6,Critical,0.7,Overheating,High,8708,1137
+EQ-2452,Ventilator,23.0,25.8,464,3367,0.1,0.41,2.1,0.92,121.5,Moderate,0.45,Overheating,Medium,3844,4520
+EQ-2619,X-ray Machine,24.2,34.5,600,4441,0.13,0.25,5.06,0.15,97.0,Moderate,0.5,Pressure Leak,Medium,2508,5518
+EQ-4336,X-ray Machine,37.6,47.8,119,3730,0.99,0.81,3.26,0.51,103.9,Moderate,0.4,Component Wear,Medium,5656,4203
+EQ-4162,Ventilator,29.5,67.9,273,2116,0.88,0.71,2.34,0.31,117.9,Critical,0.6,Voltage Surge,High,4320,2929
+EQ-9289,MRI Scanner,25.5,34.1,467,4833,0.63,0.23,2.37,1.24,93.7,Moderate,0.55,Pressure Leak,Medium,10549,6028
+EQ-5618,Blood Analyzer,35.6,57.3,655,492,0.87,0.75,1.96,0.19,126.1,Critical,0.8,Overheating,High,14545,1572
+EQ-6664,Blood Analyzer,38.3,53.6,267,2669,0.84,0.29,4.24,0.91,81.4,Moderate,0.4,Component Wear,Medium,8943,3090
+EQ-6093,Ventilator,21.8,24.9,21,4145,0.81,-0.04,4.18,1.45,98.8,Good,0.25,Pressure Leak,Low,7610,4636
+EQ-7000,Blood Analyzer,34.7,33.5,688,2243,0.68,0.9,3.7,0.74,88.9,Critical,0.7,Pressure Leak,High,4826,3238
+EQ-1147,Ventilator,19.3,65.3,598,3873,0.97,0.76,1.92,0.91,82.6,Critical,0.6,Overheating,High,1401,4850
+EQ-3766,CT Scanner,28.1,39.6,290,4364,0.89,0.48,2.95,0.26,110.1,Critical,0.7,Sensor Drift,High,1966,4493
+EQ-5575,X-ray Machine,34.3,75.3,24,2534,0.47,0.18,0.42,1.33,101.7,Moderate,0.5,Overheating,Medium,11902,3150
+EQ-2553,CT Scanner,22.8,69.4,409,3768,0.91,0.6,3.99,0.79,116.5,Critical,0.6,Pressure Leak,High,3721,4403
+EQ-4321,MRI Scanner,29.8,78.6,104,2616,0.73,0.43,3.11,0.54,104.9,Moderate,0.3,Pressure Leak,Medium,14317,3199
+EQ-7681,X-ray Machine,37.2,35.6,451,1420,0.53,0.12,1.2,1.14,114.0,Critical,0.9,Voltage Surge,High,9874,2057
+EQ-7324,MRI Scanner,21.4,62.4,375,2906,0.47,0.24,0.29,0.57,82.3,Moderate,0.35,Overheating,Medium,7532,3926
+EQ-5900,X-ray Machine,30.7,58.1,691,4896,0.94,0.94,4.08,-0.01,105.9,Moderate,0.35,Overheating,Medium,5699,5816
+EQ-8464,Ventilator,23.6,62.2,145,1062,1.05,0.12,4.4,0.06,128.5,Moderate,0.4,Pressure Leak,Medium,12326,1701
+EQ-7661,X-ray Machine,22.6,43.1,652,3565,0.17,0.78,0.98,1.25,108.6,Moderate,0.55,Voltage Surge,Medium,13786,3765
+EQ-6165,MRI Scanner,29.8,79.9,606,590,0.16,0.97,2.48,0.96,119.5,Critical,0.6,Voltage Surge,High,6446,1436
+EQ-8742,CT Scanner,24.9,20.2,291,3676,0.03,0.63,0.49,1.18,112.5,Moderate,0.55,Component Wear,Medium,12729,4619
+EQ-8976,X-ray Machine,28.6,48.7,250,3904,0.0,0.92,5.68,1.31,86.0,Moderate,0.4,Overheating,Medium,12219,4986
+EQ-3778,Blood Analyzer,21.9,61.4,694,4615,0.53,0.65,4.44,0.03,96.5,Moderate,0.35,Overheating,Medium,8440,5189
+EQ-2392,X-ray Machine,39.9,61.0,613,1629,0.15,0.22,1.26,0.23,124.5,Critical,0.8,Voltage Surge,High,5377,2605
+EQ-9208,Blood Analyzer,36.9,59.4,446,4351,0.55,0.58,0.56,0.23,106.7,Critical,0.7,Voltage Surge,High,14587,5310
+EQ-6766,CT Scanner,24.8,74.7,184,1275,0.56,0.01,0.11,0.02,98.7,Moderate,0.3,Component Wear,Medium,10254,1741
+EQ-5492,X-ray Machine,25.6,46.8,191,2694,0.95,0.18,5.5,0.08,128.8,Moderate,0.3,Voltage Surge,Medium,2207,3302
+EQ-4459,X-ray Machine,38.9,32.7,173,2898,0.31,0.87,2.7,0.54,84.8,Moderate,0.4,Component Wear,Medium,2843,3246
+EQ-8887,Ventilator,20.2,43.6,38,2668,0.91,0.05,3.2,1.47,105.1,Good,0.25,Overheating,Low,12344,3248
+EQ-6384,Ventilator,36.4,40.3,236,1767,0.35,0.53,5.31,0.16,115.8,Critical,0.85,Voltage Surge,High,7088,2029
+EQ-2356,Ventilator,27.7,53.1,3,1915,0.74,0.16,4.76,1.4,122.0,Moderate,0.35,Pressure Leak,Medium,4250,2979
+EQ-6782,X-ray Machine,24.7,67.8,686,860,0.88,0.89,4.48,0.3,107.7,Moderate,0.35,Sensor Drift,Medium,10486,1698
+EQ-4592,Blood Analyzer,18.6,32.8,234,1616,0.35,0.96,1.05,1.14,100.2,Good,0.25,Pressure Leak,Low,11656,2207
+EQ-7029,CT Scanner,26.9,28.4,166,672,0.02,0.25,3.86,1.2,123.3,Moderate,0.35,Pressure Leak,Medium,14608,1149
+EQ-2959,MRI Scanner,35.4,53.7,347,924,0.91,0.07,3.2,0.89,118.6,Critical,0.7,Component Wear,High,9867,1455
+EQ-7331,CT Scanner,28.7,62.2,430,4522,0.72,0.44,4.97,1.46,85.5,Critical,1.0,Pressure Leak,High,2741,5032
+EQ-2796,Blood Analyzer,28.3,70.6,89,2999,0.78,0.36,5.22,0.8,119.1,Moderate,0.45,Sensor Drift,Medium,2947,3402
+EQ-3011,Ventilator,29.4,57.8,132,4206,0.27,0.56,0.45,0.35,92.7,Good,0.05,Pressure Leak,Low,6443,4595
+EQ-5969,MRI Scanner,39.4,38.3,30,1083,0.5,0.95,0.39,0.19,107.4,Moderate,0.4,Voltage Surge,Medium,14937,2102
+EQ-6961,CT Scanner,25.4,60.2,512,621,0.96,0.71,5.91,0.15,111.3,Critical,0.75,Pressure Leak,High,11990,952
+EQ-9239,MRI Scanner,19.1,50.7,485,2312,0.37,0.74,1.36,0.21,92.1,Moderate,0.35,Component Wear,Medium,8978,2953
+EQ-1023,MRI Scanner,40.0,69.4,702,3821,0.16,0.31,0.69,1.33,94.3,Critical,1.0,Voltage Surge,High,8278,4472
+EQ-7437,CT Scanner,25.0,21.1,277,1557,0.42,0.61,0.39,0.72,82.7,Moderate,0.35,Overheating,Medium,14833,2268
+EQ-4904,X-ray Machine,19.1,51.2,230,1696,0.04,0.59,5.14,0.88,124.4,Moderate,0.3,Component Wear,Medium,14812,1922
+EQ-9001,Ventilator,20.8,48.1,507,4313,0.17,-0.03,5.2,0.38,102.3,Moderate,0.5,Sensor Drift,Medium,12528,5092
+EQ-8606,X-ray Machine,19.8,55.8,458,3478,0.18,0.1,3.08,0.9,109.7,Moderate,0.35,Component Wear,Medium,11201,3719
+EQ-9477,Ventilator,26.2,39.5,342,3874,0.73,0.92,3.1,0.41,81.4,Moderate,0.35,Sensor Drift,Medium,1383,4987
+EQ-1320,CT Scanner,30.1,41.6,11,3568,0.15,0.7,1.18,1.15,113.9,Critical,0.6,Component Wear,High,12083,3722
+EQ-8726,X-ray Machine,39.4,51.4,243,4404,0.13,0.11,3.81,0.07,127.6,Moderate,0.5,Component Wear,Medium,1481,5455
+EQ-8597,Ventilator,20.3,53.3,602,4048,0.88,0.94,3.46,1.16,93.2,Moderate,0.55,Pressure Leak,Medium,3608,4552
+EQ-7011,Blood Analyzer,36.4,24.1,510,2232,1.01,0.23,2.16,1.1,109.3,Critical,0.9,Component Wear,High,8129,2781
+EQ-1685,Ventilator,34.2,38.7,465,125,0.21,0.71,3.75,0.85,89.0,Critical,0.7,Sensor Drift,High,1135,469
+EQ-5838,MRI Scanner,30.9,72.8,636,2688,0.76,0.83,2.81,0.81,108.4,Critical,0.6,Component Wear,High,9879,3503
+EQ-5690,MRI Scanner,30.9,26.4,353,2358,0.57,0.63,3.98,0.41,103.9,Moderate,0.35,Sensor Drift,Medium,12453,3022
+EQ-8755,CT Scanner,36.9,33.4,184,4675,0.46,0.33,0.44,0.6,86.0,Moderate,0.4,Voltage Surge,Medium,11344,5270
+EQ-1520,Blood Analyzer,23.6,35.0,293,337,0.3,0.17,0.96,0.79,124.3,Good,0.15,Overheating,Low,9046,982
+EQ-3974,Ventilator,35.6,47.2,343,3046,1.01,0.41,5.92,0.38,111.3,Critical,0.85,Overheating,High,14634,3199
+EQ-8957,CT Scanner,31.8,56.1,565,177,1.07,0.4,2.31,0.21,109.2,Critical,0.95,Component Wear,High,4802,1035
+EQ-8290,Ventilator,22.1,41.7,284,1197,0.53,0.75,1.02,0.33,120.1,Moderate,0.45,Pressure Leak,Medium,1730,1376
+EQ-2444,X-ray Machine,24.3,58.7,428,740,0.27,0.01,2.72,0.38,120.8,Moderate,0.45,Sensor Drift,Medium,8003,1407
+EQ-2933,MRI Scanner,22.2,66.4,417,4461,0.35,0.21,2.55,0.15,103.3,Critical,0.6,Overheating,High,3016,4699
+EQ-2226,X-ray Machine,18.9,79.0,672,820,0.87,0.1,1.36,0.07,98.4,Critical,0.6,Overheating,High,14132,961
+EQ-6986,X-ray Machine,32.5,77.9,391,4639,0.65,0.83,0.08,1.3,98.0,Critical,0.8,Voltage Surge,High,4047,4897
+EQ-9992,CT Scanner,22.3,40.0,540,992,0.42,0.35,3.87,0.64,97.9,Moderate,0.35,Voltage Surge,Medium,9805,1092
+EQ-7694,Blood Analyzer,20.0,53.4,322,526,0.13,0.01,5.9,0.59,95.2,Good,0.2,Component Wear,Low,14406,886
+EQ-9994,Blood Analyzer,22.3,27.1,105,4735,0.72,0.05,5.2,1.31,115.7,Moderate,0.4,Component Wear,Medium,1643,5162
+EQ-5945,X-ray Machine,34.3,68.1,97,3410,0.96,0.45,0.22,0.7,84.4,Good,0.05,Overheating,Low,7882,3711
+EQ-7996,MRI Scanner,35.8,79.8,704,3462,0.11,0.24,0.64,0.35,112.5,Critical,0.95,Pressure Leak,High,8664,4580
+EQ-8185,Ventilator,20.0,69.1,527,3987,0.44,0.14,1.91,0.33,119.8,Critical,0.6,Voltage Surge,High,8754,4340
+EQ-6471,X-ray Machine,34.9,20.9,52,2159,0.1,0.86,1.41,0.03,112.9,Good,0.05,Sensor Drift,Low,13621,3314
+EQ-4957,CT Scanner,22.1,51.3,697,1273,0.29,0.36,3.47,0.08,115.6,Moderate,0.35,Sensor Drift,Medium,7415,1935
+EQ-9668,Blood Analyzer,30.2,46.0,607,2730,0.92,0.79,1.97,0.44,91.1,Moderate,0.35,Overheating,Medium,14260,3130
+EQ-8857,CT Scanner,34.8,52.4,491,2835,0.22,0.67,2.15,1.47,100.4,Critical,0.9,Sensor Drift,High,3697,2987
+EQ-9534,Blood Analyzer,19.9,47.2,730,1833,0.76,0.31,5.5,0.22,110.8,Moderate,0.5,Sensor Drift,Medium,12035,2814
+EQ-8911,Ventilator,39.2,30.9,558,1586,0.37,0.3,3.04,0.79,111.1,Critical,0.7,Component Wear,High,4498,2631
+EQ-5154,MRI Scanner,38.2,46.1,440,373,1.04,0.54,5.98,1.13,87.2,Critical,1.0,Component Wear,High,11349,1495
+EQ-7590,Ventilator,20.0,65.4,230,4524,0.31,0.42,2.62,0.11,111.4,Critical,0.6,Overheating,High,8426,5675
+EQ-4551,Blood Analyzer,31.1,47.6,702,1602,0.37,0.05,3.64,0.35,122.1,Moderate,0.45,Pressure Leak,Medium,11090,2790
+EQ-6560,Ventilator,18.2,45.6,323,3847,0.95,0.1,2.41,1.5,120.3,Critical,0.65,Component Wear,High,6207,4842
+EQ-6277,Ventilator,18.0,27.7,705,2187,0.14,0.26,2.67,1.05,80.4,Moderate,0.55,Overheating,Medium,2492,3289
+EQ-3139,Blood Analyzer,22.9,33.7,69,783,0.54,0.56,5.38,0.19,100.6,Good,0.2,Component Wear,Low,2099,1462
+EQ-4225,X-ray Machine,32.4,65.9,655,198,0.49,0.29,1.23,1.2,87.9,Moderate,0.55,Sensor Drift,Medium,6564,705
+EQ-8024,Blood Analyzer,25.4,21.8,477,2985,0.24,0.85,0.55,1.38,99.4,Moderate,0.55,Component Wear,Medium,7735,4010
+EQ-3943,CT Scanner,35.7,43.5,237,2163,0.81,0.67,4.27,0.58,105.5,Moderate,0.4,Sensor Drift,Medium,1551,2726
+EQ-4978,X-ray Machine,30.3,63.4,607,3606,0.93,0.57,4.85,0.41,123.8,Moderate,0.45,Pressure Leak,Medium,9320,4118
+EQ-2718,Blood Analyzer,24.1,76.7,102,2415,0.71,0.32,2.6,0.56,125.0,Moderate,0.4,Pressure Leak,Medium,13240,3140
+EQ-4938,CT Scanner,23.7,35.7,67,1702,0.86,0.35,2.79,1.27,84.5,Good,0.25,Sensor Drift,Low,9367,2644
+EQ-7636,CT Scanner,18.7,27.6,336,1521,0.93,0.75,5.39,1.1,104.9,Critical,0.7,Pressure Leak,High,6430,2117
+EQ-7754,MRI Scanner,27.7,25.2,435,1147,0.7,0.49,0.64,0.59,87.2,Moderate,0.35,Voltage Surge,Medium,4675,2302
+EQ-1429,MRI Scanner,30.0,29.4,628,2779,0.63,1.0,0.62,1.35,93.7,Moderate,0.55,Voltage Surge,Medium,4651,3416
+EQ-8053,Ventilator,34.1,56.2,664,2536,0.84,0.71,5.94,1.55,109.6,Critical,1.0,Sensor Drift,High,12823,3706
+EQ-9648,CT Scanner,36.3,25.8,690,957,0.45,0.62,2.04,0.97,99.9,Critical,0.7,Voltage Surge,High,4574,1750
+EQ-7084,MRI Scanner,21.2,77.8,546,448,0.43,0.87,4.63,0.18,82.4,Critical,0.6,Sensor Drift,High,1412,638
+EQ-3772,X-ray Machine,21.8,46.1,356,4102,1.03,0.92,3.84,1.34,116.4,Good,0.25,Overheating,Low,2608,4279
+EQ-3127,MRI Scanner,20.7,35.6,428,1837,0.3,0.72,4.43,1.33,81.5,Moderate,0.55,Voltage Surge,Medium,1655,2797
+EQ-3964,Blood Analyzer,20.9,55.0,371,2113,0.32,0.05,3.98,0.38,86.3,Moderate,0.35,Sensor Drift,Medium,4684,2831
+EQ-7193,MRI Scanner,34.5,32.4,82,4980,0.72,0.69,3.29,0.62,80.8,Moderate,0.4,Overheating,Medium,12044,6151
+EQ-5409,X-ray Machine,28.0,75.7,10,1756,0.61,0.74,1.51,0.6,96.3,Moderate,0.3,Sensor Drift,Medium,4064,2543
+EQ-2283,CT Scanner,27.9,63.1,276,2003,-0.04,0.05,4.05,1.29,117.8,Critical,0.8,Overheating,High,3610,2921
+EQ-6831,Ventilator,30.9,46.9,631,3035,0.22,0.75,0.75,0.43,95.1,Critical,0.7,Voltage Surge,High,9617,3213
+EQ-4090,MRI Scanner,26.1,78.4,17,1887,0.6,0.69,3.62,0.22,119.0,Moderate,0.3,Pressure Leak,Medium,12340,2861
+EQ-9781,MRI Scanner,32.1,47.7,365,3386,0.88,0.6,4.18,1.03,104.2,Critical,0.9,Overheating,High,3183,4168
+EQ-1000,Ventilator,30.4,57.7,590,4542,0.6,-0.03,1.33,1.5,105.7,Critical,0.9,Sensor Drift,High,12803,5017
+EQ-7195,MRI Scanner,27.9,20.7,487,3710,0.47,0.26,0.96,1.35,84.4,Moderate,0.55,Component Wear,Medium,13311,4162
+EQ-9892,CT Scanner,20.7,62.5,625,4903,0.92,0.55,0.42,0.29,105.6,Critical,0.6,Sensor Drift,High,4688,5498
+EQ-2431,Blood Analyzer,22.8,53.7,174,2318,0.92,0.81,5.1,0.42,91.1,Good,0.2,Voltage Surge,Low,2837,2914
+EQ-2969,CT Scanner,29.9,67.2,562,2934,0.29,0.19,0.21,0.53,115.4,Critical,0.95,Component Wear,High,12038,3434
+EQ-3274,X-ray Machine,36.5,69.4,466,1148,0.95,0.19,0.11,0.03,105.1,Critical,0.7,Component Wear,High,10893,1562
+EQ-8998,Blood Analyzer,22.3,48.6,22,443,0.14,0.19,0.52,0.17,108.6,Good,0.05,Pressure Leak,Low,8465,1124
+EQ-3607,Ventilator,20.5,53.2,581,2883,0.31,0.41,2.07,0.9,103.1,Moderate,0.35,Sensor Drift,Medium,7185,3065
+EQ-5667,Blood Analyzer,24.9,62.9,186,2866,0.9,0.83,5.15,1.23,80.6,Moderate,0.4,Pressure Leak,Medium,4201,3452
+EQ-6600,Ventilator,19.2,26.8,228,3228,0.82,0.94,5.26,1.26,129.5,Critical,0.8,Pressure Leak,High,6111,3570
+EQ-4653,X-ray Machine,36.0,35.6,694,1564,0.78,0.19,1.44,0.45,97.8,Critical,0.7,Voltage Surge,High,11663,1758
+EQ-4037,Ventilator,29.3,66.3,528,574,-0.06,0.31,3.74,1.11,95.6,Critical,0.8,Pressure Leak,High,9780,1730
+EQ-1318,MRI Scanner,34.7,22.3,574,1922,0.91,0.04,1.56,1.52,107.8,Critical,0.9,Voltage Surge,High,13199,2617
+EQ-1047,Blood Analyzer,36.8,62.8,325,2879,0.04,0.19,2.58,0.92,92.7,Moderate,0.4,Voltage Surge,Medium,7529,3716
+EQ-5029,MRI Scanner,36.5,61.3,12,2132,0.23,0.84,1.23,0.26,126.5,Moderate,0.5,Pressure Leak,Medium,3159,2583
+EQ-4387,CT Scanner,31.5,66.8,655,338,0.19,0.72,3.58,1.06,89.0,Critical,1.0,Overheating,High,5309,574
+EQ-7324,Ventilator,34.4,59.2,293,2160,0.08,0.99,3.66,0.3,100.3,Critical,0.7,Overheating,High,2880,3085
+EQ-9900,Blood Analyzer,24.6,57.8,205,4686,0.45,0.45,2.19,0.39,108.5,Good,0.05,Component Wear,Low,9165,5880
+EQ-4524,CT Scanner,22.4,40.6,552,3228,0.63,0.7,2.79,0.95,110.1,Moderate,0.35,Component Wear,Medium,5080,4083
+EQ-9509,X-ray Machine,38.1,41.8,243,2459,0.75,0.32,1.46,0.45,119.3,Moderate,0.4,Pressure Leak,Medium,1436,2636
+EQ-9051,X-ray Machine,19.0,22.8,279,4277,0.48,0.93,2.32,1.32,98.0,Good,0.25,Voltage Surge,Low,12085,4386
+EQ-5947,Ventilator,29.5,37.7,203,2201,0.94,0.28,2.89,1.44,118.9,Moderate,0.55,Pressure Leak,Medium,7075,2794
+EQ-6494,MRI Scanner,19.2,58.7,642,3151,0.77,-0.05,5.36,0.34,124.1,Critical,0.6,Component Wear,High,10412,4030
+EQ-3274,Blood Analyzer,33.3,22.9,25,3665,0.67,0.68,1.58,0.93,112.9,Good,0.05,Overheating,Low,6096,4168
+EQ-2350,Blood Analyzer,18.9,46.0,474,4403,0.21,0.29,5.93,0.11,87.1,Moderate,0.5,Pressure Leak,Medium,2656,4519
+EQ-5594,CT Scanner,24.3,68.8,331,2139,0.03,0.65,3.08,0.41,120.7,Critical,0.7,Pressure Leak,High,14585,2827
+EQ-2133,Blood Analyzer,32.4,48.8,655,3404,0.44,0.98,2.07,1.1,90.1,Moderate,0.55,Overheating,Medium,1859,3950
+EQ-5855,Ventilator,22.5,43.8,380,4521,0.33,0.61,0.69,0.78,91.8,Moderate,0.35,Sensor Drift,Medium,12657,4888
+EQ-6716,Ventilator,22.0,71.5,415,1742,0.79,0.21,2.17,0.27,97.3,Critical,0.6,Component Wear,High,9716,2216
+EQ-3579,Blood Analyzer,29.2,57.2,13,4607,0.71,0.68,2.29,0.47,117.8,Good,0.05,Pressure Leak,Low,1769,5541
+EQ-2094,MRI Scanner,32.2,67.7,273,672,0.48,0.81,5.57,1.19,81.8,Critical,1.0,Pressure Leak,High,10213,1028
+EQ-3952,CT Scanner,18.1,32.2,295,2677,0.11,0.24,3.07,1.27,126.9,Critical,0.65,Voltage Surge,High,7778,3482
+EQ-7790,X-ray Machine,32.4,25.7,152,1208,0.24,0.45,2.84,0.03,92.3,Good,0.05,Overheating,Low,3937,1815
+EQ-4319,Ventilator,28.9,25.8,95,2562,0.32,0.33,2.03,0.2,115.3,Good,0.05,Component Wear,Low,1115,3329
+EQ-5515,X-ray Machine,18.9,55.0,725,359,0.11,0.01,0.42,1.08,80.3,Moderate,0.55,Overheating,Medium,5385,1456
+EQ-6384,CT Scanner,20.9,54.9,406,3659,0.3,0.44,4.9,0.29,123.2,Moderate,0.45,Sensor Drift,Medium,14254,4358
+EQ-7231,Ventilator,35.4,52.4,534,4656,0.97,0.24,3.16,0.69,117.8,Critical,0.7,Component Wear,High,10174,4950
+EQ-5037,X-ray Machine,29.1,54.7,455,269,0.39,0.68,4.43,0.95,112.5,Moderate,0.35,Pressure Leak,Medium,13117,938
+EQ-2014,MRI Scanner,21.6,53.1,722,1579,0.51,0.19,0.31,1.23,88.3,Moderate,0.55,Component Wear,Medium,6613,1679
+EQ-2069,CT Scanner,30.9,20.2,569,2633,0.9,0.5,4.88,0.96,100.0,Critical,0.7,Voltage Surge,High,14910,3252
+EQ-6864,Ventilator,36.7,61.6,90,426,0.16,0.71,2.11,0.04,110.6,Critical,0.65,Pressure Leak,High,12184,1500
+EQ-2666,Blood Analyzer,39.5,74.4,567,4141,0.12,0.87,2.75,0.31,91.9,Critical,1.0,Voltage Surge,High,14263,5012
+EQ-2441,MRI Scanner,30.5,56.0,436,276,0.81,0.06,0.93,1.07,89.9,Moderate,0.55,Sensor Drift,Medium,6383,457
+EQ-5906,MRI Scanner,37.3,48.0,491,3359,0.61,0.71,1.67,0.21,117.2,Critical,0.7,Sensor Drift,High,11462,4422
+EQ-3049,CT Scanner,25.3,64.7,209,1133,0.51,0.41,3.81,1.17,92.2,Moderate,0.5,Pressure Leak,Medium,11427,2251
+EQ-3670,Blood Analyzer,36.1,71.2,142,1654,0.91,0.6,2.65,0.48,99.7,Critical,0.85,Overheating,High,2546,2136
+EQ-5677,X-ray Machine,33.6,63.5,388,4594,0.5,0.71,1.34,1.21,126.3,Critical,0.65,Overheating,High,9677,5208
+EQ-9218,CT Scanner,34.7,29.4,676,1847,0.66,0.28,2.89,0.23,117.1,Critical,0.7,Sensor Drift,High,2906,2079
+EQ-2668,X-ray Machine,23.1,68.9,173,3998,0.49,0.96,0.74,1.39,91.7,Good,0.25,Voltage Surge,Low,4496,4734
+EQ-1135,X-ray Machine,28.7,50.4,585,858,0.26,0.06,4.84,0.93,111.6,Moderate,0.35,Voltage Surge,Medium,14997,1213
+EQ-7346,Blood Analyzer,31.0,70.0,184,4170,0.83,0.82,3.48,0.06,104.3,Moderate,0.3,Component Wear,Medium,2679,4583
+EQ-7653,MRI Scanner,31.3,24.9,5,3680,0.95,0.73,3.15,0.74,127.7,Good,0.15,Component Wear,Low,8923,4089
+EQ-5812,Ventilator,37.5,29.1,677,4960,0.54,0.57,0.04,0.02,88.3,Critical,0.7,Pressure Leak,High,9181,5151
+EQ-1322,CT Scanner,21.1,25.3,40,292,0.32,0.73,1.86,1.07,83.3,Good,0.25,Component Wear,Low,12446,1228
+EQ-5760,X-ray Machine,27.1,37.0,642,1173,0.16,0.8,1.46,1.03,117.4,Moderate,0.55,Overheating,Medium,10764,1351
+EQ-3980,X-ray Machine,29.1,50.1,74,864,0.42,0.8,4.53,1.36,113.9,Good,0.25,Voltage Surge,Low,12459,1798
+EQ-9424,CT Scanner,21.8,49.0,137,1381,0.68,0.82,4.69,1.38,116.6,Good,0.25,Overheating,Low,8837,2563
+EQ-9041,Blood Analyzer,24.2,50.1,20,2715,0.56,0.77,5.29,1.44,110.5,Moderate,0.4,Pressure Leak,Medium,2313,2994
+EQ-7060,Blood Analyzer,19.8,66.9,625,4773,0.82,0.85,0.22,0.87,108.3,Moderate,0.35,Sensor Drift,Medium,6925,5146
+EQ-7481,X-ray Machine,35.2,60.0,471,3061,0.9,0.29,2.51,1.0,95.0,Critical,0.7,Pressure Leak,High,8080,3182
+EQ-8117,Ventilator,32.2,59.8,390,1509,0.56,0.57,5.45,0.92,117.7,Critical,0.85,Component Wear,High,3454,2138
+EQ-5894,CT Scanner,32.5,23.7,3,3422,0.02,0.93,5.7,0.64,82.4,Moderate,0.55,Pressure Leak,Medium,10894,3725
+EQ-5354,Blood Analyzer,22.8,22.6,97,2277,0.68,0.48,5.32,0.11,126.9,Moderate,0.3,Overheating,Medium,3099,2545
+EQ-9719,Ventilator,35.0,66.4,565,3832,0.29,0.72,1.58,0.11,118.5,Critical,0.95,Component Wear,High,11615,4766
+EQ-6690,CT Scanner,35.7,27.8,322,2934,0.79,0.82,0.59,1.02,81.2,Critical,0.9,Component Wear,High,12186,3360
+EQ-4113,MRI Scanner,37.5,36.3,254,2939,-0.02,0.09,3.49,0.75,122.2,Moderate,0.5,Voltage Surge,Medium,4266,3152
+EQ-4718,X-ray Machine,28.9,28.9,526,3009,0.37,0.31,2.39,0.5,118.5,Moderate,0.35,Voltage Surge,Medium,13041,3183
+EQ-9530,MRI Scanner,34.5,51.3,226,3991,0.04,0.93,2.77,0.55,97.1,Moderate,0.4,Pressure Leak,Medium,9774,4354
+EQ-2052,Blood Analyzer,28.6,32.2,225,4425,0.13,0.82,0.11,0.71,99.3,Good,0.05,Voltage Surge,Low,6086,4544
+EQ-7841,CT Scanner,21.8,35.9,454,1994,0.51,0.6,1.06,1.5,80.1,Moderate,0.55,Component Wear,Medium,8788,2585
+EQ-7768,Ventilator,38.9,36.5,411,4647,0.85,0.12,0.94,1.21,121.3,Critical,1.0,Component Wear,High,5121,5197
+EQ-3298,MRI Scanner,22.4,59.7,247,1967,0.26,0.58,1.21,1.1,114.5,Good,0.25,Sensor Drift,Low,9531,2731
+EQ-5854,Ventilator,32.9,41.8,360,1754,0.26,0.22,1.52,1.27,97.4,Critical,0.9,Pressure Leak,High,10199,2044
+EQ-3819,X-ray Machine,21.3,77.0,603,3962,0.15,0.98,4.19,0.65,106.4,Critical,0.6,Component Wear,High,7642,5033
+EQ-2060,CT Scanner,33.3,29.8,398,4773,0.65,0.5,3.18,0.86,93.6,Critical,0.7,Sensor Drift,High,14932,5716
+EQ-8481,Blood Analyzer,35.1,79.1,6,2648,0.58,-0.01,1.6,0.13,92.0,Critical,0.65,Overheating,High,4554,2974
+EQ-8203,X-ray Machine,24.5,48.7,657,649,0.47,0.4,3.66,0.77,94.3,Moderate,0.35,Sensor Drift,Medium,12185,838
+EQ-3057,Blood Analyzer,39.4,36.8,623,2900,0.6,0.75,1.15,0.39,88.1,Critical,0.7,Voltage Surge,High,7042,3946
+EQ-4697,X-ray Machine,36.8,37.8,715,679,-0.08,0.85,5.18,0.74,84.3,Critical,0.85,Sensor Drift,High,3187,1666
+EQ-5730,Ventilator,30.6,57.7,285,1859,0.72,0.76,5.2,0.34,86.3,Critical,0.85,Pressure Leak,High,11705,2716
+EQ-7069,X-ray Machine,19.4,46.2,727,3249,0.94,1.03,1.77,1.02,97.8,Moderate,0.55,Voltage Surge,Medium,2513,4258
+EQ-9373,X-ray Machine,18.3,79.6,550,2265,0.33,0.22,1.06,0.23,86.7,Critical,0.6,Overheating,High,13667,3085
+EQ-2170,CT Scanner,28.9,39.1,412,4019,0.31,0.67,2.86,1.28,117.5,Critical,0.9,Component Wear,High,2898,4421
+EQ-2908,Ventilator,39.4,58.0,529,2944,0.03,0.03,6.03,1.15,98.8,Critical,1.0,Voltage Surge,High,9650,3495
+EQ-5464,MRI Scanner,37.0,60.5,473,206,0.18,0.11,2.45,1.38,97.0,Critical,0.9,Component Wear,High,1601,1333
+EQ-6904,X-ray Machine,23.2,51.0,525,4917,0.13,0.96,1.77,0.47,109.9,Moderate,0.35,Overheating,Medium,3121,5018
+EQ-5870,MRI Scanner,26.2,55.6,343,4820,0.09,0.18,4.51,0.36,127.5,Moderate,0.45,Overheating,Medium,14798,5795
+EQ-7073,CT Scanner,29.9,66.7,464,2133,0.96,0.76,3.7,0.45,111.1,Critical,0.95,Pressure Leak,High,7258,3147
+EQ-5822,X-ray Machine,24.5,23.9,596,775,0.4,0.32,2.84,0.34,101.0,Moderate,0.35,Sensor Drift,Medium,2054,1933
+EQ-8029,Blood Analyzer,23.5,21.8,594,4930,0.19,0.67,0.85,1.42,85.5,Moderate,0.55,Pressure Leak,Medium,5064,5476
+EQ-2726,MRI Scanner,37.3,54.4,142,1498,0.97,0.45,1.54,0.39,99.5,Moderate,0.4,Overheating,Medium,2783,2529
+EQ-4213,CT Scanner,19.0,36.6,83,338,0.38,0.79,1.93,1.23,81.8,Good,0.25,Component Wear,Low,13402,1001
+EQ-8843,X-ray Machine,37.7,36.3,219,3202,0.18,0.77,5.19,0.43,124.2,Critical,0.65,Pressure Leak,High,10716,3492
+EQ-2342,Ventilator,19.6,72.1,215,4208,0.72,0.56,3.31,0.16,91.5,Critical,0.6,Component Wear,High,4943,4916
+EQ-5425,MRI Scanner,22.8,48.2,152,1003,0.87,0.72,3.56,0.3,112.9,Good,0.05,Overheating,Low,5274,1456
+EQ-2735,Blood Analyzer,35.7,53.1,289,451,0.12,0.85,5.74,0.24,97.3,Moderate,0.55,Sensor Drift,Medium,10940,1026
+EQ-2583,MRI Scanner,21.0,65.1,324,3840,0.67,0.95,3.29,1.01,94.7,Critical,0.8,Sensor Drift,High,1322,4513
+EQ-2282,MRI Scanner,24.6,38.4,5,366,0.14,0.78,5.13,1.02,86.9,Moderate,0.4,Pressure Leak,Medium,2047,1092
+EQ-1901,Ventilator,29.5,32.1,571,2957,0.16,0.26,3.48,1.49,108.5,Moderate,0.55,Sensor Drift,Medium,12382,3784
+EQ-1054,X-ray Machine,25.0,45.1,575,3006,0.8,0.33,1.06,0.63,92.9,Moderate,0.35,Overheating,Medium,11642,3998
+EQ-1856,Ventilator,29.3,20.1,9,3414,0.52,1.03,4.34,1.29,82.9,Good,0.25,Pressure Leak,Low,3769,3536
+EQ-2225,Ventilator,38.4,72.2,430,2830,0.14,0.76,3.36,0.48,112.4,Critical,1.0,Sensor Drift,High,5510,3883
+EQ-6875,MRI Scanner,24.8,55.2,659,2311,0.43,0.08,0.99,0.85,98.6,Moderate,0.35,Sensor Drift,Medium,5323,3282
+EQ-7011,Blood Analyzer,35.6,28.4,656,1110,0.67,0.83,4.38,0.65,115.6,Critical,0.7,Component Wear,High,9611,1965
+EQ-3308,Blood Analyzer,36.6,60.6,460,4973,0.13,0.24,0.39,1.38,126.7,Critical,1.0,Voltage Surge,High,2237,6030
+EQ-8447,X-ray Machine,34.8,80.0,676,4473,1.03,0.23,1.83,0.58,96.7,Critical,0.6,Sensor Drift,High,1921,4680
+EQ-1766,X-ray Machine,30.0,22.7,500,4971,0.98,0.2,2.16,0.19,126.5,Moderate,0.45,Sensor Drift,Medium,5123,5657
+EQ-7872,Blood Analyzer,19.0,26.4,291,3110,0.61,0.41,3.8,1.48,96.6,Good,0.25,Sensor Drift,Low,8869,3988
+EQ-3603,X-ray Machine,30.9,68.9,219,3178,0.53,0.51,2.23,0.82,113.3,Good,0.05,Overheating,Low,12720,4342
+EQ-5661,Blood Analyzer,40.0,25.8,147,4356,0.77,0.07,1.3,0.24,118.9,Moderate,0.4,Component Wear,Medium,4386,4673
+EQ-1279,CT Scanner,20.3,56.5,582,957,0.65,0.47,2.08,0.19,87.1,Critical,0.6,Voltage Surge,High,7993,1832
+EQ-2374,MRI Scanner,39.4,68.2,564,4665,1.0,0.38,1.04,1.3,115.7,Critical,1.0,Voltage Surge,High,13418,5551
+EQ-4689,X-ray Machine,24.0,33.4,360,287,0.75,0.68,5.94,1.35,105.6,Moderate,0.4,Voltage Surge,Medium,8969,533
+EQ-7799,X-ray Machine,38.8,77.5,186,3918,0.31,0.9,5.45,0.17,99.3,Critical,1.0,Sensor Drift,High,14180,4313
+EQ-6275,Ventilator,31.1,78.1,659,4777,0.8,-0.01,4.23,0.14,128.5,Critical,1.0,Voltage Surge,High,3996,5530
+EQ-4611,Blood Analyzer,22.0,49.8,302,4837,0.42,0.24,0.22,1.13,108.5,Good,0.25,Sensor Drift,Low,10579,5569
+EQ-5093,Ventilator,19.3,23.7,438,1506,0.62,0.67,3.26,0.54,122.7,Moderate,0.45,Voltage Surge,Medium,8123,2616
+EQ-9976,CT Scanner,35.2,23.8,311,1758,0.22,0.78,0.51,1.05,122.9,Critical,1.0,Sensor Drift,High,7655,2346
+EQ-4077,X-ray Machine,24.1,62.6,100,221,0.72,0.89,0.02,1.2,116.2,Good,0.25,Voltage Surge,Low,3567,1398
+EQ-2239,Ventilator,19.2,45.4,165,4882,0.43,0.83,1.17,0.96,106.8,Good,0.05,Pressure Leak,Low,8148,6016
+EQ-1993,Ventilator,30.2,21.1,201,2485,0.65,0.06,3.86,0.44,111.8,Critical,0.7,Overheating,High,13261,2725
+EQ-3115,Ventilator,21.6,36.3,436,523,0.74,-0.0,4.19,0.06,110.8,Moderate,0.35,Sensor Drift,Medium,10043,1536
+EQ-3146,Blood Analyzer,25.1,41.2,29,347,0.32,0.71,4.52,0.54,95.3,Good,0.05,Overheating,Low,3511,1435
+EQ-5700,Ventilator,30.8,46.9,468,1854,0.09,0.03,2.02,1.29,95.0,Critical,0.9,Sensor Drift,High,6443,2754
+EQ-2226,Blood Analyzer,18.4,56.1,204,2355,0.32,0.94,2.1,0.64,103.7,Good,0.05,Sensor Drift,Low,6085,3233
+EQ-4950,CT Scanner,36.3,25.2,354,3221,0.97,0.81,0.99,0.83,81.6,Critical,0.7,Pressure Leak,High,5935,4342
+EQ-3907,X-ray Machine,39.2,66.5,94,4385,0.38,0.09,5.53,0.87,122.3,Critical,0.65,Pressure Leak,High,8005,4820
+EQ-3924,X-ray Machine,31.0,23.7,26,4659,0.62,0.48,3.5,1.28,100.0,Good,0.25,Pressure Leak,Low,6150,5355
+EQ-2450,CT Scanner,19.6,63.6,484,256,0.82,0.32,3.28,0.09,103.2,Critical,0.6,Sensor Drift,High,8398,393
+EQ-2997,X-ray Machine,31.7,53.4,494,3108,0.35,-0.06,2.34,0.72,90.1,Moderate,0.35,Pressure Leak,Medium,6766,3674
+EQ-9978,CT Scanner,37.3,44.6,700,4349,0.43,0.74,5.07,0.57,81.3,Critical,0.85,Voltage Surge,High,9250,5331
+EQ-1843,MRI Scanner,36.0,74.0,595,563,0.11,0.58,2.03,0.88,84.2,Critical,0.95,Pressure Leak,High,14812,762
+EQ-7426,Ventilator,21.2,47.3,260,4882,0.15,0.72,1.05,0.36,127.0,Moderate,0.45,Overheating,Medium,8040,5564
+EQ-6056,CT Scanner,22.8,44.7,233,2208,0.99,0.9,5.27,0.6,126.9,Moderate,0.3,Sensor Drift,Medium,7438,2795
+EQ-2297,Ventilator,32.3,35.3,318,3082,0.42,0.44,3.75,0.44,116.2,Critical,0.7,Sensor Drift,High,4710,4030
+EQ-7154,Ventilator,32.9,64.4,404,2760,0.33,0.22,3.41,0.71,105.2,Critical,0.95,Component Wear,High,3604,3851
+EQ-1446,Blood Analyzer,19.7,38.6,636,1602,-0.05,0.76,0.3,0.13,120.8,Moderate,0.45,Voltage Surge,Medium,12112,2293
+EQ-5969,Blood Analyzer,22.6,75.9,504,2184,0.31,0.1,4.13,1.29,129.7,Critical,0.9,Pressure Leak,High,10043,2434
+EQ-4950,Ventilator,38.8,72.7,688,4493,0.13,0.51,5.35,1.46,128.0,Critical,1.0,Sensor Drift,High,3625,5253
+EQ-3531,X-ray Machine,30.4,74.6,623,1089,0.09,0.88,0.58,0.04,105.9,Critical,0.6,Sensor Drift,High,5938,1804
+EQ-7356,Ventilator,18.4,38.8,510,1635,0.04,0.56,0.57,0.72,100.5,Moderate,0.35,Voltage Surge,Medium,2456,2373
+EQ-5395,Blood Analyzer,34.8,54.6,719,1082,0.37,0.54,4.26,0.32,91.2,Critical,0.7,Pressure Leak,High,1828,2128
+EQ-2533,Blood Analyzer,35.7,39.5,370,3078,0.41,0.39,2.22,1.05,118.3,Critical,0.9,Sensor Drift,High,1118,3727
+EQ-3719,CT Scanner,37.2,70.0,403,4705,0.61,0.13,4.52,1.06,96.8,Critical,1.0,Pressure Leak,High,5844,5453
+EQ-4706,MRI Scanner,36.4,69.2,399,691,0.66,0.83,4.11,1.22,84.1,Critical,1.0,Component Wear,High,3738,914
+EQ-6417,MRI Scanner,22.2,73.6,47,2636,0.63,0.56,0.73,0.8,109.7,Moderate,0.3,Component Wear,Medium,13675,3516
+EQ-5222,Ventilator,26.9,68.3,56,3443,0.67,0.89,4.01,1.3,119.1,Moderate,0.5,Component Wear,Medium,13556,4191
+EQ-1460,X-ray Machine,30.6,29.0,314,2310,0.84,0.02,3.77,1.2,129.1,Moderate,0.35,Voltage Surge,Medium,7651,3476
+EQ-8169,X-ray Machine,23.5,77.7,113,285,0.61,0.1,3.78,0.59,95.3,Moderate,0.3,Sensor Drift,Medium,8247,909
+EQ-2100,MRI Scanner,23.2,45.5,426,2093,0.2,0.95,4.89,0.1,107.4,Moderate,0.35,Voltage Surge,Medium,10581,3165
+EQ-8456,Blood Analyzer,20.9,40.7,260,3872,0.28,0.08,3.28,0.45,127.9,Good,0.15,Overheating,Low,3556,4936
+EQ-5486,MRI Scanner,25.0,75.8,47,4951,0.96,0.19,3.69,0.17,89.0,Moderate,0.3,Voltage Surge,Medium,8082,5914
+EQ-8655,X-ray Machine,22.4,57.5,63,2237,0.08,0.76,3.49,0.15,125.8,Good,0.15,Component Wear,Low,5035,2705
+EQ-9775,CT Scanner,33.0,78.3,534,3187,0.14,0.83,0.59,0.74,122.9,Critical,1.0,Voltage Surge,High,5767,3611
+EQ-3149,Blood Analyzer,24.2,62.6,603,3576,0.96,0.85,4.13,1.12,123.2,Critical,0.65,Pressure Leak,High,12574,4330
+EQ-1090,X-ray Machine,39.2,33.3,226,1828,0.77,0.11,4.58,0.51,115.8,Moderate,0.4,Overheating,Medium,4328,2472
+EQ-9746,MRI Scanner,25.9,38.9,109,3400,0.91,0.1,5.76,1.14,110.1,Moderate,0.4,Sensor Drift,Medium,12552,4218
+EQ-9280,MRI Scanner,30.0,23.4,545,3339,0.46,1.01,0.2,0.33,118.8,Moderate,0.35,Component Wear,Medium,1719,3793
+EQ-7753,MRI Scanner,29.4,29.8,71,2522,0.39,0.45,4.65,0.62,98.5,Good,0.05,Pressure Leak,Low,10798,3245
+EQ-5684,MRI Scanner,35.9,50.5,235,1504,0.62,0.08,1.52,1.27,119.7,Critical,0.6,Overheating,High,12899,2648
+EQ-7274,Ventilator,34.9,30.0,347,3055,0.93,0.67,0.83,0.05,86.4,Critical,0.7,Overheating,High,14586,3696
+EQ-6826,Ventilator,33.4,30.9,84,4904,-0.03,0.89,4.49,0.87,88.3,Moderate,0.4,Voltage Surge,Medium,9869,5347
+EQ-1653,X-ray Machine,26.9,69.4,380,300,0.81,0.32,3.69,1.31,105.7,Moderate,0.55,Component Wear,Medium,1779,884
+EQ-2787,CT Scanner,31.4,67.4,510,4617,0.9,0.21,3.51,0.52,104.4,Critical,0.95,Sensor Drift,High,14933,5034
+EQ-2284,MRI Scanner,25.0,49.8,343,2595,0.54,0.26,1.2,1.02,91.7,Moderate,0.55,Voltage Surge,Medium,13142,3324
+EQ-2797,MRI Scanner,24.5,52.2,383,4763,0.05,0.21,3.08,1.29,116.0,Moderate,0.55,Overheating,Medium,14933,5145
+EQ-4397,Blood Analyzer,27.3,70.9,9,3038,0.67,0.82,5.76,0.46,94.9,Moderate,0.45,Voltage Surge,Medium,12804,3542
+EQ-3633,Ventilator,21.0,42.1,369,4327,0.3,0.13,0.05,0.51,106.0,Moderate,0.35,Pressure Leak,Medium,1330,5047
+EQ-7683,X-ray Machine,29.3,21.0,249,2522,0.71,0.01,1.71,0.53,128.7,Good,0.15,Sensor Drift,Low,4246,3610
+EQ-3775,CT Scanner,32.1,78.6,486,3574,0.49,0.22,5.2,0.5,96.8,Critical,1.0,Pressure Leak,High,5929,3779
+EQ-3781,X-ray Machine,34.4,56.6,167,2534,0.06,0.74,5.31,0.1,100.0,Good,0.2,Voltage Surge,Low,10197,3621
+EQ-3016,CT Scanner,29.2,65.9,353,3945,0.44,0.4,2.28,0.22,99.5,Critical,0.95,Sensor Drift,High,14629,4186
+EQ-1187,X-ray Machine,29.8,61.9,534,1202,0.82,0.49,5.4,1.33,91.1,Critical,0.7,Voltage Surge,High,12973,2284
+EQ-6014,MRI Scanner,33.9,68.2,646,588,0.52,0.3,1.55,0.84,94.4,Critical,0.95,Sensor Drift,High,10717,1711
+EQ-2280,X-ray Machine,29.9,72.7,436,4620,0.09,0.12,4.21,0.79,113.1,Critical,0.6,Overheating,High,9535,4721
+EQ-8962,CT Scanner,27.3,56.3,356,2031,0.11,0.46,0.17,0.34,113.4,Critical,0.6,Pressure Leak,High,5913,2507
+EQ-4223,MRI Scanner,26.7,62.7,162,1522,0.76,0.43,2.16,0.4,110.0,Good,0.05,Component Wear,Low,8098,2040
+EQ-7266,MRI Scanner,20.7,62.1,532,2679,0.12,0.93,5.78,1.17,114.7,Critical,0.7,Voltage Surge,High,4661,3575
+EQ-7527,Blood Analyzer,29.8,22.5,602,327,0.65,0.56,3.69,1.45,88.0,Moderate,0.55,Voltage Surge,Medium,1897,743
+EQ-9387,CT Scanner,18.5,57.5,39,3560,0.63,0.54,2.98,1.01,118.4,Moderate,0.5,Component Wear,Medium,5787,4474
+EQ-7096,MRI Scanner,27.3,33.2,530,2125,0.23,0.76,4.63,0.25,125.0,Moderate,0.45,Voltage Surge,Medium,13949,3154
+EQ-2392,MRI Scanner,27.2,54.2,323,3668,0.99,0.23,2.21,0.09,84.7,Moderate,0.35,Pressure Leak,Medium,13010,3965
+EQ-2395,Blood Analyzer,19.8,40.0,345,1795,0.03,0.99,5.15,1.06,126.4,Moderate,0.5,Voltage Surge,Medium,2165,2878
+EQ-8262,CT Scanner,22.3,55.4,405,1525,0.13,0.32,2.56,0.3,92.6,Critical,0.6,Sensor Drift,High,13248,1955
+EQ-2834,X-ray Machine,26.5,26.1,702,3880,0.37,0.63,0.48,0.52,101.3,Moderate,0.35,Voltage Surge,Medium,5898,4097
+EQ-4582,Ventilator,31.6,23.7,296,1622,0.87,-0.01,3.87,0.22,106.9,Critical,0.7,Voltage Surge,High,12547,2541
+EQ-7596,Ventilator,29.8,63.9,233,3113,0.73,0.89,4.19,0.77,86.1,Critical,0.6,Pressure Leak,High,7695,3341
+EQ-6013,CT Scanner,39.7,62.3,24,3354,0.42,0.33,1.72,1.2,96.1,Critical,0.85,Component Wear,High,10861,4446
+EQ-2528,Ventilator,34.6,38.7,440,4308,0.6,0.89,4.97,0.78,85.6,Critical,0.7,Sensor Drift,High,4997,4923
+EQ-1770,CT Scanner,30.5,49.0,672,3567,0.53,0.69,2.92,0.38,128.1,Critical,0.8,Component Wear,High,10696,4031
+EQ-2489,X-ray Machine,23.6,57.5,629,722,0.2,0.9,2.06,0.64,121.0,Moderate,0.45,Overheating,Medium,12242,1189
+EQ-4911,Ventilator,34.4,46.8,606,2588,0.7,0.25,5.4,0.76,93.3,Critical,0.85,Component Wear,High,10855,3256
+EQ-5668,MRI Scanner,36.3,71.0,335,4468,0.71,0.48,5.44,1.04,92.4,Critical,1.0,Component Wear,High,7009,4824
+EQ-5415,Blood Analyzer,25.8,32.1,455,1089,0.69,0.01,5.3,1.03,89.0,Critical,0.7,Voltage Surge,High,1942,2009
+EQ-4891,CT Scanner,29.3,74.0,581,1546,0.8,0.57,2.52,1.34,92.6,Critical,1.0,Overheating,High,7588,1718
+EQ-5997,MRI Scanner,28.6,40.0,252,1172,0.9,0.52,5.57,0.72,83.2,Good,0.2,Sensor Drift,Low,9180,2359
+EQ-6181,Blood Analyzer,35.2,24.1,423,2606,0.27,0.8,5.65,1.02,90.5,Critical,1.0,Component Wear,High,10295,2894
+EQ-7354,X-ray Machine,38.0,27.3,653,4875,0.76,0.35,0.67,1.01,86.2,Critical,0.9,Sensor Drift,High,8254,5559
+EQ-7501,CT Scanner,38.8,51.7,580,3159,0.45,0.31,0.03,0.5,80.3,Critical,0.7,Sensor Drift,High,11103,3698
+EQ-5401,Blood Analyzer,19.0,51.1,349,2857,0.83,0.1,3.79,0.82,119.6,Good,0.05,Voltage Surge,Low,6194,3979
+EQ-1610,X-ray Machine,23.2,26.6,365,2492,0.76,0.23,1.64,1.38,90.4,Good,0.25,Pressure Leak,Low,14787,3305
+EQ-4032,Ventilator,38.1,65.0,87,2470,0.67,0.45,1.5,0.36,93.0,Critical,0.65,Voltage Surge,High,1004,2699
+EQ-6062,Ventilator,24.3,76.6,567,2171,0.81,0.28,4.66,0.82,88.0,Critical,0.6,Component Wear,High,10140,2444
+EQ-1031,MRI Scanner,21.9,43.5,28,1603,0.58,0.82,3.42,0.11,122.4,Good,0.15,Pressure Leak,Low,6938,2114
+EQ-5616,CT Scanner,18.2,31.5,701,518,0.63,0.56,5.46,0.67,86.7,Moderate,0.5,Overheating,Medium,2761,1074
+EQ-1908,Ventilator,28.7,46.5,344,2331,0.39,0.38,2.93,0.97,95.9,Moderate,0.35,Sensor Drift,Medium,1720,2993
+EQ-5369,MRI Scanner,30.4,54.0,346,3682,0.07,0.82,1.32,1.14,89.0,Moderate,0.55,Sensor Drift,Medium,7392,4421
+EQ-5367,X-ray Machine,36.0,65.2,596,3399,0.41,1.0,2.63,0.41,99.5,Critical,0.7,Voltage Surge,High,13056,4398
+EQ-7633,X-ray Machine,36.3,48.5,463,3627,0.6,0.14,5.38,0.12,104.2,Critical,0.85,Voltage Surge,High,2796,3919
+EQ-2926,CT Scanner,29.6,48.2,78,2460,0.82,0.17,2.18,0.05,107.6,Moderate,0.4,Overheating,Medium,4668,3445
+EQ-8662,Ventilator,18.0,65.1,680,4105,0.23,0.37,5.1,1.0,115.1,Critical,0.75,Sensor Drift,High,11437,4804
+EQ-2802,CT Scanner,23.1,22.9,620,2056,0.79,0.51,4.68,0.71,98.0,Moderate,0.35,Overheating,Medium,8964,2827
+EQ-3865,CT Scanner,38.7,65.6,321,3851,0.48,0.9,2.91,1.05,87.0,Critical,1.0,Pressure Leak,High,14213,4014
+EQ-1256,CT Scanner,37.2,71.2,285,3697,0.13,0.43,4.11,0.37,95.2,Critical,1.0,Component Wear,High,4809,4455
+EQ-5489,Ventilator,19.2,57.3,293,197,0.79,0.28,2.27,0.54,101.0,Moderate,0.35,Overheating,Medium,2859,954
+EQ-3171,Blood Analyzer,32.7,50.5,512,4522,0.96,0.82,3.61,0.58,89.6,Moderate,0.35,Overheating,Medium,11054,4826
+EQ-7112,Ventilator,20.4,29.5,335,513,0.75,0.35,1.03,1.05,113.2,Moderate,0.55,Pressure Leak,Medium,9886,1496
+EQ-5660,Ventilator,37.7,56.1,113,665,0.1,0.54,3.43,0.33,100.0,Moderate,0.4,Sensor Drift,Medium,14625,1318
+EQ-8199,CT Scanner,33.3,70.5,435,3775,0.66,0.87,4.21,0.6,83.5,Critical,0.95,Sensor Drift,High,14264,3973
+EQ-6098,Blood Analyzer,28.8,47.8,442,3514,0.23,0.86,6.02,0.84,84.7,Moderate,0.5,Overheating,Medium,2036,4520
+EQ-3911,Blood Analyzer,33.7,43.2,443,1312,0.74,0.81,5.56,0.4,93.0,Moderate,0.5,Voltage Surge,Medium,2091,1881
+EQ-1228,X-ray Machine,24.2,54.8,725,644,0.65,0.89,0.51,0.29,90.1,Moderate,0.35,Component Wear,Medium,2060,1767
+EQ-9929,Ventilator,36.7,58.6,571,2018,0.09,0.28,1.04,1.44,87.1,Critical,0.9,Pressure Leak,High,6602,2870
+EQ-4870,Blood Analyzer,33.5,69.2,10,4193,0.64,0.86,2.88,0.44,84.0,Moderate,0.3,Pressure Leak,Medium,1740,5238
+EQ-3112,Blood Analyzer,34.5,54.4,653,426,0.92,0.43,3.93,1.42,91.2,Critical,0.9,Sensor Drift,High,9769,1588
+EQ-5839,Ventilator,20.9,35.6,251,3668,0.89,0.07,5.62,1.16,80.7,Critical,0.7,Component Wear,High,10127,4016
+EQ-7519,CT Scanner,21.2,56.6,276,4952,-0.08,0.95,5.63,0.47,85.7,Critical,0.75,Voltage Surge,High,9029,5484
+EQ-6090,Ventilator,25.3,53.9,204,4078,0.17,0.25,2.82,0.24,110.7,Moderate,0.35,Sensor Drift,Medium,13279,4850
+EQ-3956,Blood Analyzer,32.6,37.6,73,535,0.87,0.08,5.64,-0.11,109.1,Good,0.2,Overheating,Low,3589,1000
+EQ-8557,X-ray Machine,26.4,50.9,508,1279,0.65,0.65,2.28,1.38,95.2,Moderate,0.55,Pressure Leak,Medium,7570,2396
+EQ-3926,CT Scanner,38.6,61.6,729,4529,0.54,0.31,0.46,0.02,84.2,Critical,0.95,Voltage Surge,High,4849,5355
+EQ-6522,Ventilator,35.3,32.5,37,4811,0.54,0.63,5.67,0.81,112.8,Moderate,0.55,Pressure Leak,Medium,4872,5444
+EQ-6906,X-ray Machine,38.3,62.0,32,3960,0.06,0.73,5.83,1.35,122.2,Critical,0.85,Overheating,High,14612,4769
+EQ-3102,Blood Analyzer,34.2,73.3,714,4091,0.38,0.23,0.73,0.53,111.5,Critical,0.95,Sensor Drift,High,14815,4646
+EQ-9260,MRI Scanner,22.1,28.1,440,4440,0.38,0.88,2.13,0.64,83.1,Moderate,0.35,Pressure Leak,Medium,1102,5412
+EQ-2223,Ventilator,21.1,52.4,482,3610,0.43,0.53,0.9,1.48,111.2,Moderate,0.55,Voltage Surge,Medium,12870,4035
+EQ-7259,Blood Analyzer,19.5,34.5,553,2563,0.49,0.19,3.3,0.64,117.5,Moderate,0.35,Pressure Leak,Medium,11174,3453
+EQ-5174,CT Scanner,35.9,28.5,492,293,0.91,0.25,0.82,0.13,99.5,Critical,0.7,Sensor Drift,High,9053,1450
+EQ-8332,Blood Analyzer,25.0,59.0,402,4121,0.05,0.57,4.79,0.94,95.4,Moderate,0.35,Pressure Leak,Medium,2928,4244
+EQ-2402,Ventilator,36.7,29.3,226,2455,0.23,0.18,4.07,1.48,112.1,Critical,0.9,Overheating,High,3359,2998
+EQ-2131,MRI Scanner,24.1,38.6,290,1193,0.06,0.07,5.1,1.19,89.6,Moderate,0.4,Overheating,Medium,4913,2279
+EQ-2514,CT Scanner,22.6,58.9,137,3155,0.22,0.78,2.87,0.59,95.7,Moderate,0.3,Voltage Surge,Medium,3893,3311
+EQ-9072,Ventilator,23.7,27.8,3,2288,0.71,0.39,-0.05,1.13,87.8,Good,0.25,Voltage Surge,Low,1824,3112
+EQ-5292,Blood Analyzer,32.4,79.6,470,3657,0.77,0.59,0.31,1.1,89.7,Critical,0.8,Pressure Leak,High,10219,4123
+EQ-3970,X-ray Machine,19.3,67.0,591,1540,0.6,0.35,4.6,0.98,109.5,Moderate,0.35,Voltage Surge,Medium,1382,2527
+EQ-1044,Blood Analyzer,30.2,79.8,480,553,0.45,0.78,2.57,0.17,117.9,Critical,0.6,Overheating,High,1577,1321
+EQ-3179,MRI Scanner,36.6,64.8,118,3850,0.1,0.31,3.27,1.11,91.3,Critical,0.6,Component Wear,High,9857,4613
+EQ-5300,X-ray Machine,26.2,31.0,101,2265,0.52,0.61,4.59,1.03,126.0,Moderate,0.35,Component Wear,Medium,3384,3342
+EQ-1194,X-ray Machine,28.0,54.1,667,4895,0.49,0.6,3.2,1.34,129.8,Critical,0.65,Overheating,High,4060,5344
+EQ-2868,Blood Analyzer,26.3,73.9,21,4970,0.71,0.32,5.22,1.26,94.3,Critical,0.65,Voltage Surge,High,10174,5841
+EQ-7849,CT Scanner,18.3,76.3,61,587,0.13,0.26,4.81,0.24,91.0,Moderate,0.3,Voltage Surge,Medium,5100,1757
+EQ-8963,Blood Analyzer,35.7,27.8,329,257,0.63,0.58,2.39,0.14,112.2,Moderate,0.4,Sensor Drift,Medium,4435,791
+EQ-4814,Ventilator,31.8,20.7,30,1082,0.11,0.8,2.08,0.3,102.9,Moderate,0.4,Voltage Surge,Medium,8300,1417
+EQ-8308,X-ray Machine,20.4,60.9,528,1166,0.16,0.05,2.22,0.08,121.7,Moderate,0.45,Overheating,Medium,11109,1836
+EQ-7492,Blood Analyzer,38.6,26.4,148,4340,0.14,0.03,4.18,0.7,82.2,Moderate,0.4,Overheating,Medium,6105,4657
+EQ-3822,Blood Analyzer,31.7,79.3,667,2393,0.39,0.23,0.58,1.4,111.6,Critical,0.8,Overheating,High,2593,2726
+EQ-7785,MRI Scanner,27.8,60.8,611,113,0.91,0.66,1.42,1.25,80.5,Moderate,0.55,Sensor Drift,Medium,11538,591
+EQ-7017,Ventilator,20.7,39.0,575,1877,0.88,0.87,0.22,0.49,114.6,Moderate,0.35,Voltage Surge,Medium,11685,2926
+EQ-2399,Blood Analyzer,20.6,63.1,502,4381,0.21,-0.01,4.86,0.71,100.1,Moderate,0.35,Voltage Surge,Medium,2408,5544
+EQ-2990,Ventilator,39.5,42.8,39,2042,0.68,0.61,1.39,0.85,94.1,Moderate,0.4,Pressure Leak,Medium,3480,2391
+EQ-3904,Blood Analyzer,25.0,73.3,517,2204,0.26,0.43,2.94,0.64,124.0,Critical,0.7,Component Wear,High,13807,3057
+EQ-2565,Blood Analyzer,27.7,42.6,455,1559,0.49,0.84,0.45,0.31,103.4,Moderate,0.35,Sensor Drift,Medium,7341,1733
+EQ-1492,MRI Scanner,38.4,37.0,560,4337,0.88,0.67,1.32,0.72,97.2,Critical,0.7,Voltage Surge,High,10874,5528
+EQ-6699,X-ray Machine,26.9,79.3,175,3558,0.77,1.04,5.14,0.63,81.4,Moderate,0.45,Overheating,Medium,6093,3993
+EQ-7894,CT Scanner,22.3,79.8,353,2041,0.32,0.41,4.36,0.8,117.7,Critical,0.6,Sensor Drift,High,2165,2293
+EQ-9041,X-ray Machine,21.5,52.7,35,3371,0.86,0.9,0.66,1.08,124.4,Moderate,0.35,Component Wear,Medium,9086,4555
+EQ-1904,MRI Scanner,20.5,20.8,453,1913,0.83,0.62,5.07,0.4,89.8,Moderate,0.5,Sensor Drift,Medium,11088,2866
+EQ-7528,X-ray Machine,19.6,75.9,71,3984,0.84,0.39,1.59,1.31,98.0,Moderate,0.5,Component Wear,Medium,12464,5040
+EQ-2693,CT Scanner,33.4,55.4,94,648,0.36,0.55,0.11,1.06,86.8,Critical,0.85,Sensor Drift,High,13326,1287
+EQ-2683,MRI Scanner,28.5,59.5,272,2232,0.82,0.5,4.04,0.45,84.3,Good,0.05,Component Wear,Low,5996,2697
+EQ-9558,Blood Analyzer,22.9,44.7,224,3311,0.83,0.83,2.7,0.86,100.1,Good,0.05,Component Wear,Low,12467,4219
+EQ-1157,Blood Analyzer,25.8,71.5,559,3034,0.13,0.25,4.96,0.27,124.5,Critical,0.7,Overheating,High,10229,4031
+EQ-6393,Blood Analyzer,35.8,61.7,276,1941,0.71,0.64,0.21,0.5,120.6,Moderate,0.5,Sensor Drift,Medium,12666,2669
+EQ-9374,Blood Analyzer,29.4,69.8,712,2979,0.69,0.94,2.26,0.91,85.1,Critical,0.6,Voltage Surge,High,12615,4165
+EQ-9309,X-ray Machine,37.7,28.0,448,403,0.56,0.81,1.08,1.3,87.1,Critical,0.9,Component Wear,High,4774,1568
+EQ-2787,MRI Scanner,33.0,47.2,556,1494,0.28,1.07,5.36,0.98,126.4,Critical,0.95,Overheating,High,9003,2149
+EQ-9126,MRI Scanner,29.3,65.8,148,2664,0.12,0.19,4.6,1.39,128.1,Critical,0.6,Voltage Surge,High,14995,3688
+EQ-5009,MRI Scanner,35.6,34.7,200,4310,0.67,0.1,5.43,1.15,97.1,Critical,0.75,Pressure Leak,High,1654,4795
+EQ-3438,MRI Scanner,29.2,30.5,41,3042,0.35,0.76,1.77,0.81,126.1,Good,0.15,Pressure Leak,Low,12902,3601
+EQ-5352,X-ray Machine,28.9,46.8,342,2841,0.39,0.93,3.39,0.02,88.8,Good,0.05,Pressure Leak,Low,2102,3196
+EQ-9824,CT Scanner,33.4,79.2,609,2002,0.9,0.9,3.33,0.39,93.1,Critical,0.95,Pressure Leak,High,4218,3020
+EQ-9127,X-ray Machine,28.6,69.7,612,542,0.05,0.87,2.47,1.47,126.0,Critical,0.65,Voltage Surge,High,8816,1526
+EQ-5310,X-ray Machine,34.5,31.6,518,4422,0.53,0.79,0.45,1.0,102.2,Moderate,0.35,Sensor Drift,Medium,6140,4526
+EQ-2251,Ventilator,36.5,30.8,330,913,0.73,0.9,1.92,1.33,117.0,Critical,0.9,Voltage Surge,High,12948,2105
+EQ-3164,X-ray Machine,35.6,71.2,260,2971,0.66,0.05,3.4,0.66,96.9,Critical,0.65,Sensor Drift,High,13136,3124
+EQ-5249,X-ray Machine,36.8,53.9,720,1618,0.47,0.91,3.15,0.85,84.7,Critical,0.7,Overheating,High,14339,2764
+EQ-6877,Ventilator,24.9,40.8,140,2518,0.56,0.56,4.7,1.54,114.9,Good,0.25,Overheating,Low,13068,2729
+EQ-8720,Blood Analyzer,26.5,69.2,140,4277,1.07,0.14,5.33,1.39,96.1,Critical,0.65,Voltage Surge,High,14200,4782
+EQ-9915,Ventilator,39.9,64.6,232,4054,0.79,0.54,4.08,0.92,105.0,Critical,0.95,Voltage Surge,High,10113,4316
+EQ-8446,MRI Scanner,20.8,57.4,541,2367,0.48,0.88,5.08,0.57,82.2,Moderate,0.5,Overheating,Medium,4274,2805
+EQ-6394,Blood Analyzer,28.7,28.8,287,4094,0.47,0.32,2.94,0.47,106.0,Good,0.05,Component Wear,Low,13996,5146
+EQ-8344,X-ray Machine,18.2,68.5,255,391,0.21,0.79,4.66,0.4,122.5,Good,0.15,Sensor Drift,Low,5174,1531
+EQ-6359,Blood Analyzer,24.4,31.7,5,2442,0.39,0.19,4.05,1.14,128.3,Moderate,0.35,Overheating,Medium,13396,3518
+EQ-5721,Ventilator,31.2,59.7,254,4490,0.24,0.82,2.92,1.04,85.0,Critical,0.9,Component Wear,High,6982,5620
+EQ-5674,X-ray Machine,30.3,39.1,176,4204,0.34,0.18,1.21,0.62,119.4,Good,0.05,Overheating,Low,14733,4591
+EQ-4158,X-ray Machine,28.1,52.8,159,382,0.22,0.98,3.27,1.16,89.2,Good,0.25,Component Wear,Low,4635,829
+EQ-3112,CT Scanner,37.0,20.7,692,4427,0.67,0.15,5.68,1.22,84.7,Critical,1.0,Overheating,High,14882,4816
+EQ-2899,CT Scanner,38.6,44.3,426,2632,0.37,0.89,4.2,0.9,93.2,Critical,0.7,Voltage Surge,High,10154,3244
+EQ-3110,Blood Analyzer,20.3,21.0,655,4788,0.63,0.7,3.17,1.5,87.6,Moderate,0.55,Voltage Surge,Medium,3382,5522
+EQ-8538,Blood Analyzer,39.1,58.2,595,1013,0.03,0.8,0.47,1.29,125.5,Critical,1.0,Sensor Drift,High,4968,1870
+EQ-9108,MRI Scanner,36.0,72.4,155,4011,0.5,0.07,0.53,0.93,84.6,Critical,0.65,Pressure Leak,High,9031,4511
+EQ-7693,X-ray Machine,27.4,70.6,409,1297,0.2,0.71,0.66,0.76,124.1,Critical,0.7,Voltage Surge,High,12772,2415
+EQ-5823,Blood Analyzer,22.5,74.5,451,1651,0.03,0.61,3.03,1.5,87.2,Critical,0.8,Component Wear,High,5181,1823
+EQ-5248,MRI Scanner,24.1,25.3,18,4552,0.49,0.68,0.33,0.15,105.6,Good,0.05,Component Wear,Low,8304,4774
+EQ-8713,X-ray Machine,20.3,30.5,181,3110,-0.09,0.77,3.08,1.37,82.6,Good,0.25,Sensor Drift,Low,7560,3740
+EQ-5033,CT Scanner,31.4,22.7,297,1412,0.22,0.24,2.68,0.64,87.3,Critical,0.7,Voltage Surge,High,13805,1761
+EQ-6876,X-ray Machine,38.7,76.9,624,4762,0.79,0.82,3.12,0.16,108.4,Critical,1.0,Sensor Drift,High,11592,5314
+EQ-9593,X-ray Machine,29.7,25.1,489,923,0.09,0.28,4.43,0.36,129.0,Moderate,0.45,Sensor Drift,Medium,14839,1553
+EQ-1072,Ventilator,20.2,77.6,334,2348,0.92,0.17,0.92,0.32,122.4,Critical,0.7,Component Wear,High,1239,3244
+EQ-6045,MRI Scanner,35.2,41.7,545,4260,-0.04,0.36,4.09,1.12,102.1,Critical,0.9,Component Wear,High,1532,4871
+EQ-1952,Blood Analyzer,26.0,21.2,171,4660,0.74,0.44,0.2,1.03,106.4,Good,0.25,Voltage Surge,Low,10402,5670
+EQ-5415,Blood Analyzer,31.1,49.9,73,3277,0.81,0.12,3.24,0.38,98.3,Good,0.05,Pressure Leak,Low,11300,3484
+EQ-5664,CT Scanner,36.8,45.5,420,464,0.18,0.48,3.71,0.11,98.5,Critical,0.7,Pressure Leak,High,14532,1604
+EQ-1664,CT Scanner,18.8,37.5,50,2505,0.33,0.63,5.65,1.52,124.1,Moderate,0.5,Component Wear,Medium,8588,3633
+EQ-2411,Ventilator,19.1,40.7,155,2243,0.77,0.54,2.83,0.03,118.8,Good,0.05,Voltage Surge,Low,4268,2400
+EQ-7067,Ventilator,26.5,56.7,84,2363,0.53,0.44,5.6,1.52,94.6,Moderate,0.4,Component Wear,Medium,8595,3455
+EQ-3273,X-ray Machine,25.5,47.2,653,4182,0.94,0.58,4.86,1.4,122.9,Critical,0.65,Component Wear,High,4654,4789
+EQ-7641,Ventilator,24.7,57.8,689,3542,0.17,0.88,4.34,1.26,85.8,Moderate,0.55,Sensor Drift,Medium,7753,3685
+EQ-9479,CT Scanner,36.3,21.0,2,439,0.79,0.16,3.67,0.04,85.7,Moderate,0.4,Pressure Leak,Medium,2797,1007
+EQ-9005,Ventilator,21.5,74.0,446,4188,0.23,0.82,3.25,1.25,89.6,Critical,0.8,Sensor Drift,High,14935,4783
+EQ-2188,Blood Analyzer,30.7,35.9,640,1299,0.7,-0.01,2.24,0.98,80.9,Moderate,0.35,Sensor Drift,Medium,13685,1437
+EQ-1759,CT Scanner,25.7,41.2,434,501,0.1,0.61,5.99,0.58,99.4,Moderate,0.5,Pressure Leak,Medium,4348,1232
+EQ-9033,CT Scanner,23.5,59.4,660,1182,0.2,0.24,5.09,0.74,94.4,Critical,0.75,Sensor Drift,High,13028,2303
+EQ-8030,MRI Scanner,20.9,78.6,396,3488,0.89,0.36,5.06,0.62,108.0,Critical,0.75,Voltage Surge,High,3160,4509
+EQ-6852,X-ray Machine,30.5,72.3,443,2649,0.89,0.84,2.62,0.4,92.3,Critical,0.6,Sensor Drift,High,5903,2899
+EQ-6801,X-ray Machine,39.8,58.9,392,1571,0.52,0.93,5.14,0.96,93.8,Critical,0.85,Pressure Leak,High,13226,1986
+EQ-9546,X-ray Machine,36.1,23.7,493,4902,0.2,0.02,5.36,0.38,105.4,Critical,0.85,Component Wear,High,1781,6013
+EQ-1405,Ventilator,21.2,45.3,392,4884,0.02,0.3,2.05,0.96,98.8,Moderate,0.35,Voltage Surge,Medium,12106,5567
+EQ-1965,CT Scanner,21.0,46.2,25,2546,-0.02,0.68,2.23,0.11,117.6,Good,0.05,Overheating,Low,1295,3239
+EQ-8686,MRI Scanner,39.1,49.1,492,2250,0.76,0.66,0.57,0.55,90.6,Critical,0.7,Overheating,High,12150,3176
+EQ-5881,MRI Scanner,24.3,31.6,136,4519,0.27,0.57,2.15,1.21,119.9,Good,0.25,Pressure Leak,Low,3239,5208
+EQ-3298,Ventilator,38.4,66.4,322,2779,0.63,0.62,-0.07,1.23,128.4,Critical,1.0,Voltage Surge,High,3249,3901
+EQ-4029,CT Scanner,38.8,66.0,355,2792,0.36,0.53,4.28,0.67,91.6,Critical,0.95,Sensor Drift,High,14507,3284
+EQ-7899,Ventilator,24.8,32.4,240,4894,0.7,0.68,0.82,0.35,88.8,Moderate,0.35,Voltage Surge,Medium,13781,5250
+EQ-9908,MRI Scanner,28.9,62.1,615,4152,0.49,0.56,3.14,0.63,120.5,Moderate,0.45,Component Wear,Medium,4176,5032
+EQ-5622,CT Scanner,37.1,44.6,389,2296,0.14,0.12,3.37,0.32,113.2,Critical,0.7,Sensor Drift,High,9935,3338
+EQ-9961,Ventilator,35.8,37.3,489,4817,0.55,1.02,0.02,0.99,94.1,Critical,0.7,Overheating,High,12561,5994
+EQ-7840,CT Scanner,28.7,33.8,601,3491,0.93,0.39,2.44,0.16,99.0,Critical,0.7,Voltage Surge,High,3884,4087
+EQ-8271,X-ray Machine,31.0,25.9,646,3106,0.53,0.24,2.8,0.18,112.1,Moderate,0.35,Voltage Surge,Medium,14731,3344
+EQ-2662,Ventilator,30.6,52.5,160,4898,0.1,0.33,4.63,0.17,120.0,Moderate,0.4,Sensor Drift,Medium,7021,5462
+EQ-2453,Ventilator,26.4,45.3,528,3073,0.46,0.55,3.74,0.58,102.4,Moderate,0.35,Overheating,Medium,5642,3476
+EQ-6449,Blood Analyzer,22.6,36.7,478,4754,-0.01,0.44,2.57,0.06,104.2,Moderate,0.35,Overheating,Medium,9108,4962
+EQ-4444,MRI Scanner,30.6,31.5,677,4419,0.76,0.19,0.65,0.09,94.2,Moderate,0.35,Component Wear,Medium,2079,5097
+EQ-5074,Blood Analyzer,35.0,61.6,604,3439,0.66,0.34,3.78,1.06,129.7,Critical,1.0,Overheating,High,5968,4458
+EQ-7418,Ventilator,23.8,75.6,330,245,0.47,0.97,3.55,0.7,93.7,Critical,0.6,Voltage Surge,High,12140,1338
+EQ-3005,MRI Scanner,32.7,43.0,605,2691,0.6,0.63,1.24,0.8,119.8,Critical,0.7,Voltage Surge,High,2991,3534
+EQ-6662,Blood Analyzer,21.5,28.4,659,841,0.86,0.29,3.01,1.45,101.4,Moderate,0.55,Pressure Leak,Medium,1182,950
+EQ-6140,MRI Scanner,28.0,76.8,329,2539,0.87,0.05,3.3,0.62,117.5,Critical,0.6,Overheating,High,7997,2747
+EQ-8550,X-ray Machine,36.4,30.3,119,4706,-0.0,0.92,4.16,1.34,128.8,Critical,0.7,Component Wear,High,10182,5514
+EQ-7970,MRI Scanner,32.7,29.5,307,2317,0.97,0.33,3.04,0.58,90.0,Critical,0.7,Overheating,High,12481,2780
+EQ-9438,X-ray Machine,36.4,47.3,648,2366,0.51,1.0,2.08,0.27,82.0,Critical,0.7,Component Wear,High,10433,3308
+EQ-3460,Ventilator,28.7,65.5,683,3477,0.2,0.14,1.5,1.28,99.1,Critical,0.8,Sensor Drift,High,7524,3695
+EQ-4081,MRI Scanner,31.5,68.8,260,1986,0.87,0.46,3.69,0.44,117.1,Moderate,0.3,Sensor Drift,Medium,2205,2453
+EQ-7050,Blood Analyzer,33.9,37.3,585,3114,0.55,0.9,1.43,1.48,122.9,Critical,0.65,Pressure Leak,High,7065,3253
+EQ-9568,Ventilator,24.5,43.0,681,3724,0.22,0.29,3.99,1.01,107.7,Moderate,0.55,Overheating,Medium,4081,4172
+EQ-5159,Ventilator,35.8,72.2,35,2191,0.67,0.37,5.86,0.98,104.8,Critical,0.8,Overheating,High,7060,3121
+EQ-1017,MRI Scanner,24.1,67.3,412,4773,0.23,0.87,1.52,0.51,96.8,Critical,0.6,Pressure Leak,High,13146,5917
+EQ-9124,Blood Analyzer,33.6,33.7,652,4431,0.79,0.25,2.39,0.4,97.4,Moderate,0.35,Component Wear,Medium,10487,4830
+EQ-4816,X-ray Machine,36.1,72.4,228,4205,0.9,0.89,5.91,1.36,106.5,Critical,1.0,Sensor Drift,High,2468,4493
+EQ-9874,CT Scanner,29.4,34.5,239,802,0.31,0.98,3.07,1.13,94.4,Critical,0.6,Overheating,High,12398,1755
+EQ-5144,CT Scanner,36.8,31.6,300,2369,0.61,0.1,3.97,0.61,115.2,Critical,0.7,Component Wear,High,13284,2491
+EQ-7953,X-ray Machine,24.2,63.0,519,4863,0.37,0.57,2.44,0.11,118.3,Moderate,0.35,Component Wear,Medium,14761,5710
+EQ-5593,X-ray Machine,25.4,33.9,112,3288,0.7,0.87,2.52,0.25,118.5,Good,0.05,Pressure Leak,Low,1426,4414
+EQ-2210,X-ray Machine,22.2,65.9,722,827,0.12,0.58,2.28,0.1,96.4,Moderate,0.35,Voltage Surge,Medium,8618,1079
+EQ-9606,CT Scanner,39.2,77.7,286,3113,0.58,0.75,5.77,1.47,117.1,Critical,1.0,Overheating,High,11898,3547
+EQ-5845,CT Scanner,20.5,55.8,439,4808,0.42,0.79,2.06,1.24,101.5,Critical,0.8,Pressure Leak,High,2402,5188
+EQ-8982,X-ray Machine,24.9,26.6,585,1666,0.53,0.45,3.64,0.19,111.0,Moderate,0.35,Voltage Surge,Medium,1547,2315
+EQ-3359,X-ray Machine,27.4,65.6,248,2657,0.65,0.53,3.96,0.93,83.4,Good,0.05,Sensor Drift,Low,7350,3711
+EQ-6960,X-ray Machine,34.5,40.1,485,210,0.97,0.49,1.04,1.23,87.0,Moderate,0.55,Component Wear,Medium,5840,628
+EQ-2484,Blood Analyzer,23.8,36.0,84,2008,0.58,0.86,5.27,0.94,97.5,Good,0.2,Component Wear,Low,5030,2865
+EQ-9935,MRI Scanner,23.7,73.9,341,4795,0.21,0.06,2.87,0.66,90.4,Critical,0.6,Overheating,High,9547,5752
+EQ-5776,CT Scanner,35.2,23.2,49,1398,0.64,0.77,4.54,1.22,83.2,Critical,0.6,Voltage Surge,High,6444,1626
+EQ-3981,MRI Scanner,33.0,54.8,512,2979,0.83,0.78,1.58,0.58,123.6,Critical,0.8,Component Wear,High,12348,3205
+EQ-4756,Blood Analyzer,19.6,51.5,600,4386,0.74,1.05,2.64,1.29,126.5,Critical,0.65,Sensor Drift,High,6211,5023
+EQ-9724,Blood Analyzer,36.6,50.5,92,495,0.2,0.06,2.35,0.04,114.7,Moderate,0.4,Sensor Drift,Medium,10745,1039
+EQ-1243,Blood Analyzer,32.8,32.1,445,1472,0.66,0.95,4.74,1.54,121.7,Critical,0.65,Sensor Drift,High,9182,1858
+EQ-9329,X-ray Machine,23.0,23.7,16,2615,0.22,0.63,2.89,1.51,101.0,Good,0.25,Voltage Surge,Low,9327,3335
+EQ-7425,CT Scanner,18.9,21.9,145,4502,1.07,0.6,0.05,0.62,85.5,Good,0.05,Component Wear,Low,5837,5050
+EQ-3925,Blood Analyzer,20.4,52.4,162,220,0.07,0.57,0.86,-0.03,120.6,Good,0.15,Pressure Leak,Low,5013,1102
+EQ-6339,X-ray Machine,21.0,72.8,181,1436,0.56,0.56,0.06,1.02,108.6,Moderate,0.5,Overheating,Medium,12981,1554
+EQ-5907,MRI Scanner,19.8,44.4,428,3856,0.3,0.09,1.5,1.25,124.1,Critical,0.65,Component Wear,High,14573,4954
+EQ-5269,MRI Scanner,30.3,79.0,480,1190,0.6,0.68,4.55,0.82,83.9,Critical,0.6,Voltage Surge,High,14031,2129
+EQ-5879,MRI Scanner,27.4,52.0,439,4039,0.72,0.13,3.91,1.32,95.2,Moderate,0.55,Component Wear,Medium,14598,4591
+EQ-2514,MRI Scanner,19.0,56.1,29,1703,0.67,0.69,1.8,1.47,94.3,Good,0.25,Component Wear,Low,8189,2384
+EQ-1455,Ventilator,18.0,63.6,346,1465,0.81,0.41,4.61,1.28,104.3,Critical,0.8,Overheating,High,6357,2181
+EQ-5335,Ventilator,20.7,67.2,101,780,0.84,0.55,1.56,0.3,93.3,Moderate,0.3,Voltage Surge,Medium,5486,1171
+EQ-6074,Blood Analyzer,33.9,39.0,150,1398,0.86,0.95,2.01,0.69,116.2,Good,0.05,Voltage Surge,Low,13353,2074
+EQ-7746,Blood Analyzer,21.7,63.8,653,2283,0.38,0.48,1.42,1.23,129.4,Critical,0.65,Sensor Drift,High,2191,3183
+EQ-2855,Blood Analyzer,38.5,56.1,451,993,0.51,0.42,5.73,0.09,84.9,Critical,0.85,Sensor Drift,High,1350,1504
+EQ-7772,Ventilator,31.2,31.0,220,1140,0.97,0.79,5.32,0.05,101.0,Critical,0.85,Voltage Surge,High,8183,1657
+EQ-5708,Blood Analyzer,19.1,37.6,198,3436,0.47,0.29,4.37,0.71,82.1,Good,0.05,Pressure Leak,Low,12844,3782
+EQ-5855,Ventilator,18.7,49.2,136,4964,0.99,0.7,5.35,1.16,102.7,Moderate,0.4,Overheating,Medium,8383,5189
+EQ-7457,MRI Scanner,20.8,35.9,395,4986,0.64,0.7,3.89,0.66,93.4,Moderate,0.35,Pressure Leak,Medium,6208,5583
+EQ-3531,Ventilator,21.6,43.5,392,4324,0.83,0.54,1.42,0.58,110.8,Moderate,0.35,Sensor Drift,Medium,14740,5202
+EQ-3254,Ventilator,20.8,24.3,704,1073,0.4,0.82,3.67,1.59,112.2,Moderate,0.55,Sensor Drift,Medium,13220,1605
+EQ-6814,Blood Analyzer,33.2,64.8,139,3068,0.68,0.25,2.63,0.28,94.2,Good,0.05,Component Wear,Low,9529,3988
+EQ-3252,X-ray Machine,38.6,65.3,469,2855,0.8,0.57,3.29,0.1,92.4,Critical,0.7,Sensor Drift,High,7543,4052
+EQ-7138,CT Scanner,26.4,51.1,264,2913,0.4,0.79,3.54,0.5,110.7,Moderate,0.35,Voltage Surge,Medium,8180,3636
+EQ-9697,CT Scanner,22.3,61.9,390,3542,0.64,0.41,6.0,1.11,88.0,Critical,0.95,Component Wear,High,2268,4051
+EQ-2488,Ventilator,34.1,23.1,580,431,0.54,0.22,1.06,1.2,88.6,Critical,0.9,Pressure Leak,High,8090,978
+EQ-9100,CT Scanner,37.9,55.4,619,1996,0.87,0.41,4.56,0.67,106.1,Critical,0.95,Overheating,High,9059,2703
+EQ-4228,MRI Scanner,23.4,36.3,473,4969,0.25,0.4,3.01,0.08,126.9,Moderate,0.45,Voltage Surge,Medium,11448,6045
+EQ-2600,CT Scanner,28.9,24.3,431,770,0.4,0.29,1.42,1.14,96.5,Critical,0.9,Sensor Drift,High,9480,1814
+EQ-2354,Blood Analyzer,19.8,48.3,285,3173,0.73,0.83,1.5,0.3,108.6,Good,0.05,Voltage Surge,Low,9896,3468
+EQ-1487,Ventilator,23.2,30.3,526,3768,0.65,0.57,4.95,1.34,130.0,Critical,0.65,Voltage Surge,High,4771,4461
+EQ-2073,Ventilator,35.8,48.4,53,2027,0.61,0.24,2.98,1.22,101.6,Critical,0.6,Overheating,High,4105,2656
+EQ-3706,Blood Analyzer,24.9,65.8,370,2491,0.25,0.61,4.27,1.51,117.0,Moderate,0.55,Overheating,Medium,6154,3489
+EQ-1576,X-ray Machine,19.6,63.6,255,2329,1.01,0.91,4.7,0.72,82.4,Good,0.05,Component Wear,Low,4753,3209
+EQ-5101,MRI Scanner,28.0,35.0,610,3863,0.02,0.09,1.77,0.57,81.3,Moderate,0.35,Sensor Drift,Medium,2703,4374
+EQ-7453,X-ray Machine,29.9,51.7,159,470,0.47,0.38,0.48,0.05,115.7,Good,0.05,Sensor Drift,Low,4513,573
+EQ-3210,Blood Analyzer,24.2,41.0,73,3859,0.74,0.07,4.17,0.7,102.9,Good,0.05,Voltage Surge,Low,3712,4001
+EQ-8334,CT Scanner,39.9,60.6,4,1301,0.3,0.75,5.25,1.2,125.0,Critical,1.0,Sensor Drift,High,5941,1683
+EQ-8568,CT Scanner,35.5,20.4,528,1114,0.36,0.45,3.43,1.11,92.8,Critical,0.9,Overheating,High,9454,2198
+EQ-8477,CT Scanner,31.2,63.5,471,1184,0.91,0.15,0.23,0.78,107.1,Critical,0.95,Voltage Surge,High,11008,1529
+EQ-8701,Ventilator,38.9,73.6,310,4464,0.13,0.18,3.9,1.45,114.4,Critical,1.0,Component Wear,High,3869,5215
+EQ-2857,X-ray Machine,28.6,75.3,485,3493,0.29,0.48,0.63,0.59,108.5,Critical,0.6,Overheating,High,11630,4652
+EQ-2629,Ventilator,36.2,29.3,556,2128,0.87,0.86,1.24,0.77,127.0,Critical,0.8,Voltage Surge,High,14701,3011
+EQ-5849,MRI Scanner,21.8,71.1,345,1098,0.86,0.46,3.56,0.66,123.7,Critical,0.7,Overheating,High,1313,1453
+EQ-4573,MRI Scanner,33.2,52.6,37,1694,-0.02,0.28,3.91,0.06,94.4,Moderate,0.4,Pressure Leak,Medium,13653,2404
+EQ-8777,X-ray Machine,23.5,34.7,408,912,0.23,0.4,3.98,0.58,120.1,Moderate,0.45,Voltage Surge,Medium,9053,1842
+EQ-4072,X-ray Machine,21.3,64.0,144,4962,0.63,0.45,4.28,0.42,120.7,Good,0.15,Pressure Leak,Low,10963,5410
+EQ-3778,Ventilator,19.2,25.3,570,3517,0.38,0.21,3.82,0.94,87.5,Moderate,0.35,Pressure Leak,Medium,4843,4574
+EQ-5223,X-ray Machine,19.7,54.5,680,3351,0.38,0.84,2.98,1.15,115.2,Moderate,0.55,Voltage Surge,Medium,14839,3642
+EQ-8957,Ventilator,27.6,34.9,245,3608,0.58,0.3,3.03,1.0,111.9,Moderate,0.35,Voltage Surge,Medium,11661,3755
+EQ-3161,X-ray Machine,36.8,79.7,148,4311,0.52,0.05,3.46,1.15,115.0,Critical,1.0,Overheating,High,2549,5237
+EQ-4561,Blood Analyzer,25.2,54.7,558,494,0.44,0.02,2.48,0.42,105.3,Moderate,0.35,Voltage Surge,Medium,10838,1113
+EQ-4150,Ventilator,21.2,37.3,75,1141,0.07,0.44,4.92,-0.03,121.2,Good,0.15,Voltage Surge,Low,1961,1914
+EQ-9785,Ventilator,38.7,78.5,471,1828,0.73,0.28,0.63,0.69,128.6,Critical,1.0,Pressure Leak,High,13237,1967
+EQ-1506,MRI Scanner,19.7,40.9,26,3043,0.44,0.67,4.15,0.89,126.6,Good,0.15,Voltage Surge,Low,9826,3794
+EQ-6798,MRI Scanner,34.8,53.5,244,3689,0.78,0.23,0.41,0.38,116.1,Moderate,0.4,Voltage Surge,Medium,2818,4030
+EQ-3789,Ventilator,32.9,77.1,499,4643,0.74,0.27,2.35,0.31,95.5,Critical,0.95,Pressure Leak,High,3360,4844
+EQ-5988,MRI Scanner,37.9,56.1,129,2767,0.66,1.02,1.66,1.13,120.3,Critical,0.7,Component Wear,High,10104,3097
+EQ-9378,X-ray Machine,25.7,58.2,389,563,0.0,0.27,4.02,0.51,99.6,Moderate,0.35,Overheating,Medium,10943,1591
+EQ-8791,CT Scanner,31.2,73.4,514,4370,0.54,0.4,5.25,0.05,113.3,Critical,1.0,Component Wear,High,13744,5551
+EQ-5075,MRI Scanner,33.0,23.8,296,1573,1.0,0.1,0.23,1.55,122.5,Critical,0.7,Overheating,High,11494,2574
+EQ-2844,CT Scanner,35.7,22.4,246,4831,0.51,0.15,0.27,0.3,124.3,Moderate,0.5,Sensor Drift,Medium,11767,5801
+EQ-9725,X-ray Machine,39.1,43.6,537,4978,0.46,0.43,2.19,1.14,128.7,Critical,1.0,Sensor Drift,High,8251,5205
+EQ-1636,Blood Analyzer,23.1,54.8,590,2150,0.81,-0.02,5.82,1.24,124.5,Critical,0.8,Sensor Drift,High,9853,2643
+EQ-3376,Blood Analyzer,23.8,70.5,383,3757,0.88,0.34,1.6,1.43,108.2,Critical,0.8,Overheating,High,10920,4898
+EQ-4951,Blood Analyzer,20.7,51.6,542,1537,0.45,0.01,5.75,1.03,100.8,Critical,0.7,Pressure Leak,High,9296,2138
+EQ-5789,Ventilator,38.7,71.4,350,3694,0.06,0.49,4.79,0.72,120.4,Critical,1.0,Sensor Drift,High,8956,4367
+EQ-7882,X-ray Machine,29.9,27.3,226,2891,0.09,0.82,3.56,0.29,85.2,Good,0.05,Voltage Surge,Low,8814,3211
+EQ-4871,MRI Scanner,26.6,71.9,60,1109,0.86,0.84,3.5,0.88,107.4,Moderate,0.3,Sensor Drift,Medium,5546,1471
+EQ-3786,X-ray Machine,37.9,34.4,106,1675,0.93,0.6,2.71,0.62,125.9,Moderate,0.5,Voltage Surge,Medium,2206,2295
+EQ-3394,X-ray Machine,35.1,58.2,461,573,0.82,0.51,3.38,1.48,127.3,Critical,1.0,Sensor Drift,High,5502,1327
+EQ-4496,X-ray Machine,22.0,76.7,347,1068,0.93,0.01,0.12,0.0,111.3,Moderate,0.3,Pressure Leak,Medium,8579,1221
+EQ-7411,CT Scanner,24.9,46.2,465,3449,0.04,0.83,3.91,1.02,86.5,Moderate,0.55,Overheating,Medium,14812,3987
+EQ-1765,Ventilator,36.8,58.2,26,3633,0.12,0.7,4.91,0.24,82.7,Moderate,0.4,Component Wear,Medium,6218,4290
+EQ-1297,Blood Analyzer,31.2,40.9,632,926,0.51,0.87,5.05,0.77,89.7,Moderate,0.5,Sensor Drift,Medium,13530,1161
+EQ-7262,X-ray Machine,27.9,64.7,383,2429,0.77,0.89,0.21,0.4,106.1,Moderate,0.35,Component Wear,Medium,12154,2574
+EQ-5213,CT Scanner,31.6,65.5,185,3413,0.56,0.33,0.88,-0.09,108.4,Critical,0.65,Voltage Surge,High,14464,4575
+EQ-7895,CT Scanner,25.1,49.9,458,1605,0.12,0.05,1.16,0.37,123.7,Moderate,0.45,Component Wear,Medium,14054,2733
+EQ-8935,CT Scanner,27.2,64.7,218,164,0.09,0.48,0.79,1.08,126.1,Critical,0.6,Overheating,High,6032,1275
+EQ-2432,X-ray Machine,25.5,69.6,412,4054,0.86,0.26,2.8,0.59,101.0,Moderate,0.35,Sensor Drift,Medium,8943,5103
+EQ-7878,MRI Scanner,36.0,29.4,83,2497,0.69,0.77,5.65,1.44,109.1,Critical,0.75,Sensor Drift,High,5058,2819
+EQ-3961,MRI Scanner,20.4,39.4,135,3963,-0.01,0.56,5.44,1.2,120.6,Moderate,0.5,Sensor Drift,Medium,5125,4799
+EQ-4531,X-ray Machine,22.6,29.8,203,1674,0.94,0.7,1.5,0.36,115.4,Good,0.05,Sensor Drift,Low,5038,2618
+EQ-8314,CT Scanner,27.7,31.4,152,4407,0.95,0.68,5.57,0.12,115.6,Good,0.2,Sensor Drift,Low,10954,4756
+EQ-4239,X-ray Machine,26.9,45.1,476,3598,0.96,0.54,0.11,0.12,85.7,Moderate,0.35,Pressure Leak,Medium,3798,3985
+EQ-6979,Ventilator,30.4,31.2,71,807,0.47,0.75,4.16,0.15,82.3,Moderate,0.4,Voltage Surge,Medium,2095,1858
+EQ-8530,CT Scanner,24.9,31.0,105,4935,0.14,0.83,0.42,0.48,108.8,Good,0.05,Voltage Surge,Low,12168,5436
+EQ-8010,X-ray Machine,38.6,74.1,65,4919,0.14,0.8,0.16,0.37,83.1,Critical,0.85,Sensor Drift,High,14059,5233
+EQ-5796,Blood Analyzer,30.5,53.3,425,612,0.23,0.24,3.45,0.03,95.3,Moderate,0.35,Overheating,Medium,1406,1431
+EQ-6747,X-ray Machine,28.9,28.3,371,3224,0.34,0.47,0.88,1.44,125.2,Critical,0.65,Pressure Leak,High,2127,3744
+EQ-8332,Ventilator,37.0,52.2,187,1839,0.78,0.17,3.88,1.15,122.5,Critical,0.7,Sensor Drift,High,4680,2598
+EQ-5612,Ventilator,23.4,48.9,374,593,0.89,0.63,2.29,1.13,98.8,Moderate,0.55,Pressure Leak,Medium,11009,1380
+EQ-8830,X-ray Machine,34.2,33.5,238,3419,0.11,0.49,0.46,1.07,116.9,Good,0.25,Pressure Leak,Low,6710,4316
+EQ-8148,CT Scanner,36.8,36.6,669,408,0.85,0.41,0.13,0.7,109.0,Critical,0.7,Pressure Leak,High,7154,626
+EQ-5628,Ventilator,32.6,77.3,147,162,0.28,0.13,5.23,0.8,121.9,Critical,0.9,Voltage Surge,High,14019,1178
+EQ-7888,MRI Scanner,37.1,63.8,177,3402,-0.14,0.54,1.45,1.24,112.7,Critical,0.6,Pressure Leak,High,1783,3890
+EQ-5827,Blood Analyzer,26.4,45.3,146,667,0.91,0.9,4.66,0.4,110.3,Good,0.05,Component Wear,Low,11916,1170
+EQ-7543,Ventilator,30.4,74.0,234,3424,0.6,0.26,4.02,0.47,101.1,Critical,0.95,Voltage Surge,High,12963,4383
+EQ-3129,Blood Analyzer,23.9,45.4,272,4290,0.38,0.43,5.78,0.81,112.5,Good,0.2,Overheating,Low,9100,4525
+EQ-4390,X-ray Machine,30.8,29.0,511,1915,0.19,0.81,1.06,1.4,87.8,Moderate,0.55,Component Wear,Medium,13503,2408
+EQ-3279,X-ray Machine,40.0,57.3,89,3597,0.12,0.88,2.88,0.45,87.0,Moderate,0.4,Pressure Leak,Medium,14810,4104
+EQ-6596,X-ray Machine,21.1,78.6,2,476,0.27,0.44,2.99,1.41,106.8,Moderate,0.5,Pressure Leak,Medium,7042,729
+EQ-3380,Ventilator,35.1,24.1,669,2768,0.05,0.29,3.83,0.2,122.3,Critical,0.8,Sensor Drift,High,12487,3615
+EQ-1936,CT Scanner,34.1,56.6,317,933,0.65,0.69,0.52,1.21,110.1,Critical,1.0,Overheating,High,4987,1636
+EQ-1149,Blood Analyzer,19.0,50.7,190,4423,1.05,0.36,2.31,0.9,89.3,Good,0.05,Sensor Drift,Low,6930,4970
+EQ-5887,CT Scanner,38.8,31.2,116,700,0.64,0.04,0.34,1.22,110.9,Critical,0.6,Overheating,High,7823,1783
+EQ-1837,MRI Scanner,31.3,79.6,481,1351,0.27,0.61,5.6,0.3,103.6,Critical,0.75,Pressure Leak,High,12223,1960
+EQ-1663,Ventilator,33.2,47.7,67,572,0.73,0.51,4.72,0.28,112.1,Moderate,0.4,Component Wear,Medium,9065,1067
+EQ-8398,X-ray Machine,34.1,31.6,530,2003,0.23,0.91,2.13,0.25,121.7,Moderate,0.45,Component Wear,Medium,6455,2125
+EQ-4525,MRI Scanner,38.5,44.8,656,1968,0.96,0.89,0.99,1.49,97.4,Critical,0.9,Sensor Drift,High,5754,2429
+EQ-2313,CT Scanner,24.4,74.4,684,4663,0.77,0.42,0.0,1.2,97.8,Critical,0.8,Sensor Drift,High,9973,4816
+EQ-5302,CT Scanner,32.2,67.2,661,3197,0.2,0.78,0.7,1.14,107.0,Critical,1.0,Sensor Drift,High,8759,4123
+EQ-8193,Blood Analyzer,22.4,29.7,477,1330,0.64,0.84,5.17,0.42,80.4,Moderate,0.5,Component Wear,Medium,5662,2012
+EQ-8200,Blood Analyzer,24.6,33.8,702,4843,0.52,0.58,1.52,1.42,128.5,Critical,0.65,Sensor Drift,High,1022,5098
+EQ-2224,MRI Scanner,18.3,20.4,69,2595,0.34,0.0,5.71,0.02,123.0,Moderate,0.3,Sensor Drift,Medium,8976,3414
+EQ-3938,Blood Analyzer,27.3,25.1,86,271,0.73,0.31,4.64,0.95,113.0,Good,0.05,Voltage Surge,Low,1463,457
+EQ-9017,X-ray Machine,21.6,28.5,443,2646,0.29,0.36,4.61,1.19,88.1,Moderate,0.55,Sensor Drift,Medium,12853,3224
+EQ-3536,Ventilator,27.7,59.9,682,2272,0.93,0.5,2.81,0.51,102.3,Moderate,0.35,Sensor Drift,Medium,7356,2586
+EQ-8160,CT Scanner,33.9,42.8,314,262,0.05,0.62,2.85,1.35,97.2,Critical,0.9,Overheating,High,14119,1303
+EQ-7036,Ventilator,28.9,65.7,476,2091,0.72,0.35,1.98,0.61,86.6,Critical,0.6,Sensor Drift,High,9788,2335
+EQ-2476,Blood Analyzer,19.7,62.2,392,2120,0.05,0.56,2.73,-0.04,89.2,Moderate,0.35,Pressure Leak,Medium,14396,2918
+EQ-4494,X-ray Machine,33.6,23.1,723,3951,0.5,0.81,3.03,0.57,85.2,Moderate,0.35,Overheating,Medium,11672,4701
+EQ-1125,X-ray Machine,18.7,53.3,226,3914,0.2,0.36,1.74,1.03,121.5,Moderate,0.35,Pressure Leak,Medium,6424,5097
+EQ-9763,Ventilator,29.3,77.2,340,3188,0.02,0.96,1.71,0.18,98.3,Critical,0.6,Component Wear,High,5547,3523
+EQ-4916,Blood Analyzer,21.1,34.8,196,1914,0.63,0.19,5.19,0.25,90.4,Good,0.2,Sensor Drift,Low,2780,2654
+EQ-6392,CT Scanner,22.7,60.3,33,1903,0.34,0.37,4.96,0.74,105.1,Moderate,0.3,Component Wear,Medium,8172,2896
+EQ-7144,CT Scanner,23.9,23.3,122,3879,0.44,0.46,3.5,0.79,111.6,Good,0.05,Voltage Surge,Low,2555,5018
+EQ-8974,Blood Analyzer,18.0,28.4,672,3788,0.14,-0.02,0.44,0.37,86.8,Moderate,0.35,Overheating,Medium,6473,4008
+EQ-6140,Blood Analyzer,33.2,66.4,584,1582,-0.02,0.67,0.81,0.47,88.7,Moderate,0.35,Pressure Leak,Medium,4689,2761
+EQ-8101,MRI Scanner,27.1,59.5,612,4743,0.42,0.61,4.13,1.42,85.4,Moderate,0.55,Pressure Leak,Medium,8819,5209
+EQ-9069,Blood Analyzer,29.4,70.3,236,4976,0.64,0.28,3.33,0.74,108.1,Moderate,0.3,Pressure Leak,Medium,5799,5150
+EQ-3095,CT Scanner,24.8,77.8,252,4067,0.38,0.71,2.87,0.91,98.3,Critical,0.6,Overheating,High,2739,5129
+EQ-8801,Blood Analyzer,32.7,24.2,357,2045,0.63,0.14,1.77,0.07,108.9,Moderate,0.35,Voltage Surge,Medium,11438,2215
+EQ-1852,Ventilator,36.7,67.3,9,3766,0.86,0.71,1.8,0.15,113.7,Critical,0.65,Pressure Leak,High,1643,4345
+EQ-8512,X-ray Machine,33.1,54.9,400,751,0.93,0.21,4.32,0.13,105.0,Moderate,0.35,Pressure Leak,Medium,1137,1812
+EQ-6983,Ventilator,35.6,55.0,232,1305,0.49,0.1,2.22,1.49,110.0,Critical,0.9,Pressure Leak,High,12966,1950
+EQ-3178,X-ray Machine,26.6,65.1,416,4569,0.86,0.49,4.77,0.83,112.1,Moderate,0.35,Overheating,Medium,2922,5644
+EQ-4208,X-ray Machine,22.3,74.7,547,351,0.49,0.6,5.84,0.68,121.4,Critical,0.85,Component Wear,High,7602,1485
+EQ-9065,X-ray Machine,38.0,72.6,506,2573,0.55,0.18,2.49,0.75,128.5,Critical,1.0,Overheating,High,12882,3455
+EQ-8285,Blood Analyzer,34.0,34.9,663,2095,0.84,0.08,4.39,1.22,86.9,Moderate,0.55,Sensor Drift,Medium,1830,3214
+EQ-4813,X-ray Machine,30.7,33.3,45,4698,0.79,0.21,4.94,0.81,81.7,Good,0.05,Overheating,Low,2120,5700
+EQ-5727,Ventilator,19.7,60.9,195,689,0.25,0.81,1.77,1.31,114.5,Moderate,0.5,Overheating,Medium,14474,967
+EQ-4809,X-ray Machine,22.1,26.7,50,4607,0.27,0.07,0.46,0.63,94.4,Good,0.05,Sensor Drift,Low,10808,5762
+EQ-4385,Ventilator,24.8,35.3,198,3462,0.33,0.67,2.69,0.76,89.2,Good,0.05,Overheating,Low,3915,4350
+EQ-4609,MRI Scanner,22.8,43.2,159,784,0.59,1.02,4.91,1.29,127.3,Moderate,0.35,Overheating,Medium,14433,1197
+EQ-2634,X-ray Machine,36.9,63.9,705,1861,0.84,0.94,1.38,1.29,111.7,Critical,0.9,Component Wear,High,2095,2135
+EQ-3864,MRI Scanner,27.9,24.9,472,334,0.26,0.34,5.73,0.22,123.9,Critical,0.6,Component Wear,High,12690,1421
+EQ-2087,X-ray Machine,37.2,67.0,661,2089,0.67,0.71,0.8,1.36,100.7,Critical,0.9,Pressure Leak,High,4682,3135
+EQ-7650,X-ray Machine,34.0,43.0,176,3208,0.71,0.14,5.97,0.11,105.0,Good,0.2,Component Wear,Low,10295,4125
+EQ-8751,Ventilator,38.4,44.8,171,882,0.01,0.96,3.28,0.3,85.9,Moderate,0.4,Voltage Surge,Medium,14105,1286
+EQ-6625,CT Scanner,25.1,47.2,701,3516,1.02,0.48,4.43,0.15,128.7,Moderate,0.45,Sensor Drift,Medium,14733,3980
+EQ-9226,MRI Scanner,24.1,74.9,468,1269,1.01,0.27,4.02,1.37,91.8,Critical,0.8,Overheating,High,5874,2232
+EQ-1325,MRI Scanner,36.3,38.1,155,1198,0.8,0.75,5.79,1.45,106.3,Critical,0.75,Overheating,High,12825,1552
+EQ-8988,Ventilator,39.3,68.7,495,211,0.38,0.54,5.39,0.92,105.5,Critical,1.0,Component Wear,High,1007,1076
+EQ-8382,Blood Analyzer,30.1,21.2,353,1687,0.43,0.05,0.19,0.26,110.8,Moderate,0.35,Pressure Leak,Medium,13076,2759
+EQ-8783,Blood Analyzer,36.2,69.7,37,4179,0.48,0.97,1.71,0.26,83.7,Critical,0.65,Overheating,High,7100,5076
+EQ-1434,Blood Analyzer,28.7,75.0,69,2715,0.51,0.42,0.21,0.34,124.7,Moderate,0.4,Pressure Leak,Medium,12671,2991
+EQ-2463,Ventilator,19.8,66.1,715,2541,0.81,0.83,1.47,0.87,105.2,Critical,0.6,Voltage Surge,High,5448,3598
+EQ-5386,MRI Scanner,28.5,68.4,221,4374,0.5,0.27,-0.05,1.43,112.2,Moderate,0.5,Sensor Drift,Medium,13422,4621
+EQ-3571,MRI Scanner,27.9,66.0,353,3060,0.08,0.43,0.79,1.28,89.5,Critical,0.8,Pressure Leak,High,14150,3645
+EQ-8408,CT Scanner,30.7,56.6,570,3438,0.51,0.13,3.63,0.88,94.4,Critical,0.95,Component Wear,High,12236,3738
+EQ-5245,CT Scanner,24.7,38.8,567,3572,0.49,0.36,0.75,1.09,123.7,Critical,0.65,Pressure Leak,High,4434,4276
+EQ-6969,X-ray Machine,28.6,58.8,688,340,0.07,0.12,3.24,0.57,85.6,Moderate,0.35,Overheating,Medium,1435,1300
+EQ-4129,MRI Scanner,24.4,48.3,104,3864,0.81,0.11,4.47,0.78,114.3,Good,0.05,Pressure Leak,Low,4956,4487
+EQ-6636,MRI Scanner,24.6,70.5,270,3509,0.71,0.91,1.35,1.57,109.6,Moderate,0.5,Voltage Surge,Medium,3479,4584
+EQ-3889,CT Scanner,33.7,69.3,8,3982,0.58,0.33,4.13,0.1,119.8,Critical,0.65,Sensor Drift,High,4523,4139
+EQ-4219,CT Scanner,34.7,24.2,340,1582,0.23,0.83,3.97,0.59,85.9,Critical,0.7,Component Wear,High,6830,2070
+EQ-7363,MRI Scanner,20.7,55.0,238,766,0.09,0.23,4.2,0.46,113.0,Good,0.05,Component Wear,Low,7500,919
+EQ-6958,CT Scanner,33.5,45.4,33,2484,0.53,0.04,3.62,0.99,112.9,Moderate,0.4,Component Wear,Medium,9793,3538
+EQ-2045,CT Scanner,21.7,79.8,485,4200,0.39,0.94,1.4,0.96,93.3,Critical,0.6,Component Wear,High,8470,4740
+EQ-3036,X-ray Machine,40.0,31.7,521,1259,0.56,0.6,5.16,0.32,122.4,Critical,0.95,Overheating,High,13108,2178
+EQ-9997,X-ray Machine,38.1,68.5,431,4514,0.09,0.73,0.32,1.34,106.7,Critical,0.9,Voltage Surge,High,14800,4919
+EQ-9014,Ventilator,18.3,20.6,202,3414,0.27,0.84,2.65,0.69,111.0,Moderate,0.35,Component Wear,Medium,4310,4125
+EQ-3932,MRI Scanner,36.7,77.9,361,371,0.9,0.88,1.32,1.29,102.5,Critical,1.0,Voltage Surge,High,3087,998
+EQ-5859,X-ray Machine,19.0,64.4,462,2774,0.08,0.81,5.97,1.26,126.1,Critical,0.8,Component Wear,High,11905,3270
+EQ-3789,X-ray Machine,38.1,75.8,102,1520,0.65,0.35,5.32,1.03,111.8,Critical,1.0,Sensor Drift,High,11616,2195
+EQ-5480,Blood Analyzer,36.0,42.1,168,1967,0.22,0.99,5.08,0.0,110.4,Moderate,0.55,Overheating,Medium,9857,2730
+EQ-1367,MRI Scanner,32.1,61.7,606,2893,0.15,0.5,1.99,0.97,86.8,Critical,0.7,Sensor Drift,High,9606,3952
+EQ-6468,MRI Scanner,37.8,51.4,595,2208,0.26,0.39,3.26,1.41,93.1,Critical,0.9,Pressure Leak,High,5570,3042
+EQ-3045,X-ray Machine,22.9,70.6,489,383,0.39,0.83,5.16,1.14,128.5,Critical,1.0,Overheating,High,4824,1269
+EQ-3362,Ventilator,29.6,58.9,656,2861,0.96,-0.04,5.03,1.42,113.3,Critical,0.7,Pressure Leak,High,13978,3426
+EQ-8427,CT Scanner,21.4,46.6,40,4880,0.93,0.14,3.73,0.76,107.3,Good,0.05,Pressure Leak,Low,7558,5784
+EQ-9299,X-ray Machine,35.5,23.3,575,3758,1.01,0.05,1.54,0.22,110.0,Critical,0.7,Pressure Leak,High,8888,4587
+EQ-4091,CT Scanner,28.7,52.9,168,4257,1.01,0.75,2.06,1.15,94.0,Critical,0.6,Overheating,High,5146,5006
+EQ-7106,Ventilator,18.0,67.1,160,489,0.12,0.29,3.2,1.03,81.7,Moderate,0.5,Component Wear,Medium,11292,1677
+EQ-7979,CT Scanner,38.9,31.4,174,3228,0.98,0.31,5.98,0.62,115.1,Moderate,0.55,Overheating,Medium,1576,3728
+EQ-4592,CT Scanner,26.4,70.0,419,1216,0.59,0.3,1.52,1.44,80.0,Critical,0.8,Pressure Leak,High,10757,1682
+EQ-3030,Ventilator,28.1,65.4,708,1787,0.6,0.83,2.6,0.89,92.3,Critical,0.6,Voltage Surge,High,3830,2196
+EQ-1828,Ventilator,29.8,44.4,192,1284,0.58,0.02,1.92,0.84,111.5,Good,0.05,Sensor Drift,Low,9452,1932
+EQ-8584,MRI Scanner,37.4,61.8,227,4345,0.51,0.05,3.25,0.74,105.5,Moderate,0.4,Pressure Leak,Medium,5528,4901
+EQ-2371,Ventilator,28.3,44.3,179,4266,0.9,0.18,0.31,1.11,81.4,Good,0.25,Voltage Surge,Low,7476,4898
+EQ-9564,MRI Scanner,24.4,38.2,185,4739,0.54,0.59,3.18,1.18,128.6,Moderate,0.35,Voltage Surge,Medium,4646,5354
+EQ-7974,Blood Analyzer,31.3,21.6,126,2552,0.68,0.82,1.48,0.38,117.4,Good,0.05,Sensor Drift,Low,7068,3038
+EQ-3324,X-ray Machine,18.1,64.6,434,3309,0.14,0.6,2.25,1.3,98.4,Moderate,0.55,Component Wear,Medium,3928,3564
+EQ-7244,X-ray Machine,22.8,29.9,544,4768,0.5,0.52,1.26,1.32,117.8,Moderate,0.55,Overheating,Medium,7584,5008
+EQ-9477,Blood Analyzer,38.0,55.3,194,782,0.13,0.5,4.06,0.27,97.8,Moderate,0.4,Sensor Drift,Medium,1125,883
+EQ-9152,Ventilator,19.2,62.9,234,3119,0.24,0.12,5.62,0.09,121.0,Critical,0.85,Voltage Surge,High,9824,3350
+EQ-1297,MRI Scanner,20.8,51.3,333,189,0.33,0.36,2.85,0.41,106.4,Moderate,0.35,Voltage Surge,Medium,10910,754
+EQ-9170,MRI Scanner,21.8,43.5,22,3192,0.59,0.02,0.61,0.96,84.8,Good,0.05,Overheating,Low,10597,4142
+EQ-3935,Blood Analyzer,37.3,57.4,460,938,1.04,0.9,1.71,1.19,100.7,Critical,0.9,Component Wear,High,1494,1460
+EQ-6130,Ventilator,22.1,64.4,605,2136,0.96,0.41,5.88,0.05,98.4,Critical,0.75,Overheating,High,2247,2808
+EQ-9879,Ventilator,34.0,34.4,652,2785,0.4,0.83,5.88,0.75,88.5,Critical,0.85,Pressure Leak,High,3358,3037
+EQ-4242,X-ray Machine,21.3,65.3,441,426,0.86,0.74,0.52,0.79,129.3,Moderate,0.45,Sensor Drift,Medium,1826,1517
+EQ-3228,X-ray Machine,24.9,73.5,703,2083,0.96,0.24,5.4,0.72,127.2,Critical,0.85,Overheating,High,1064,3040
+EQ-2349,Ventilator,22.9,32.2,541,1034,0.79,0.82,0.08,1.31,91.2,Moderate,0.55,Sensor Drift,Medium,7522,1427
+EQ-2799,MRI Scanner,35.1,78.0,389,4936,0.36,0.12,3.31,0.9,125.8,Critical,1.0,Voltage Surge,High,9975,5165
+EQ-6948,MRI Scanner,33.2,22.3,75,4927,0.98,0.87,0.88,1.06,128.4,Critical,0.7,Component Wear,High,3439,5646
+EQ-6046,X-ray Machine,33.0,57.7,419,1475,0.45,0.67,0.66,0.44,99.5,Moderate,0.35,Voltage Surge,Medium,5381,2330
+EQ-9505,X-ray Machine,39.9,24.6,84,1644,0.25,0.68,0.87,1.03,104.6,Critical,0.6,Pressure Leak,High,9435,2307
+EQ-5879,MRI Scanner,33.7,53.3,144,4253,0.19,0.76,0.28,0.66,108.9,Moderate,0.4,Sensor Drift,Medium,11467,4673
+EQ-1560,Ventilator,37.7,78.5,61,2968,0.79,0.47,0.47,0.25,122.3,Critical,0.95,Pressure Leak,High,1432,3120
+EQ-9357,Ventilator,24.2,46.6,9,4630,0.44,1.01,1.32,0.17,101.2,Good,0.05,Overheating,Low,6709,5775
+EQ-7054,MRI Scanner,22.0,68.2,146,1524,0.37,0.93,2.98,0.85,81.2,Moderate,0.3,Component Wear,Medium,7581,2538
+EQ-9836,CT Scanner,37.9,77.3,61,4977,0.17,0.87,0.45,1.25,124.8,Critical,1.0,Pressure Leak,High,9725,5567
+EQ-3398,Ventilator,38.0,38.6,311,2441,0.26,0.81,1.7,0.36,114.5,Critical,0.7,Component Wear,High,14275,2871
+EQ-5000,Ventilator,34.9,50.1,84,3840,1.01,0.47,1.0,0.66,98.3,Moderate,0.4,Component Wear,Medium,5107,4521
+EQ-9061,Blood Analyzer,34.5,36.7,652,1314,0.82,0.87,3.12,1.4,87.8,Critical,0.9,Overheating,High,11168,2370
+EQ-7839,MRI Scanner,23.9,73.7,135,4608,0.04,0.7,3.63,0.95,116.3,Moderate,0.3,Sensor Drift,Medium,2353,5729
+EQ-1213,X-ray Machine,38.4,69.7,51,484,0.75,0.15,2.4,0.72,109.8,Moderate,0.4,Component Wear,Medium,2698,1045
+EQ-3886,Ventilator,39.8,35.2,58,2350,0.62,0.04,3.64,0.45,118.9,Moderate,0.4,Component Wear,Medium,5798,2993
+EQ-3213,CT Scanner,34.9,35.2,115,3462,0.95,0.72,0.41,0.13,89.5,Moderate,0.4,Sensor Drift,Medium,2073,4385
+EQ-6333,Blood Analyzer,21.8,44.1,436,717,0.56,0.52,0.93,1.39,124.9,Critical,0.65,Component Wear,High,1065,1056
+EQ-7872,X-ray Machine,27.5,31.6,547,369,0.8,0.6,5.75,0.88,91.2,Moderate,0.5,Voltage Surge,Medium,3091,649
+EQ-2083,CT Scanner,35.9,69.2,590,3487,-0.01,0.4,2.77,0.91,114.8,Critical,0.95,Pressure Leak,High,14796,3948
+EQ-3714,CT Scanner,24.6,71.8,379,3082,0.15,0.67,1.44,1.3,123.4,Critical,0.9,Voltage Surge,High,8096,3255
+EQ-2430,MRI Scanner,33.1,54.5,285,2435,0.29,0.77,5.65,0.05,116.0,Moderate,0.55,Overheating,Medium,14695,3632
+EQ-8076,MRI Scanner,22.1,79.0,553,4095,0.77,0.6,3.56,1.24,94.2,Critical,0.8,Pressure Leak,High,7872,5158
+EQ-7459,X-ray Machine,27.7,43.8,520,3919,0.75,0.53,1.68,0.9,119.0,Moderate,0.35,Overheating,Medium,3846,4368
+EQ-4029,Blood Analyzer,19.2,72.7,489,4782,0.34,0.4,1.98,1.41,119.4,Critical,0.8,Sensor Drift,High,14338,4965
+EQ-5816,X-ray Machine,34.4,48.5,66,2794,0.09,0.09,0.61,1.27,89.3,Good,0.25,Pressure Leak,Low,7369,3384
+EQ-5923,MRI Scanner,27.7,47.9,329,3303,0.83,0.95,3.35,1.08,116.7,Moderate,0.55,Voltage Surge,Medium,10635,3945
+EQ-6965,CT Scanner,24.8,30.0,30,3433,0.54,0.36,1.86,0.65,109.7,Good,0.05,Sensor Drift,Low,6782,4374
+EQ-1292,MRI Scanner,19.3,31.3,401,3691,0.3,0.13,2.79,0.81,97.5,Moderate,0.35,Overheating,Medium,14402,4530
+EQ-8549,CT Scanner,34.9,47.1,652,3007,0.59,0.55,2.74,0.7,109.7,Critical,0.7,Component Wear,High,13634,3259
+EQ-7994,X-ray Machine,29.3,46.9,288,4821,0.12,0.58,0.09,1.49,101.1,Good,0.25,Component Wear,Low,3787,5662
+EQ-2782,Ventilator,29.8,47.5,88,3137,0.96,0.43,4.94,0.78,120.8,Good,0.15,Overheating,Low,8085,4043
+EQ-7928,Blood Analyzer,38.7,23.3,524,3550,0.78,0.15,2.96,1.38,98.6,Critical,0.9,Overheating,High,9761,3743
+EQ-8246,MRI Scanner,20.1,66.3,252,3675,0.33,0.02,3.42,1.13,94.7,Moderate,0.5,Pressure Leak,Medium,1036,4734
+EQ-2545,MRI Scanner,29.6,73.9,341,2235,0.56,0.57,1.06,0.49,102.7,Critical,0.6,Component Wear,High,8264,2969
+EQ-5449,MRI Scanner,37.4,35.5,330,1509,0.93,0.11,0.46,0.19,124.7,Critical,0.8,Component Wear,High,8454,2296
+EQ-3857,CT Scanner,26.4,68.1,486,4194,0.01,0.04,0.44,0.27,119.5,Critical,0.6,Pressure Leak,High,3357,4727
+EQ-2377,Ventilator,30.9,22.0,605,3536,-0.02,0.61,3.12,0.55,127.8,Critical,0.8,Overheating,High,7290,3883
+EQ-3299,Blood Analyzer,37.5,52.8,30,1102,0.29,0.23,0.77,0.66,84.4,Moderate,0.4,Overheating,Medium,12672,2173
+EQ-1490,Ventilator,30.3,33.7,224,3028,0.34,0.07,5.49,0.23,82.2,Critical,0.85,Pressure Leak,High,1524,3605
+EQ-4574,Blood Analyzer,27.3,20.2,416,4928,0.9,0.2,2.87,1.36,93.2,Moderate,0.55,Pressure Leak,Medium,3708,5723
+EQ-2837,CT Scanner,37.3,58.4,611,261,0.56,0.14,2.39,0.22,126.5,Critical,1.0,Component Wear,High,1882,1382
+EQ-6401,Ventilator,39.8,23.2,383,198,0.13,0.82,5.27,0.78,109.8,Critical,0.85,Pressure Leak,High,12321,1145
+EQ-7885,MRI Scanner,24.2,28.4,520,2459,0.88,0.51,2.83,0.09,102.9,Moderate,0.35,Voltage Surge,Medium,1212,3143
+EQ-6675,Blood Analyzer,38.8,51.4,286,4765,0.72,0.71,5.34,0.66,117.3,Moderate,0.55,Sensor Drift,Medium,14146,5411
+EQ-2161,Ventilator,23.0,50.1,74,2720,0.31,0.81,4.86,0.9,100.8,Good,0.05,Sensor Drift,Low,7646,3150
+EQ-3251,Blood Analyzer,22.6,62.7,427,1166,0.75,0.71,5.45,0.07,99.8,Moderate,0.5,Sensor Drift,Medium,10107,1416
+EQ-7645,MRI Scanner,20.7,49.0,624,2139,0.95,0.78,1.11,0.17,86.5,Moderate,0.35,Component Wear,Medium,5717,2939
+EQ-8607,CT Scanner,23.2,38.4,67,601,0.72,0.83,2.31,1.0,82.9,Good,0.05,Voltage Surge,Low,13453,879
+EQ-7659,Ventilator,37.0,56.3,634,4518,0.13,0.49,4.12,0.75,121.5,Critical,0.8,Voltage Surge,High,12154,4770
+EQ-9041,MRI Scanner,22.0,35.5,611,3253,1.01,0.28,5.87,0.47,109.3,Moderate,0.5,Voltage Surge,Medium,10617,4236
+EQ-2179,Blood Analyzer,28.5,54.9,511,1517,0.66,0.62,5.19,0.51,96.7,Moderate,0.5,Sensor Drift,Medium,13985,2075
+EQ-7223,CT Scanner,39.6,79.8,212,973,0.65,0.68,4.33,1.51,91.8,Critical,1.0,Component Wear,High,10952,1459
+EQ-7157,Ventilator,32.8,77.3,307,3947,0.33,0.52,0.35,0.26,95.2,Critical,0.95,Voltage Surge,High,4160,4997
+EQ-3323,MRI Scanner,27.0,22.8,47,4297,0.95,0.49,1.06,0.75,116.9,Good,0.05,Voltage Surge,Low,3826,4588
+EQ-1466,Blood Analyzer,33.1,72.4,84,546,0.89,-0.03,3.47,0.31,116.3,Moderate,0.3,Pressure Leak,Medium,6772,1314
+EQ-4499,CT Scanner,26.3,63.4,557,761,0.09,0.81,2.43,0.3,91.0,Critical,0.6,Component Wear,High,11534,1402
+EQ-5336,Blood Analyzer,32.0,37.6,622,1754,0.44,0.5,0.39,1.35,81.6,Moderate,0.55,Overheating,Medium,3217,2496
+EQ-7161,Blood Analyzer,28.5,45.5,75,2936,0.57,0.7,0.43,0.06,107.4,Good,0.05,Pressure Leak,Low,12528,3970
+EQ-9764,Ventilator,27.5,56.2,715,4718,0.68,0.61,3.27,0.13,108.8,Moderate,0.35,Voltage Surge,Medium,7141,5639
+EQ-9453,X-ray Machine,24.3,76.6,39,3028,0.12,0.97,4.82,0.37,106.8,Moderate,0.3,Component Wear,Medium,4694,4065
+EQ-4793,X-ray Machine,35.9,78.7,3,3302,0.84,0.44,2.88,0.33,100.5,Critical,0.65,Pressure Leak,High,12095,3728
+EQ-5898,MRI Scanner,27.5,32.4,338,1018,0.57,0.01,1.07,0.34,98.1,Moderate,0.35,Voltage Surge,Medium,1980,2025
+EQ-4147,X-ray Machine,36.0,35.1,595,3755,0.64,-0.01,2.42,0.92,107.4,Critical,0.7,Pressure Leak,High,7592,3980
+EQ-4950,Ventilator,21.2,79.3,199,3363,0.73,0.12,3.87,1.38,102.1,Moderate,0.5,Voltage Surge,Medium,3319,3756
+EQ-5133,X-ray Machine,19.8,38.3,96,1629,0.96,0.5,4.61,0.21,127.3,Good,0.15,Pressure Leak,Low,2247,2480
+EQ-9355,Ventilator,34.3,33.6,93,4420,0.09,0.46,5.56,1.08,95.9,Critical,0.75,Sensor Drift,High,8331,5570
+EQ-7115,X-ray Machine,22.6,68.6,141,2427,0.66,0.29,6.0,0.32,101.7,Good,0.2,Voltage Surge,Low,1479,3202
+EQ-2630,Ventilator,34.1,65.2,353,3544,0.23,0.43,0.78,1.01,120.1,Critical,1.0,Overheating,High,7605,4406
+EQ-1899,CT Scanner,19.0,47.2,268,4461,0.05,0.8,3.0,0.64,102.8,Moderate,0.35,Sensor Drift,Medium,4930,5510
+EQ-9152,X-ray Machine,22.5,45.1,224,1508,0.34,0.4,2.66,1.13,117.2,Good,0.25,Overheating,Low,13098,2695
+EQ-8180,MRI Scanner,37.6,45.2,628,3581,1.03,0.05,1.1,1.2,92.0,Critical,0.9,Pressure Leak,High,14858,3943
+EQ-7646,Ventilator,32.1,42.7,446,3166,0.85,0.95,2.53,1.39,113.6,Critical,0.9,Pressure Leak,High,11090,3393
+EQ-3474,X-ray Machine,30.7,29.9,471,993,0.53,0.89,4.76,0.78,124.2,Moderate,0.45,Component Wear,Medium,13534,1725
+EQ-3229,Blood Analyzer,26.2,61.9,410,4737,0.39,0.88,4.27,0.49,93.1,Moderate,0.35,Overheating,Medium,14752,5889
+EQ-2236,X-ray Machine,25.3,70.9,460,877,0.71,0.42,5.17,1.02,117.2,Critical,0.95,Voltage Surge,High,8495,1235
+EQ-8565,MRI Scanner,21.2,61.0,485,562,0.96,0.28,4.7,0.06,101.8,Moderate,0.35,Overheating,Medium,12982,728
+EQ-2182,Blood Analyzer,20.7,26.6,161,1085,0.62,0.27,0.11,0.48,86.2,Good,0.05,Sensor Drift,Low,13779,1455
+EQ-3182,MRI Scanner,26.6,70.8,418,562,0.75,0.42,1.98,0.7,122.7,Critical,0.7,Voltage Surge,High,5909,1495
+EQ-1583,CT Scanner,32.3,46.0,52,2897,0.08,0.91,3.76,0.9,118.6,Moderate,0.4,Sensor Drift,Medium,5419,3759
+EQ-5240,X-ray Machine,39.7,34.8,271,3605,0.62,0.48,3.5,1.31,95.8,Critical,0.6,Voltage Surge,High,1177,3845
+EQ-1502,CT Scanner,23.3,46.0,495,3202,0.3,0.32,2.97,0.76,120.3,Moderate,0.45,Component Wear,Medium,5788,3403
+EQ-5687,MRI Scanner,30.0,69.8,301,4055,0.38,0.18,0.17,0.88,121.4,Critical,0.7,Voltage Surge,High,11190,4189

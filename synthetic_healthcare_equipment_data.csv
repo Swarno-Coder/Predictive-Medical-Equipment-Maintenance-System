@@ -1,0 +1,1001 @@
+Equipment_ID,Equipment_Type,Temperature_Avg(C),Humidity_Avg(%),Last_Maintenance_Days_Ago,Failure_Reason,Failure_Probability,Maintenance_Level_Required,Downtime_Hours
+EQ-0001,Ventilator,40.94,51.14,174,Power Surge,0.525,Medium,69
+EQ-0002,Blood Testing Device,36.08,48.75,238,Mechanical Wear,0.775,Low,39
+EQ-0003,CT Scanner,29.29,21.54,259,Power Surge,0.234,Low,71
+EQ-0004,Ventilator,44.41,40.47,364,Overheating,0.345,Medium,39
+EQ-0005,Ventilator,40.54,42.81,162,Power Surge,0.03,Medium,36
+EQ-0006,Blood Testing Device,24.88,43.93,47,Calibration Issue,0.961,Medium,40
+EQ-0007,CT Scanner,47.33,54.81,328,Calibration Issue,0.668,High,45
+EQ-0008,CT Scanner,44.68,52.02,327,Overheating,0.933,Low,4
+EQ-0009,Ventilator,48.49,56.47,115,Calibration Issue,0.265,High,25
+EQ-0010,MRI Machine,41.77,65.89,336,Calibration Issue,0.611,High,69
+EQ-0011,Ventilator,38.4,68.78,336,Mechanical Wear,0.678,Low,30
+EQ-0012,Ventilator,32.55,63.09,224,Power Surge,0.318,Low,68
+EQ-0013,Ventilator,47.98,77.33,351,Overheating,0.848,Medium,29
+EQ-0014,Ventilator,45.98,21.09,327,Overheating,0.947,Medium,68
+EQ-0015,Blood Testing Device,21.36,31.75,146,Overheating,0.885,High,51
+EQ-0016,CT Scanner,20.79,20.45,62,Overheating,0.739,Medium,24
+EQ-0017,Blood Testing Device,31.29,58.85,293,Overheating,0.277,Medium,14
+EQ-0018,Blood Testing Device,44.32,73.88,322,Calibration Issue,0.282,Low,69
+EQ-0019,Blood Testing Device,49.62,34.61,324,Mechanical Wear,0.963,Low,18
+EQ-0020,Ventilator,24.51,75.62,12,Overheating,0.01,Medium,42
+EQ-0021,MRI Machine,37.82,23.62,188,Mechanical Wear,0.716,Low,57
+EQ-0022,CT Scanner,31.43,76.07,286,Mechanical Wear,0.706,Medium,12
+EQ-0023,MRI Machine,49.1,41.1,207,Calibration Issue,0.623,Low,17
+EQ-0024,Blood Testing Device,45.26,26.09,113,Overheating,0.99,Low,30
+EQ-0025,Blood Testing Device,45.15,49.15,21,Calibration Issue,0.312,Low,23
+EQ-0026,MRI Machine,34.06,35.41,348,Overheating,0.34,Low,1
+EQ-0027,MRI Machine,32.44,37.09,213,Calibration Issue,0.079,Medium,32
+EQ-0028,MRI Machine,28.2,38.44,170,Mechanical Wear,0.443,High,9
+EQ-0029,Blood Testing Device,21.69,68.18,322,Overheating,0.261,Low,15
+EQ-0030,Blood Testing Device,45.94,52.35,53,Power Surge,0.343,Medium,28
+EQ-0031,CT Scanner,44.39,38.68,297,Mechanical Wear,0.835,Medium,24
+EQ-0032,CT Scanner,49.99,56.62,319,Power Surge,0.935,Low,60
+EQ-0033,Blood Testing Device,49.9,62.97,125,Mechanical Wear,0.186,High,35
+EQ-0034,MRI Machine,36.66,36.36,276,Calibration Issue,0.373,Low,27
+EQ-0035,MRI Machine,43.07,44.81,203,Overheating,0.929,Medium,20
+EQ-0036,CT Scanner,48.34,27.31,193,Mechanical Wear,0.062,High,65
+EQ-0037,Blood Testing Device,45.49,30.87,168,Calibration Issue,0.092,Medium,49
+EQ-0038,CT Scanner,27.42,60.87,151,Overheating,0.163,Low,1
+EQ-0039,CT Scanner,33.52,30.89,34,Overheating,0.595,High,10
+EQ-0040,Ventilator,23.87,51.51,183,Mechanical Wear,0.15,Medium,47
+EQ-0041,Ventilator,48.62,62.54,285,Overheating,0.968,Medium,59
+EQ-0042,Ventilator,38.19,26.41,56,Mechanical Wear,0.447,Medium,62
+EQ-0043,MRI Machine,26.86,54.04,221,Overheating,0.502,Low,18
+EQ-0044,Blood Testing Device,40.15,35.39,302,Power Surge,0.247,High,46
+EQ-0045,Blood Testing Device,38.54,77.78,162,Calibration Issue,0.471,Low,32
+EQ-0046,Blood Testing Device,30.74,49.01,18,Power Surge,0.662,Low,27
+EQ-0047,Blood Testing Device,23.41,68.36,263,Mechanical Wear,0.751,Low,18
+EQ-0048,Ventilator,40.15,53.01,281,Power Surge,0.754,High,39
+EQ-0049,MRI Machine,35.61,22.6,112,Mechanical Wear,0.578,Low,49
+EQ-0050,MRI Machine,43.17,57.99,326,Overheating,0.904,Low,44
+EQ-0051,Ventilator,35.6,77.08,29,Overheating,0.817,Low,54
+EQ-0052,MRI Machine,45.57,56.1,134,Mechanical Wear,0.757,Low,34
+EQ-0053,Ventilator,36.56,69.15,66,Power Surge,0.056,Medium,71
+EQ-0054,Blood Testing Device,36.83,73.05,64,Overheating,0.007,Low,36
+EQ-0055,Ventilator,46.3,33.68,291,Calibration Issue,0.212,Medium,18
+EQ-0056,Blood Testing Device,32.1,32.72,24,Overheating,0.664,Low,38
+EQ-0057,Blood Testing Device,24.02,56.66,36,Calibration Issue,0.411,High,59
+EQ-0058,CT Scanner,20.86,44.66,0,Power Surge,0.402,Medium,9
+EQ-0059,Ventilator,42.65,70.39,36,Calibration Issue,0.885,Medium,51
+EQ-0060,CT Scanner,38.61,74.0,140,Calibration Issue,0.896,Medium,35
+EQ-0061,Ventilator,41.12,41.21,231,Calibration Issue,0.909,Medium,5
+EQ-0062,Ventilator,26.39,34.21,135,Calibration Issue,0.314,High,14
+EQ-0063,CT Scanner,24.09,66.83,187,Overheating,0.691,Low,30
+EQ-0064,CT Scanner,20.44,36.49,127,Calibration Issue,0.272,Medium,4
+EQ-0065,Ventilator,30.52,69.36,200,Overheating,0.191,High,39
+EQ-0066,MRI Machine,37.7,45.42,126,Calibration Issue,0.185,Medium,64
+EQ-0067,Blood Testing Device,31.77,60.05,256,Mechanical Wear,0.342,Low,25
+EQ-0068,CT Scanner,33.12,25.73,163,Power Surge,0.43,Medium,28
+EQ-0069,Blood Testing Device,47.12,57.43,34,Calibration Issue,0.831,High,66
+EQ-0070,MRI Machine,30.45,47.11,193,Mechanical Wear,0.12,Low,22
+EQ-0071,MRI Machine,35.42,55.2,190,Calibration Issue,0.735,High,31
+EQ-0072,MRI Machine,43.51,30.08,103,Calibration Issue,0.531,Low,23
+EQ-0073,CT Scanner,31.9,64.21,22,Calibration Issue,0.288,Low,48
+EQ-0074,MRI Machine,38.66,71.77,264,Mechanical Wear,0.493,Low,20
+EQ-0075,CT Scanner,45.87,33.0,289,Power Surge,0.3,Medium,38
+EQ-0076,MRI Machine,48.49,25.74,259,Mechanical Wear,0.596,High,55
+EQ-0077,Blood Testing Device,24.41,21.42,357,Power Surge,0.434,High,68
+EQ-0078,Blood Testing Device,47.8,58.52,74,Calibration Issue,0.164,High,1
+EQ-0079,Ventilator,34.76,56.43,354,Overheating,0.117,Low,7
+EQ-0080,Blood Testing Device,27.75,52.8,71,Calibration Issue,0.547,Medium,57
+EQ-0081,Ventilator,33.77,33.92,258,Power Surge,0.902,Low,12
+EQ-0082,Blood Testing Device,49.4,43.45,187,Mechanical Wear,0.344,High,5
+EQ-0083,CT Scanner,34.78,55.67,172,Calibration Issue,0.733,Medium,50
+EQ-0084,Blood Testing Device,29.86,49.81,289,Mechanical Wear,0.659,Medium,42
+EQ-0085,Ventilator,39.0,79.27,44,Mechanical Wear,0.932,Medium,12
+EQ-0086,Ventilator,27.2,28.19,60,Mechanical Wear,0.821,High,18
+EQ-0087,MRI Machine,22.28,61.71,82,Calibration Issue,0.567,Medium,66
+EQ-0088,CT Scanner,23.87,44.26,122,Mechanical Wear,0.657,Medium,17
+EQ-0089,Blood Testing Device,23.84,45.69,357,Mechanical Wear,0.898,Low,68
+EQ-0090,MRI Machine,24.56,63.06,15,Calibration Issue,0.4,Low,71
+EQ-0091,Blood Testing Device,24.16,61.55,65,Mechanical Wear,0.327,Medium,62
+EQ-0092,Blood Testing Device,39.23,79.48,144,Calibration Issue,0.011,Medium,41
+EQ-0093,MRI Machine,25.46,27.7,161,Power Surge,0.827,Low,34
+EQ-0094,MRI Machine,30.37,26.25,233,Power Surge,0.801,Low,70
+EQ-0095,MRI Machine,46.9,63.46,143,Power Surge,0.104,Low,45
+EQ-0096,MRI Machine,34.22,54.7,357,Mechanical Wear,0.577,High,58
+EQ-0097,MRI Machine,40.03,36.45,187,Overheating,0.464,High,51
+EQ-0098,Blood Testing Device,25.17,24.77,321,Overheating,0.119,Low,34
+EQ-0099,MRI Machine,25.77,25.14,12,Mechanical Wear,0.981,Medium,44
+EQ-0100,CT Scanner,21.23,73.65,183,Overheating,0.215,Low,15
+EQ-0101,Ventilator,25.07,31.51,110,Calibration Issue,0.067,High,70
+EQ-0102,MRI Machine,28.36,39.4,289,Overheating,0.595,Medium,50
+EQ-0103,MRI Machine,25.31,33.6,294,Mechanical Wear,0.739,High,32
+EQ-0104,Blood Testing Device,22.66,41.3,214,Mechanical Wear,0.032,Medium,67
+EQ-0105,MRI Machine,23.62,24.17,119,Calibration Issue,0.659,High,3
+EQ-0106,MRI Machine,33.82,51.14,54,Power Surge,0.532,Medium,51
+EQ-0107,MRI Machine,26.19,24.06,26,Mechanical Wear,0.103,Medium,67
+EQ-0108,Blood Testing Device,30.93,68.02,117,Calibration Issue,0.173,Medium,48
+EQ-0109,MRI Machine,35.1,34.02,220,Overheating,0.568,Medium,17
+EQ-0110,Ventilator,40.71,52.4,230,Overheating,0.296,High,7
+EQ-0111,Blood Testing Device,21.18,72.8,52,Calibration Issue,0.938,High,13
+EQ-0112,Ventilator,43.98,59.05,294,Calibration Issue,0.819,Medium,66
+EQ-0113,Blood Testing Device,38.84,51.98,320,Mechanical Wear,0.984,Medium,4
+EQ-0114,MRI Machine,22.45,39.46,232,Overheating,0.26,High,10
+EQ-0115,Ventilator,46.21,39.98,157,Calibration Issue,0.97,Medium,17
+EQ-0116,Blood Testing Device,47.63,60.17,268,Overheating,0.431,Medium,52
+EQ-0117,CT Scanner,21.83,79.65,20,Calibration Issue,0.348,Medium,6
+EQ-0118,MRI Machine,28.31,59.71,52,Overheating,0.05,Low,69
+EQ-0119,Blood Testing Device,44.19,53.47,274,Power Surge,0.053,Medium,9
+EQ-0120,CT Scanner,42.45,63.84,312,Mechanical Wear,0.692,Low,21
+EQ-0121,Blood Testing Device,25.54,47.91,280,Overheating,0.458,Medium,24
+EQ-0122,CT Scanner,26.28,23.61,213,Power Surge,0.227,High,4
+EQ-0123,MRI Machine,31.11,53.74,30,Overheating,0.614,Low,24
+EQ-0124,Ventilator,34.54,77.46,336,Overheating,0.253,Low,59
+EQ-0125,CT Scanner,38.55,30.52,182,Power Surge,0.578,Medium,3
+EQ-0126,Blood Testing Device,31.07,61.4,22,Overheating,0.359,Medium,68
+EQ-0127,MRI Machine,33.88,32.06,31,Overheating,0.824,Low,40
+EQ-0128,CT Scanner,42.42,52.15,73,Mechanical Wear,0.821,High,48
+EQ-0129,Blood Testing Device,21.1,25.8,9,Power Surge,0.477,High,54
+EQ-0130,Blood Testing Device,27.57,47.02,53,Power Surge,0.351,Medium,35
+EQ-0131,Blood Testing Device,41.4,65.37,51,Calibration Issue,0.363,High,56
+EQ-0132,CT Scanner,46.86,40.85,147,Overheating,0.806,High,40
+EQ-0133,CT Scanner,35.35,59.89,159,Mechanical Wear,0.328,Medium,68
+EQ-0134,CT Scanner,35.96,67.73,13,Overheating,0.209,High,46
+EQ-0135,Ventilator,23.22,75.63,177,Overheating,0.085,Medium,13
+EQ-0136,CT Scanner,33.42,34.08,52,Calibration Issue,0.467,Low,27
+EQ-0137,CT Scanner,35.98,43.96,334,Overheating,0.482,Medium,6
+EQ-0138,CT Scanner,27.27,29.14,21,Mechanical Wear,0.841,Low,17
+EQ-0139,Ventilator,28.08,79.55,29,Mechanical Wear,0.221,Low,36
+EQ-0140,CT Scanner,31.32,75.62,190,Calibration Issue,0.381,High,2
+EQ-0141,Blood Testing Device,20.6,52.4,259,Overheating,0.808,High,52
+EQ-0142,CT Scanner,29.66,70.52,204,Mechanical Wear,0.824,High,66
+EQ-0143,Blood Testing Device,26.34,51.26,58,Overheating,0.385,Medium,52
+EQ-0144,Blood Testing Device,29.82,57.42,263,Overheating,0.459,High,43
+EQ-0145,Blood Testing Device,23.59,25.35,11,Overheating,0.303,Low,22
+EQ-0146,Ventilator,46.72,65.32,118,Calibration Issue,0.933,High,55
+EQ-0147,Ventilator,37.81,27.66,289,Overheating,0.119,High,67
+EQ-0148,Ventilator,40.37,69.56,337,Mechanical Wear,0.934,Medium,60
+EQ-0149,CT Scanner,43.68,66.92,247,Overheating,0.684,Medium,58
+EQ-0150,Blood Testing Device,34.95,62.52,353,Mechanical Wear,0.532,Low,12
+EQ-0151,Ventilator,22.61,22.17,126,Overheating,0.033,Medium,69
+EQ-0152,Ventilator,36.11,38.19,74,Mechanical Wear,0.476,High,39
+EQ-0153,CT Scanner,37.61,35.79,360,Mechanical Wear,0.408,Medium,13
+EQ-0154,Ventilator,42.36,41.61,203,Overheating,0.161,Low,41
+EQ-0155,CT Scanner,32.95,25.26,48,Overheating,0.656,High,57
+EQ-0156,MRI Machine,23.83,76.22,78,Mechanical Wear,0.971,Low,53
+EQ-0157,Ventilator,28.51,53.23,240,Power Surge,0.562,Medium,12
+EQ-0158,MRI Machine,30.89,38.33,348,Calibration Issue,0.715,Medium,13
+EQ-0159,CT Scanner,39.38,43.82,153,Power Surge,0.068,Low,57
+EQ-0160,Blood Testing Device,37.12,46.83,273,Power Surge,0.418,High,40
+EQ-0161,Ventilator,30.68,56.04,95,Overheating,0.116,Medium,45
+EQ-0162,CT Scanner,49.6,50.94,213,Calibration Issue,0.613,Medium,35
+EQ-0163,Blood Testing Device,38.17,75.16,293,Power Surge,0.938,High,3
+EQ-0164,Blood Testing Device,27.12,49.82,208,Overheating,0.662,Medium,5
+EQ-0165,MRI Machine,23.05,79.53,342,Power Surge,0.077,Low,11
+EQ-0166,CT Scanner,24.59,71.09,87,Power Surge,0.355,Medium,71
+EQ-0167,Blood Testing Device,27.38,32.51,305,Overheating,0.551,Medium,56
+EQ-0168,Ventilator,24.82,75.84,263,Overheating,0.403,High,10
+EQ-0169,Ventilator,25.6,26.98,324,Overheating,0.834,Low,34
+EQ-0170,MRI Machine,28.55,69.05,319,Calibration Issue,0.815,High,67
+EQ-0171,Blood Testing Device,25.2,42.84,156,Power Surge,0.612,Medium,31
+EQ-0172,CT Scanner,46.9,72.68,155,Overheating,0.373,Medium,71
+EQ-0173,Ventilator,22.41,72.08,138,Mechanical Wear,0.255,High,66
+EQ-0174,Blood Testing Device,35.74,68.36,120,Power Surge,0.106,High,70
+EQ-0175,Blood Testing Device,32.31,67.4,64,Mechanical Wear,0.355,High,41
+EQ-0176,MRI Machine,49.47,38.28,106,Calibration Issue,0.413,Low,63
+EQ-0177,Ventilator,23.36,24.86,146,Overheating,0.676,Medium,32
+EQ-0178,Ventilator,31.94,44.18,136,Mechanical Wear,0.658,High,20
+EQ-0179,CT Scanner,49.08,30.41,161,Calibration Issue,0.07,Medium,57
+EQ-0180,Ventilator,45.97,61.7,99,Overheating,0.395,Low,50
+EQ-0181,CT Scanner,44.51,40.77,337,Mechanical Wear,0.182,Low,25
+EQ-0182,Ventilator,27.74,78.54,306,Mechanical Wear,0.157,Low,12
+EQ-0183,MRI Machine,25.13,58.46,140,Calibration Issue,0.827,Low,71
+EQ-0184,Ventilator,40.06,69.35,82,Overheating,0.042,Medium,39
+EQ-0185,CT Scanner,47.88,27.95,176,Overheating,0.419,Low,17
+EQ-0186,CT Scanner,36.7,71.72,197,Mechanical Wear,0.168,Low,45
+EQ-0187,MRI Machine,37.15,75.37,111,Mechanical Wear,0.879,High,11
+EQ-0188,Ventilator,28.4,49.22,55,Mechanical Wear,0.557,Low,70
+EQ-0189,Ventilator,43.08,56.38,178,Overheating,0.231,High,23
+EQ-0190,MRI Machine,25.61,65.89,185,Calibration Issue,0.502,Low,70
+EQ-0191,Ventilator,29.71,30.49,217,Calibration Issue,0.731,Low,38
+EQ-0192,Ventilator,32.76,50.15,315,Overheating,0.958,High,2
+EQ-0193,CT Scanner,35.23,43.92,216,Power Surge,0.22,Low,37
+EQ-0194,Ventilator,27.27,28.78,119,Calibration Issue,0.886,Medium,49
+EQ-0195,Ventilator,23.45,42.05,174,Mechanical Wear,0.934,Medium,52
+EQ-0196,MRI Machine,38.32,24.09,22,Power Surge,0.916,Low,33
+EQ-0197,MRI Machine,28.66,21.55,212,Power Surge,0.635,Medium,22
+EQ-0198,Blood Testing Device,37.44,28.11,234,Calibration Issue,0.63,High,5
+EQ-0199,CT Scanner,24.63,77.79,12,Power Surge,0.403,Low,18
+EQ-0200,Ventilator,34.43,52.97,100,Power Surge,0.752,Low,38
+EQ-0201,Ventilator,35.98,77.95,23,Calibration Issue,0.531,High,37
+EQ-0202,Blood Testing Device,21.55,45.95,363,Calibration Issue,0.677,High,64
+EQ-0203,Ventilator,30.1,38.71,10,Power Surge,0.428,High,10
+EQ-0204,CT Scanner,24.03,50.37,272,Mechanical Wear,0.731,Low,42
+EQ-0205,Blood Testing Device,21.9,46.37,280,Overheating,0.824,High,48
+EQ-0206,CT Scanner,49.7,26.34,93,Power Surge,0.146,High,44
+EQ-0207,Blood Testing Device,29.67,58.45,200,Power Surge,0.833,Medium,16
+EQ-0208,Blood Testing Device,44.3,32.96,20,Mechanical Wear,0.54,Medium,54
+EQ-0209,MRI Machine,27.64,57.18,339,Power Surge,0.845,Low,35
+EQ-0210,CT Scanner,40.45,59.01,210,Power Surge,0.431,Medium,28
+EQ-0211,Ventilator,42.81,29.12,139,Overheating,0.379,Medium,2
+EQ-0212,Ventilator,37.87,23.68,292,Overheating,0.915,High,13
+EQ-0213,CT Scanner,34.15,66.85,297,Overheating,0.251,High,41
+EQ-0214,Ventilator,32.36,47.59,100,Calibration Issue,0.844,Medium,59
+EQ-0215,Ventilator,30.47,23.49,303,Calibration Issue,0.484,Medium,69
+EQ-0216,CT Scanner,47.89,79.69,358,Overheating,0.514,Medium,53
+EQ-0217,Blood Testing Device,44.92,23.47,27,Overheating,0.308,Low,45
+EQ-0218,CT Scanner,48.95,61.7,40,Calibration Issue,0.573,Low,20
+EQ-0219,Blood Testing Device,23.73,79.02,354,Mechanical Wear,0.325,Low,24
+EQ-0220,Ventilator,41.93,34.35,302,Power Surge,0.039,Medium,61
+EQ-0221,Ventilator,48.15,28.53,145,Power Surge,0.272,Medium,58
+EQ-0222,Ventilator,25.44,27.28,255,Overheating,0.006,Low,27
+EQ-0223,MRI Machine,21.99,38.2,226,Mechanical Wear,0.978,Low,26
+EQ-0224,Blood Testing Device,42.23,26.06,235,Calibration Issue,0.966,Medium,7
+EQ-0225,MRI Machine,37.23,61.53,360,Overheating,0.395,High,42
+EQ-0226,MRI Machine,45.25,23.74,12,Mechanical Wear,0.728,Low,47
+EQ-0227,CT Scanner,24.19,50.57,209,Mechanical Wear,0.346,Medium,53
+EQ-0228,MRI Machine,43.86,79.8,228,Mechanical Wear,0.671,Medium,59
+EQ-0229,CT Scanner,26.05,68.84,99,Calibration Issue,0.805,High,38
+EQ-0230,CT Scanner,24.91,56.91,30,Calibration Issue,0.947,Medium,69
+EQ-0231,MRI Machine,24.93,38.38,15,Power Surge,0.4,Medium,53
+EQ-0232,Blood Testing Device,44.44,57.43,136,Power Surge,0.783,Low,15
+EQ-0233,Blood Testing Device,39.96,51.62,328,Mechanical Wear,0.266,Low,26
+EQ-0234,Blood Testing Device,35.69,45.57,165,Mechanical Wear,0.99,High,48
+EQ-0235,Blood Testing Device,30.76,27.84,309,Calibration Issue,0.026,High,19
+EQ-0236,Blood Testing Device,46.32,73.2,99,Power Surge,0.604,Medium,9
+EQ-0237,MRI Machine,31.77,46.99,108,Mechanical Wear,0.66,Low,64
+EQ-0238,MRI Machine,44.5,31.68,342,Power Surge,0.688,High,54
+EQ-0239,Ventilator,33.17,42.07,172,Power Surge,0.12,High,51
+EQ-0240,Blood Testing Device,31.31,44.85,236,Mechanical Wear,0.939,High,39
+EQ-0241,MRI Machine,33.88,69.65,161,Calibration Issue,0.181,Medium,4
+EQ-0242,Ventilator,29.04,64.02,215,Mechanical Wear,0.623,Low,3
+EQ-0243,Blood Testing Device,42.43,66.16,263,Mechanical Wear,0.223,High,64
+EQ-0244,CT Scanner,35.08,20.66,262,Power Surge,0.307,Low,29
+EQ-0245,Ventilator,26.97,44.97,291,Mechanical Wear,0.546,High,11
+EQ-0246,MRI Machine,46.99,48.88,273,Calibration Issue,0.417,High,58
+EQ-0247,CT Scanner,31.52,21.15,2,Mechanical Wear,0.16,Low,27
+EQ-0248,CT Scanner,36.31,35.59,27,Calibration Issue,0.171,Low,21
+EQ-0249,CT Scanner,47.19,65.62,325,Calibration Issue,0.418,Low,39
+EQ-0250,Ventilator,38.73,28.23,148,Power Surge,0.757,Medium,46
+EQ-0251,MRI Machine,23.51,52.12,27,Overheating,0.898,High,66
+EQ-0252,CT Scanner,48.19,32.91,309,Overheating,0.084,Medium,36
+EQ-0253,Blood Testing Device,38.83,20.73,64,Power Surge,0.393,Low,65
+EQ-0254,CT Scanner,30.05,34.47,355,Mechanical Wear,0.1,High,63
+EQ-0255,CT Scanner,24.18,78.55,20,Power Surge,0.017,Medium,35
+EQ-0256,Ventilator,43.82,68.09,251,Calibration Issue,0.662,High,31
+EQ-0257,Ventilator,38.6,77.57,234,Overheating,0.602,Medium,28
+EQ-0258,MRI Machine,36.0,49.27,226,Power Surge,0.163,Low,1
+EQ-0259,Blood Testing Device,46.82,26.58,12,Mechanical Wear,0.234,Medium,25
+EQ-0260,Ventilator,43.66,52.88,312,Power Surge,0.024,High,43
+EQ-0261,CT Scanner,24.55,47.26,48,Overheating,0.835,High,67
+EQ-0262,MRI Machine,29.35,70.66,117,Power Surge,0.975,High,63
+EQ-0263,CT Scanner,27.45,25.88,53,Power Surge,0.135,High,51
+EQ-0264,CT Scanner,42.32,49.29,137,Overheating,0.231,Low,2
+EQ-0265,Ventilator,21.01,29.0,52,Calibration Issue,0.868,Medium,64
+EQ-0266,MRI Machine,37.1,39.48,43,Calibration Issue,0.926,Low,69
+EQ-0267,Blood Testing Device,42.87,64.24,302,Overheating,0.42,Low,9
+EQ-0268,Blood Testing Device,46.3,48.56,52,Power Surge,0.051,Low,2
+EQ-0269,Ventilator,30.26,42.55,73,Overheating,0.039,High,34
+EQ-0270,Ventilator,44.64,43.67,45,Calibration Issue,0.574,High,60
+EQ-0271,MRI Machine,23.32,47.57,12,Mechanical Wear,0.393,High,61
+EQ-0272,Blood Testing Device,45.39,67.1,164,Power Surge,0.029,Medium,31
+EQ-0273,Blood Testing Device,23.82,73.53,101,Calibration Issue,0.583,High,10
+EQ-0274,Blood Testing Device,31.92,77.32,279,Power Surge,0.011,Medium,36
+EQ-0275,CT Scanner,43.92,67.21,257,Overheating,0.787,High,49
+EQ-0276,Blood Testing Device,24.5,38.92,336,Mechanical Wear,0.306,High,70
+EQ-0277,CT Scanner,26.88,61.29,355,Overheating,0.04,Low,49
+EQ-0278,MRI Machine,41.67,46.26,137,Mechanical Wear,0.588,Low,3
+EQ-0279,CT Scanner,41.6,35.28,162,Power Surge,0.398,Low,5
+EQ-0280,MRI Machine,39.23,70.45,110,Power Surge,0.974,Medium,61
+EQ-0281,Blood Testing Device,40.82,22.31,101,Overheating,0.544,Medium,26
+EQ-0282,Blood Testing Device,36.28,74.11,16,Mechanical Wear,0.275,High,5
+EQ-0283,MRI Machine,27.55,47.69,267,Mechanical Wear,0.709,Medium,15
+EQ-0284,Ventilator,30.37,58.23,181,Power Surge,0.271,High,16
+EQ-0285,MRI Machine,25.45,59.56,23,Overheating,0.904,Medium,1
+EQ-0286,Ventilator,47.25,73.71,28,Mechanical Wear,0.375,Medium,16
+EQ-0287,CT Scanner,37.5,58.2,170,Power Surge,0.55,Medium,37
+EQ-0288,CT Scanner,32.03,56.84,227,Calibration Issue,0.051,Low,3
+EQ-0289,CT Scanner,33.86,24.0,187,Overheating,0.426,Medium,52
+EQ-0290,Blood Testing Device,48.42,51.1,345,Calibration Issue,0.832,Low,47
+EQ-0291,CT Scanner,24.6,29.01,229,Overheating,0.806,Low,13
+EQ-0292,Ventilator,37.59,64.25,320,Power Surge,0.224,Medium,55
+EQ-0293,CT Scanner,35.18,50.73,339,Mechanical Wear,0.226,High,21
+EQ-0294,MRI Machine,38.34,60.81,118,Mechanical Wear,0.817,High,66
+EQ-0295,MRI Machine,20.54,22.5,155,Mechanical Wear,0.93,High,54
+EQ-0296,Blood Testing Device,46.16,25.09,271,Overheating,0.095,Medium,27
+EQ-0297,MRI Machine,47.96,62.98,174,Power Surge,0.45,High,38
+EQ-0298,Ventilator,36.95,24.33,103,Calibration Issue,0.337,Low,58
+EQ-0299,CT Scanner,40.9,24.28,91,Power Surge,0.871,High,62
+EQ-0300,Blood Testing Device,47.67,20.73,185,Calibration Issue,0.084,Medium,46
+EQ-0301,CT Scanner,41.22,77.39,282,Overheating,0.211,High,11
+EQ-0302,CT Scanner,24.58,64.25,180,Overheating,0.752,Low,8
+EQ-0303,Ventilator,37.29,41.2,169,Calibration Issue,0.051,Medium,71
+EQ-0304,MRI Machine,38.2,37.79,186,Calibration Issue,0.493,High,64
+EQ-0305,MRI Machine,32.72,40.98,174,Calibration Issue,0.442,Medium,21
+EQ-0306,CT Scanner,42.09,66.48,221,Power Surge,0.334,Medium,63
+EQ-0307,Blood Testing Device,48.03,59.68,232,Calibration Issue,0.395,Medium,64
+EQ-0308,MRI Machine,47.77,31.11,161,Overheating,0.53,High,20
+EQ-0309,Blood Testing Device,33.53,30.45,133,Overheating,0.161,Medium,8
+EQ-0310,MRI Machine,23.4,25.9,223,Mechanical Wear,0.572,High,58
+EQ-0311,Blood Testing Device,49.55,59.62,152,Calibration Issue,0.805,Low,46
+EQ-0312,Ventilator,45.17,65.86,32,Power Surge,0.76,High,31
+EQ-0313,Blood Testing Device,23.74,35.9,54,Power Surge,0.154,Low,9
+EQ-0314,Ventilator,47.63,21.26,6,Power Surge,0.149,High,15
+EQ-0315,Ventilator,46.1,24.93,243,Mechanical Wear,0.268,Medium,26
+EQ-0316,Blood Testing Device,35.57,78.07,312,Overheating,0.361,High,10
+EQ-0317,Ventilator,37.74,37.73,125,Power Surge,0.408,Medium,29
+EQ-0318,CT Scanner,31.97,66.15,11,Overheating,0.68,Low,36
+EQ-0319,Ventilator,21.64,57.48,15,Mechanical Wear,0.057,High,37
+EQ-0320,MRI Machine,30.06,42.92,207,Calibration Issue,0.035,Medium,71
+EQ-0321,Blood Testing Device,44.09,32.34,42,Calibration Issue,0.392,Low,23
+EQ-0322,CT Scanner,20.14,27.28,134,Calibration Issue,0.697,Low,41
+EQ-0323,Blood Testing Device,30.0,56.9,227,Power Surge,0.193,High,28
+EQ-0324,MRI Machine,31.95,66.48,110,Calibration Issue,0.642,Low,48
+EQ-0325,MRI Machine,36.12,58.63,306,Power Surge,0.26,Medium,38
+EQ-0326,MRI Machine,47.6,51.82,159,Mechanical Wear,0.886,Low,31
+EQ-0327,Ventilator,30.39,22.52,330,Mechanical Wear,0.896,Low,14
+EQ-0328,Ventilator,30.41,78.11,263,Power Surge,0.297,Medium,29
+EQ-0329,Blood Testing Device,42.13,67.92,224,Overheating,0.23,Low,51
+EQ-0330,Blood Testing Device,33.57,37.57,216,Calibration Issue,0.411,Low,49
+EQ-0331,CT Scanner,26.74,78.8,44,Calibration Issue,0.241,Low,43
+EQ-0332,CT Scanner,33.57,56.11,213,Calibration Issue,0.672,Low,5
+EQ-0333,Blood Testing Device,24.23,54.95,58,Power Surge,0.826,Medium,42
+EQ-0334,Ventilator,25.29,64.88,131,Mechanical Wear,0.673,Low,7
+EQ-0335,MRI Machine,34.95,68.71,103,Calibration Issue,0.824,Medium,42
+EQ-0336,Blood Testing Device,32.57,59.39,194,Mechanical Wear,0.397,Low,36
+EQ-0337,CT Scanner,47.45,27.69,156,Calibration Issue,0.156,Low,27
+EQ-0338,Ventilator,30.87,40.3,97,Calibration Issue,0.738,Low,58
+EQ-0339,Blood Testing Device,37.42,75.69,225,Power Surge,0.36,Low,46
+EQ-0340,Blood Testing Device,38.97,33.48,204,Overheating,0.671,Medium,66
+EQ-0341,Ventilator,20.39,42.33,78,Power Surge,0.271,Medium,25
+EQ-0342,Blood Testing Device,39.91,45.92,123,Calibration Issue,0.081,Medium,27
+EQ-0343,Ventilator,25.34,46.36,217,Calibration Issue,0.993,High,1
+EQ-0344,MRI Machine,48.83,56.78,3,Overheating,0.156,Low,42
+EQ-0345,Ventilator,24.46,76.58,89,Mechanical Wear,0.988,Low,52
+EQ-0346,Ventilator,32.44,34.44,103,Mechanical Wear,0.977,Medium,25
+EQ-0347,Ventilator,22.56,27.29,118,Calibration Issue,0.794,High,54
+EQ-0348,Blood Testing Device,49.91,31.85,132,Mechanical Wear,0.659,Low,67
+EQ-0349,Blood Testing Device,35.07,73.22,311,Calibration Issue,0.578,Medium,6
+EQ-0350,Ventilator,37.86,58.75,95,Overheating,0.866,Low,58
+EQ-0351,Blood Testing Device,22.01,37.15,330,Overheating,0.289,Low,70
+EQ-0352,CT Scanner,42.5,68.96,142,Calibration Issue,0.468,Medium,53
+EQ-0353,CT Scanner,26.3,71.68,287,Overheating,0.619,Medium,66
+EQ-0354,Blood Testing Device,46.94,70.79,27,Power Surge,0.411,Low,58
+EQ-0355,Blood Testing Device,26.15,75.14,277,Power Surge,0.427,Low,2
+EQ-0356,Ventilator,25.72,35.13,232,Overheating,0.33,Medium,22
+EQ-0357,MRI Machine,21.1,65.3,16,Calibration Issue,0.564,Low,37
+EQ-0358,Blood Testing Device,34.16,47.63,58,Calibration Issue,0.851,Low,20
+EQ-0359,CT Scanner,36.95,70.52,89,Overheating,0.202,Medium,24
+EQ-0360,Ventilator,21.97,63.71,198,Mechanical Wear,0.934,Low,65
+EQ-0361,Blood Testing Device,43.27,66.59,361,Power Surge,0.689,Low,65
+EQ-0362,CT Scanner,33.6,59.37,25,Mechanical Wear,0.823,High,1
+EQ-0363,CT Scanner,35.73,30.65,24,Calibration Issue,0.556,Medium,3
+EQ-0364,MRI Machine,33.22,52.7,300,Calibration Issue,0.78,High,46
+EQ-0365,Ventilator,32.02,79.08,338,Mechanical Wear,0.016,High,55
+EQ-0366,Ventilator,36.79,76.24,266,Overheating,0.818,High,64
+EQ-0367,MRI Machine,24.66,22.59,180,Mechanical Wear,0.04,Low,45
+EQ-0368,MRI Machine,25.46,29.89,359,Mechanical Wear,0.89,Low,26
+EQ-0369,Ventilator,45.85,27.9,67,Power Surge,0.992,High,65
+EQ-0370,Ventilator,48.38,63.56,350,Power Surge,0.294,High,24
+EQ-0371,Blood Testing Device,31.2,69.07,320,Mechanical Wear,0.21,High,35
+EQ-0372,Blood Testing Device,28.12,32.81,48,Mechanical Wear,0.765,Low,24
+EQ-0373,MRI Machine,39.32,50.35,174,Calibration Issue,0.253,High,28
+EQ-0374,Blood Testing Device,32.26,70.44,51,Power Surge,0.866,High,16
+EQ-0375,CT Scanner,20.76,63.97,101,Power Surge,0.103,Medium,59
+EQ-0376,Blood Testing Device,24.68,52.53,215,Calibration Issue,0.126,Medium,54
+EQ-0377,Blood Testing Device,41.48,55.42,187,Overheating,0.979,Low,16
+EQ-0378,CT Scanner,39.77,50.5,56,Power Surge,0.674,Medium,15
+EQ-0379,MRI Machine,20.81,37.85,46,Power Surge,0.847,Medium,11
+EQ-0380,CT Scanner,26.66,53.9,158,Overheating,0.324,Medium,65
+EQ-0381,Blood Testing Device,26.93,61.33,173,Power Surge,0.676,Low,68
+EQ-0382,MRI Machine,40.16,72.4,241,Power Surge,0.594,Medium,43
+EQ-0383,Blood Testing Device,20.59,58.18,281,Overheating,0.603,Low,69
+EQ-0384,CT Scanner,23.12,65.67,240,Overheating,0.683,High,13
+EQ-0385,CT Scanner,44.0,29.6,4,Mechanical Wear,0.575,Medium,10
+EQ-0386,Blood Testing Device,25.36,47.69,83,Calibration Issue,0.429,Low,41
+EQ-0387,Ventilator,39.58,20.56,307,Calibration Issue,0.276,Medium,50
+EQ-0388,Ventilator,27.15,34.8,360,Overheating,0.769,High,71
+EQ-0389,CT Scanner,22.98,63.59,247,Overheating,0.226,Low,59
+EQ-0390,CT Scanner,27.3,79.51,53,Power Surge,0.692,Low,39
+EQ-0391,Ventilator,41.67,25.95,160,Mechanical Wear,0.233,Low,3
+EQ-0392,Ventilator,45.67,44.09,225,Mechanical Wear,0.625,High,7
+EQ-0393,Blood Testing Device,44.91,68.0,14,Overheating,0.747,High,49
+EQ-0394,Blood Testing Device,31.92,32.24,223,Power Surge,0.219,High,26
+EQ-0395,Ventilator,40.04,53.31,60,Power Surge,0.06,Low,33
+EQ-0396,Blood Testing Device,26.15,63.98,121,Calibration Issue,0.131,High,48
+EQ-0397,Blood Testing Device,28.79,56.96,276,Calibration Issue,0.606,Medium,2
+EQ-0398,MRI Machine,46.89,31.28,45,Power Surge,0.849,High,71
+EQ-0399,Blood Testing Device,20.39,41.32,293,Calibration Issue,0.045,Low,32
+EQ-0400,CT Scanner,22.57,67.03,61,Overheating,0.734,Medium,4
+EQ-0401,Blood Testing Device,26.24,53.25,85,Power Surge,0.341,High,20
+EQ-0402,Blood Testing Device,20.8,20.31,209,Calibration Issue,0.479,Medium,36
+EQ-0403,Ventilator,25.44,65.66,77,Mechanical Wear,0.929,Medium,32
+EQ-0404,CT Scanner,37.49,22.12,201,Power Surge,0.332,Low,28
+EQ-0405,Blood Testing Device,32.64,64.74,301,Power Surge,0.465,Medium,1
+EQ-0406,Blood Testing Device,46.78,32.15,222,Mechanical Wear,0.014,Medium,60
+EQ-0407,MRI Machine,44.52,77.48,221,Overheating,0.082,Low,56
+EQ-0408,Blood Testing Device,30.25,42.08,2,Mechanical Wear,0.259,Low,35
+EQ-0409,Blood Testing Device,27.78,39.62,5,Power Surge,0.028,Low,30
+EQ-0410,MRI Machine,31.39,28.93,92,Overheating,0.631,Medium,54
+EQ-0411,Ventilator,37.71,38.34,7,Calibration Issue,0.426,Medium,36
+EQ-0412,Blood Testing Device,28.04,72.6,234,Calibration Issue,0.548,Medium,55
+EQ-0413,MRI Machine,38.72,79.78,107,Calibration Issue,0.175,Low,58
+EQ-0414,CT Scanner,32.28,42.1,160,Power Surge,0.296,High,65
+EQ-0415,Ventilator,36.56,46.92,208,Mechanical Wear,0.664,Medium,69
+EQ-0416,CT Scanner,33.08,63.32,239,Overheating,0.965,High,51
+EQ-0417,CT Scanner,28.83,73.17,330,Calibration Issue,0.05,Low,22
+EQ-0418,MRI Machine,48.45,55.58,332,Overheating,0.89,Medium,53
+EQ-0419,Blood Testing Device,42.91,43.49,49,Power Surge,0.577,High,36
+EQ-0420,MRI Machine,24.2,44.76,10,Calibration Issue,0.564,Medium,68
+EQ-0421,MRI Machine,46.05,61.74,350,Power Surge,0.5,Medium,36
+EQ-0422,MRI Machine,34.62,20.19,155,Mechanical Wear,0.069,Medium,52
+EQ-0423,MRI Machine,46.84,57.18,69,Power Surge,0.09,High,53
+EQ-0424,Ventilator,44.0,41.33,168,Power Surge,0.601,Low,50
+EQ-0425,Blood Testing Device,32.76,67.65,271,Mechanical Wear,0.341,Medium,41
+EQ-0426,CT Scanner,20.67,25.58,67,Overheating,0.917,Low,18
+EQ-0427,CT Scanner,28.06,55.29,354,Mechanical Wear,0.407,Low,22
+EQ-0428,Blood Testing Device,36.25,48.86,251,Mechanical Wear,0.143,High,66
+EQ-0429,CT Scanner,39.0,58.54,47,Power Surge,0.715,High,21
+EQ-0430,Blood Testing Device,27.74,23.89,183,Overheating,0.293,Low,44
+EQ-0431,CT Scanner,24.18,54.8,319,Calibration Issue,0.525,Medium,47
+EQ-0432,MRI Machine,45.05,53.69,186,Mechanical Wear,0.698,High,39
+EQ-0433,CT Scanner,49.53,53.64,89,Overheating,0.9,Medium,29
+EQ-0434,Blood Testing Device,35.77,56.21,331,Mechanical Wear,0.792,Medium,54
+EQ-0435,Blood Testing Device,25.15,60.59,138,Mechanical Wear,0.676,Medium,17
+EQ-0436,Blood Testing Device,28.17,68.3,356,Mechanical Wear,0.68,Low,60
+EQ-0437,Blood Testing Device,20.55,36.19,88,Mechanical Wear,0.946,Medium,31
+EQ-0438,Blood Testing Device,47.43,69.5,273,Power Surge,0.296,Low,49
+EQ-0439,Ventilator,23.53,49.9,18,Overheating,0.001,Low,2
+EQ-0440,Ventilator,37.3,24.62,310,Overheating,0.272,Medium,48
+EQ-0441,CT Scanner,28.22,23.51,357,Overheating,0.218,Medium,14
+EQ-0442,Blood Testing Device,36.63,40.05,153,Mechanical Wear,0.662,Medium,59
+EQ-0443,CT Scanner,39.54,67.09,259,Power Surge,0.634,Medium,58
+EQ-0444,Blood Testing Device,44.89,62.46,107,Mechanical Wear,0.593,Low,58
+EQ-0445,Blood Testing Device,26.19,67.32,284,Mechanical Wear,0.016,Medium,51
+EQ-0446,Ventilator,20.33,51.04,58,Overheating,0.729,Medium,2
+EQ-0447,Ventilator,24.11,46.41,124,Mechanical Wear,0.324,Low,41
+EQ-0448,MRI Machine,47.0,28.85,353,Calibration Issue,0.665,High,16
+EQ-0449,Ventilator,46.22,39.69,272,Mechanical Wear,0.557,High,4
+EQ-0450,MRI Machine,37.92,46.04,106,Calibration Issue,0.343,Low,12
+EQ-0451,MRI Machine,38.02,25.32,298,Mechanical Wear,0.135,High,29
+EQ-0452,MRI Machine,39.95,33.24,244,Power Surge,0.094,Low,7
+EQ-0453,MRI Machine,25.26,55.89,335,Power Surge,0.832,Medium,14
+EQ-0454,MRI Machine,47.43,64.14,246,Overheating,0.918,Medium,12
+EQ-0455,CT Scanner,32.56,79.9,7,Mechanical Wear,0.65,High,5
+EQ-0456,Ventilator,31.49,75.99,140,Calibration Issue,0.103,Medium,32
+EQ-0457,MRI Machine,35.57,58.55,361,Calibration Issue,0.402,High,43
+EQ-0458,Blood Testing Device,21.41,45.27,7,Mechanical Wear,0.729,High,69
+EQ-0459,Ventilator,24.99,58.17,351,Calibration Issue,0.78,Medium,45
+EQ-0460,Ventilator,42.14,67.14,93,Power Surge,0.118,Medium,9
+EQ-0461,MRI Machine,22.48,27.1,320,Calibration Issue,0.0,High,49
+EQ-0462,CT Scanner,38.09,44.59,38,Overheating,0.712,Medium,33
+EQ-0463,MRI Machine,27.36,70.39,80,Power Surge,0.357,Low,18
+EQ-0464,CT Scanner,31.68,43.03,186,Power Surge,0.254,Medium,9
+EQ-0465,Blood Testing Device,28.66,54.31,83,Power Surge,0.013,Medium,62
+EQ-0466,Ventilator,30.67,55.27,87,Mechanical Wear,0.54,Low,57
+EQ-0467,Blood Testing Device,41.57,31.07,241,Mechanical Wear,0.851,Medium,29
+EQ-0468,CT Scanner,28.91,41.73,341,Power Surge,0.958,Medium,25
+EQ-0469,CT Scanner,36.99,40.07,92,Mechanical Wear,0.566,High,15
+EQ-0470,Blood Testing Device,34.28,21.57,85,Calibration Issue,0.514,Medium,6
+EQ-0471,CT Scanner,39.91,21.45,43,Mechanical Wear,0.085,Medium,42
+EQ-0472,Blood Testing Device,48.1,69.9,136,Mechanical Wear,0.549,Low,29
+EQ-0473,Ventilator,41.98,36.38,73,Power Surge,0.38,High,4
+EQ-0474,Blood Testing Device,26.45,51.08,35,Overheating,0.607,High,57
+EQ-0475,Ventilator,20.94,37.92,100,Overheating,0.389,High,49
+EQ-0476,Blood Testing Device,27.87,76.44,155,Overheating,0.24,Medium,44
+EQ-0477,CT Scanner,37.85,35.56,254,Calibration Issue,0.095,High,14
+EQ-0478,Blood Testing Device,21.54,45.78,170,Mechanical Wear,0.315,Low,3
+EQ-0479,CT Scanner,34.89,72.36,215,Overheating,0.097,High,62
+EQ-0480,Blood Testing Device,37.91,70.52,169,Power Surge,0.177,Low,64
+EQ-0481,Blood Testing Device,30.03,31.17,251,Overheating,0.987,High,45
+EQ-0482,MRI Machine,43.13,68.16,359,Overheating,0.444,High,58
+EQ-0483,CT Scanner,23.2,47.49,321,Mechanical Wear,0.532,Low,20
+EQ-0484,MRI Machine,22.25,48.98,54,Mechanical Wear,0.874,High,58
+EQ-0485,CT Scanner,41.85,28.01,90,Mechanical Wear,0.996,High,57
+EQ-0486,MRI Machine,34.86,24.84,277,Calibration Issue,0.583,High,68
+EQ-0487,Ventilator,40.65,63.68,100,Calibration Issue,0.812,Medium,52
+EQ-0488,Blood Testing Device,33.04,49.79,154,Overheating,0.327,Low,37
+EQ-0489,CT Scanner,27.39,46.21,348,Mechanical Wear,0.306,High,8
+EQ-0490,CT Scanner,44.57,63.77,363,Overheating,0.403,Low,44
+EQ-0491,Blood Testing Device,43.98,65.93,140,Power Surge,0.673,Low,5
+EQ-0492,CT Scanner,40.84,29.53,172,Power Surge,0.682,Low,69
+EQ-0493,CT Scanner,28.16,56.61,9,Mechanical Wear,0.315,High,31
+EQ-0494,MRI Machine,37.71,28.12,227,Mechanical Wear,0.133,High,45
+EQ-0495,CT Scanner,30.83,65.08,264,Power Surge,0.632,Low,9
+EQ-0496,Ventilator,22.75,59.42,247,Mechanical Wear,0.128,Medium,32
+EQ-0497,Ventilator,47.52,77.4,246,Calibration Issue,0.578,Low,33
+EQ-0498,Blood Testing Device,24.1,24.14,154,Calibration Issue,0.693,Medium,67
+EQ-0499,CT Scanner,48.51,23.42,33,Mechanical Wear,0.701,Low,30
+EQ-0500,Blood Testing Device,33.38,36.93,128,Power Surge,0.753,Low,29
+EQ-0501,Ventilator,25.55,35.7,159,Overheating,0.873,Low,3
+EQ-0502,CT Scanner,36.26,34.82,88,Mechanical Wear,0.5,High,57
+EQ-0503,CT Scanner,46.19,74.38,92,Mechanical Wear,0.73,Medium,30
+EQ-0504,Blood Testing Device,41.97,34.97,326,Overheating,0.619,Medium,9
+EQ-0505,Ventilator,44.2,36.32,240,Mechanical Wear,0.187,Low,26
+EQ-0506,CT Scanner,39.76,65.56,322,Overheating,0.026,High,2
+EQ-0507,Blood Testing Device,40.77,46.98,116,Power Surge,0.285,High,62
+EQ-0508,Ventilator,45.48,66.6,93,Calibration Issue,0.443,Medium,3
+EQ-0509,Blood Testing Device,27.49,23.92,162,Power Surge,0.617,High,46
+EQ-0510,MRI Machine,34.68,49.25,98,Calibration Issue,0.85,Medium,68
+EQ-0511,CT Scanner,26.64,22.02,112,Overheating,0.196,Medium,25
+EQ-0512,MRI Machine,49.63,23.76,358,Calibration Issue,0.126,Medium,51
+EQ-0513,Ventilator,48.32,74.39,90,Power Surge,0.963,High,13
+EQ-0514,MRI Machine,21.18,28.35,345,Calibration Issue,0.108,Medium,44
+EQ-0515,MRI Machine,41.17,51.95,205,Overheating,0.478,Medium,35
+EQ-0516,Ventilator,47.76,44.67,16,Calibration Issue,0.586,Low,55
+EQ-0517,Blood Testing Device,25.42,40.84,273,Mechanical Wear,0.541,Medium,9
+EQ-0518,MRI Machine,37.04,73.99,172,Power Surge,0.086,Medium,2
+EQ-0519,Blood Testing Device,47.46,21.31,115,Mechanical Wear,0.057,Low,61
+EQ-0520,MRI Machine,21.02,59.83,348,Overheating,0.105,Low,41
+EQ-0521,Blood Testing Device,40.92,77.8,180,Calibration Issue,0.586,High,44
+EQ-0522,Ventilator,28.92,53.61,90,Mechanical Wear,0.544,Medium,64
+EQ-0523,MRI Machine,47.73,76.21,81,Mechanical Wear,0.234,High,31
+EQ-0524,Ventilator,49.13,23.14,323,Calibration Issue,0.638,High,47
+EQ-0525,MRI Machine,48.33,45.13,113,Calibration Issue,0.82,Low,2
+EQ-0526,Ventilator,34.23,35.61,256,Power Surge,0.042,High,69
+EQ-0527,Ventilator,45.86,63.85,57,Mechanical Wear,0.498,Medium,58
+EQ-0528,MRI Machine,45.34,78.88,153,Mechanical Wear,0.689,Low,44
+EQ-0529,MRI Machine,29.57,35.39,364,Overheating,0.252,Medium,56
+EQ-0530,MRI Machine,44.87,59.25,115,Power Surge,0.308,Medium,43
+EQ-0531,CT Scanner,21.11,31.89,342,Overheating,0.614,Low,34
+EQ-0532,Blood Testing Device,37.89,53.92,265,Mechanical Wear,0.898,Medium,30
+EQ-0533,CT Scanner,26.9,47.84,314,Overheating,0.81,Low,71
+EQ-0534,CT Scanner,23.62,78.32,202,Mechanical Wear,0.583,Medium,70
+EQ-0535,Ventilator,22.31,56.51,40,Mechanical Wear,0.73,Low,55
+EQ-0536,MRI Machine,40.89,40.97,104,Overheating,0.365,High,67
+EQ-0537,Blood Testing Device,30.2,26.85,192,Overheating,0.641,Medium,13
+EQ-0538,Ventilator,41.74,29.07,277,Calibration Issue,0.466,Low,3
+EQ-0539,CT Scanner,21.96,33.52,353,Calibration Issue,0.19,Medium,26
+EQ-0540,MRI Machine,29.46,35.06,236,Calibration Issue,0.702,Medium,57
+EQ-0541,Ventilator,36.18,71.04,220,Mechanical Wear,0.556,Medium,24
+EQ-0542,MRI Machine,43.72,53.67,67,Overheating,0.359,Low,53
+EQ-0543,Ventilator,29.56,51.4,196,Power Surge,0.911,High,70
+EQ-0544,MRI Machine,38.78,26.89,255,Mechanical Wear,0.021,High,43
+EQ-0545,CT Scanner,46.58,71.61,138,Power Surge,0.316,High,60
+EQ-0546,Blood Testing Device,38.48,63.37,311,Overheating,0.057,Low,58
+EQ-0547,CT Scanner,26.99,24.06,148,Mechanical Wear,0.767,High,49
+EQ-0548,Blood Testing Device,20.73,62.47,98,Power Surge,0.702,Low,42
+EQ-0549,MRI Machine,46.1,52.61,75,Power Surge,0.331,Medium,66
+EQ-0550,Ventilator,20.64,24.9,281,Calibration Issue,0.676,Medium,11
+EQ-0551,CT Scanner,46.24,47.5,108,Calibration Issue,0.396,High,18
+EQ-0552,Blood Testing Device,35.87,49.08,187,Calibration Issue,0.756,Low,52
+EQ-0553,CT Scanner,48.17,29.95,198,Mechanical Wear,0.454,Medium,46
+EQ-0554,Blood Testing Device,43.96,76.74,302,Overheating,0.412,Low,44
+EQ-0555,CT Scanner,49.94,71.0,326,Overheating,0.935,Low,22
+EQ-0556,Blood Testing Device,30.52,60.14,153,Calibration Issue,0.251,Medium,53
+EQ-0557,Blood Testing Device,43.02,47.74,39,Calibration Issue,0.12,Low,59
+EQ-0558,MRI Machine,32.06,44.71,132,Calibration Issue,0.585,Medium,30
+EQ-0559,Blood Testing Device,34.4,59.06,131,Power Surge,0.969,Medium,8
+EQ-0560,MRI Machine,38.83,52.73,278,Calibration Issue,0.378,Medium,57
+EQ-0561,Blood Testing Device,46.21,23.74,361,Power Surge,0.062,Low,20
+EQ-0562,Ventilator,49.52,50.75,83,Overheating,0.339,Medium,25
+EQ-0563,Ventilator,43.05,68.38,241,Mechanical Wear,0.506,Low,19
+EQ-0564,Ventilator,32.53,47.55,115,Mechanical Wear,0.162,Medium,5
+EQ-0565,Blood Testing Device,32.64,23.12,108,Mechanical Wear,0.658,Medium,27
+EQ-0566,MRI Machine,42.13,67.18,220,Mechanical Wear,0.998,High,40
+EQ-0567,MRI Machine,27.16,32.08,40,Power Surge,0.452,High,26
+EQ-0568,Blood Testing Device,23.31,35.52,146,Power Surge,0.355,High,27
+EQ-0569,Ventilator,30.64,29.88,111,Calibration Issue,0.401,Low,62
+EQ-0570,Ventilator,28.62,39.81,102,Power Surge,0.115,Low,50
+EQ-0571,MRI Machine,28.89,65.41,45,Calibration Issue,0.883,Medium,42
+EQ-0572,Ventilator,27.01,51.16,323,Calibration Issue,0.415,Medium,29
+EQ-0573,CT Scanner,21.26,32.29,270,Mechanical Wear,0.387,Medium,39
+EQ-0574,MRI Machine,20.54,72.67,194,Power Surge,0.66,Medium,60
+EQ-0575,Ventilator,49.63,72.77,279,Power Surge,0.442,Low,41
+EQ-0576,MRI Machine,32.83,72.23,282,Calibration Issue,0.648,Medium,33
+EQ-0577,CT Scanner,31.53,34.33,39,Calibration Issue,0.061,Medium,16
+EQ-0578,MRI Machine,40.39,47.07,188,Overheating,0.814,High,23
+EQ-0579,MRI Machine,26.55,79.1,163,Overheating,0.941,Medium,7
+EQ-0580,MRI Machine,48.5,66.32,23,Calibration Issue,0.649,Medium,26
+EQ-0581,MRI Machine,43.59,21.63,23,Overheating,0.955,Medium,12
+EQ-0582,CT Scanner,22.68,23.91,3,Overheating,0.151,Low,5
+EQ-0583,Blood Testing Device,32.53,47.84,322,Calibration Issue,0.477,High,69
+EQ-0584,MRI Machine,46.37,74.55,289,Calibration Issue,0.602,Medium,49
+EQ-0585,MRI Machine,48.34,52.32,180,Power Surge,0.582,Medium,26
+EQ-0586,Ventilator,34.02,49.87,247,Calibration Issue,0.401,High,5
+EQ-0587,MRI Machine,38.4,26.33,115,Calibration Issue,0.338,Medium,22
+EQ-0588,Ventilator,25.01,59.41,278,Mechanical Wear,0.127,Low,13
+EQ-0589,Blood Testing Device,49.74,69.33,364,Power Surge,0.392,Medium,28
+EQ-0590,CT Scanner,26.95,42.83,68,Power Surge,0.163,Low,33
+EQ-0591,CT Scanner,48.28,66.54,350,Power Surge,0.734,Low,23
+EQ-0592,Blood Testing Device,39.49,77.87,253,Mechanical Wear,0.209,Medium,18
+EQ-0593,CT Scanner,38.23,32.23,180,Calibration Issue,0.059,High,30
+EQ-0594,Blood Testing Device,35.38,51.4,317,Power Surge,0.552,Low,26
+EQ-0595,Blood Testing Device,26.92,37.23,168,Power Surge,0.595,High,16
+EQ-0596,Blood Testing Device,25.3,67.57,312,Overheating,0.872,Medium,39
+EQ-0597,CT Scanner,26.61,54.66,248,Power Surge,0.577,Low,33
+EQ-0598,Ventilator,25.59,58.07,187,Calibration Issue,0.345,Medium,26
+EQ-0599,Blood Testing Device,43.39,67.87,53,Calibration Issue,0.803,High,48
+EQ-0600,MRI Machine,30.5,43.76,325,Overheating,0.54,Medium,65
+EQ-0601,CT Scanner,21.74,74.91,356,Power Surge,0.079,Medium,38
+EQ-0602,Blood Testing Device,49.07,51.98,312,Power Surge,0.566,Low,2
+EQ-0603,Blood Testing Device,46.51,29.48,137,Power Surge,0.908,Medium,6
+EQ-0604,MRI Machine,47.83,61.75,167,Mechanical Wear,0.396,Medium,46
+EQ-0605,Ventilator,49.85,67.6,102,Power Surge,0.296,Medium,50
+EQ-0606,Ventilator,25.22,39.01,84,Calibration Issue,0.143,Low,38
+EQ-0607,Ventilator,31.89,71.43,316,Calibration Issue,0.151,High,18
+EQ-0608,Blood Testing Device,42.75,74.37,211,Mechanical Wear,0.433,High,27
+EQ-0609,Blood Testing Device,40.88,36.61,2,Mechanical Wear,0.596,Medium,41
+EQ-0610,Blood Testing Device,24.62,79.01,178,Power Surge,0.081,Low,17
+EQ-0611,CT Scanner,44.47,28.44,341,Overheating,0.94,Medium,62
+EQ-0612,MRI Machine,26.73,32.12,302,Mechanical Wear,0.755,High,29
+EQ-0613,Blood Testing Device,26.71,31.05,331,Mechanical Wear,0.587,Low,58
+EQ-0614,MRI Machine,36.11,73.64,37,Power Surge,0.828,High,70
+EQ-0615,MRI Machine,37.79,59.26,238,Power Surge,0.08,High,22
+EQ-0616,Ventilator,37.4,29.13,168,Mechanical Wear,0.477,Low,6
+EQ-0617,CT Scanner,22.74,46.42,342,Overheating,0.63,Low,26
+EQ-0618,Blood Testing Device,46.32,56.92,313,Mechanical Wear,0.829,Medium,39
+EQ-0619,Ventilator,27.97,25.01,305,Power Surge,0.783,Medium,12
+EQ-0620,Ventilator,23.89,72.94,29,Power Surge,0.277,High,14
+EQ-0621,Blood Testing Device,46.66,68.22,189,Mechanical Wear,0.941,Low,22
+EQ-0622,MRI Machine,48.67,50.31,356,Overheating,0.124,Low,51
+EQ-0623,Ventilator,45.86,78.03,24,Mechanical Wear,0.875,Medium,23
+EQ-0624,MRI Machine,44.29,45.07,111,Mechanical Wear,0.971,High,48
+EQ-0625,CT Scanner,39.66,79.05,205,Power Surge,0.177,High,71
+EQ-0626,MRI Machine,36.53,60.08,184,Overheating,0.722,Medium,50
+EQ-0627,CT Scanner,22.61,58.08,46,Calibration Issue,0.04,Low,13
+EQ-0628,MRI Machine,32.25,29.96,227,Overheating,0.405,Medium,10
+EQ-0629,Ventilator,31.18,72.92,38,Mechanical Wear,0.516,Medium,55
+EQ-0630,Ventilator,27.79,45.65,15,Mechanical Wear,0.581,Medium,9
+EQ-0631,CT Scanner,41.7,29.73,21,Mechanical Wear,0.936,Medium,52
+EQ-0632,Blood Testing Device,34.88,20.76,212,Overheating,0.672,Low,2
+EQ-0633,CT Scanner,22.43,53.59,309,Power Surge,0.481,Medium,25
+EQ-0634,CT Scanner,26.61,51.64,148,Mechanical Wear,0.81,Low,13
+EQ-0635,MRI Machine,40.5,63.16,240,Mechanical Wear,0.951,Medium,51
+EQ-0636,MRI Machine,22.28,73.42,271,Overheating,0.022,High,58
+EQ-0637,CT Scanner,45.54,24.76,58,Calibration Issue,0.983,Low,34
+EQ-0638,Ventilator,34.85,63.89,286,Calibration Issue,0.086,High,35
+EQ-0639,MRI Machine,34.42,31.24,201,Power Surge,0.814,Medium,3
+EQ-0640,Blood Testing Device,37.77,71.49,31,Power Surge,0.28,Medium,59
+EQ-0641,MRI Machine,44.74,69.14,161,Mechanical Wear,0.132,Medium,70
+EQ-0642,MRI Machine,30.43,52.45,254,Overheating,0.44,Low,48
+EQ-0643,Blood Testing Device,40.34,62.61,253,Mechanical Wear,0.644,High,64
+EQ-0644,CT Scanner,36.97,38.86,8,Power Surge,0.381,Low,19
+EQ-0645,Blood Testing Device,28.01,48.27,138,Overheating,0.055,Low,67
+EQ-0646,CT Scanner,46.36,69.3,9,Overheating,0.599,Medium,5
+EQ-0647,CT Scanner,43.92,47.56,213,Power Surge,0.902,High,67
+EQ-0648,CT Scanner,39.75,41.47,272,Calibration Issue,0.383,Medium,11
+EQ-0649,Blood Testing Device,45.52,49.65,323,Calibration Issue,0.216,Low,68
+EQ-0650,CT Scanner,46.02,69.69,47,Overheating,0.443,Medium,69
+EQ-0651,Ventilator,41.25,40.11,110,Mechanical Wear,0.048,High,1
+EQ-0652,Blood Testing Device,45.11,30.43,152,Calibration Issue,0.82,Medium,63
+EQ-0653,Ventilator,40.92,62.72,122,Mechanical Wear,0.826,High,29
+EQ-0654,CT Scanner,40.4,69.56,356,Calibration Issue,0.588,High,12
+EQ-0655,MRI Machine,38.56,26.04,101,Calibration Issue,0.353,Medium,41
+EQ-0656,CT Scanner,42.58,34.39,240,Mechanical Wear,0.8,Low,2
+EQ-0657,Ventilator,24.76,28.52,320,Power Surge,0.555,Medium,37
+EQ-0658,Ventilator,46.43,40.88,190,Calibration Issue,0.826,Low,45
+EQ-0659,Blood Testing Device,46.16,47.02,216,Calibration Issue,0.631,Low,48
+EQ-0660,MRI Machine,20.88,64.93,50,Mechanical Wear,0.784,Medium,24
+EQ-0661,Blood Testing Device,44.77,59.07,291,Power Surge,0.599,Low,22
+EQ-0662,Ventilator,23.87,57.26,80,Calibration Issue,0.414,Low,11
+EQ-0663,CT Scanner,30.05,41.14,87,Calibration Issue,0.958,Medium,58
+EQ-0664,MRI Machine,42.31,70.49,193,Power Surge,0.541,Medium,46
+EQ-0665,CT Scanner,24.82,48.28,103,Calibration Issue,0.605,Medium,29
+EQ-0666,CT Scanner,44.54,78.75,270,Power Surge,0.22,Low,35
+EQ-0667,MRI Machine,44.96,58.05,95,Power Surge,0.626,High,15
+EQ-0668,Blood Testing Device,35.22,27.58,197,Mechanical Wear,0.572,Low,60
+EQ-0669,CT Scanner,20.19,60.57,0,Overheating,0.185,High,42
+EQ-0670,Ventilator,28.61,39.51,166,Power Surge,0.06,Medium,43
+EQ-0671,CT Scanner,38.51,61.18,125,Mechanical Wear,0.604,High,49
+EQ-0672,MRI Machine,49.44,24.18,312,Overheating,0.764,Medium,64
+EQ-0673,MRI Machine,38.95,30.49,80,Calibration Issue,0.523,Medium,32
+EQ-0674,MRI Machine,27.79,71.34,250,Overheating,0.227,High,64
+EQ-0675,Blood Testing Device,39.02,33.63,168,Power Surge,0.667,Medium,2
+EQ-0676,CT Scanner,36.2,70.22,72,Power Surge,0.08,High,24
+EQ-0677,Blood Testing Device,43.4,36.76,140,Power Surge,0.442,Medium,66
+EQ-0678,Blood Testing Device,23.21,58.57,69,Power Surge,0.163,Low,38
+EQ-0679,MRI Machine,42.83,61.65,261,Power Surge,0.184,Low,31
+EQ-0680,MRI Machine,36.24,50.76,339,Mechanical Wear,0.202,Medium,26
+EQ-0681,Blood Testing Device,48.89,38.32,307,Power Surge,0.387,Medium,29
+EQ-0682,CT Scanner,30.26,32.76,244,Mechanical Wear,0.051,High,67
+EQ-0683,Ventilator,38.98,21.99,2,Calibration Issue,0.398,Low,25
+EQ-0684,Blood Testing Device,47.96,38.24,336,Power Surge,0.512,High,48
+EQ-0685,CT Scanner,23.08,59.19,62,Power Surge,0.483,Medium,65
+EQ-0686,MRI Machine,48.12,76.3,48,Overheating,0.383,Medium,53
+EQ-0687,MRI Machine,40.64,72.27,75,Calibration Issue,0.839,High,67
+EQ-0688,CT Scanner,22.04,65.96,174,Power Surge,0.145,Medium,18
+EQ-0689,Ventilator,29.03,67.31,108,Power Surge,0.506,Low,9
+EQ-0690,MRI Machine,41.25,59.9,182,Calibration Issue,0.062,High,38
+EQ-0691,MRI Machine,22.02,35.62,191,Mechanical Wear,0.071,Low,21
+EQ-0692,MRI Machine,37.47,74.43,64,Power Surge,0.574,Low,65
+EQ-0693,CT Scanner,30.38,60.24,336,Overheating,0.566,Low,21
+EQ-0694,Blood Testing Device,38.63,53.63,270,Power Surge,0.878,High,27
+EQ-0695,MRI Machine,21.37,26.66,99,Overheating,0.558,Medium,70
+EQ-0696,Blood Testing Device,46.15,46.82,31,Overheating,0.96,Low,44
+EQ-0697,Ventilator,49.2,47.62,351,Power Surge,0.049,Low,28
+EQ-0698,MRI Machine,49.07,71.87,127,Power Surge,0.098,Low,45
+EQ-0699,MRI Machine,42.49,52.8,338,Overheating,0.044,Medium,17
+EQ-0700,Ventilator,23.9,42.82,42,Calibration Issue,0.185,Medium,40
+EQ-0701,MRI Machine,42.75,78.61,77,Calibration Issue,0.541,High,3
+EQ-0702,Blood Testing Device,20.74,26.64,313,Power Surge,0.646,Medium,66
+EQ-0703,CT Scanner,20.66,45.35,288,Mechanical Wear,0.046,High,46
+EQ-0704,Blood Testing Device,29.71,22.52,269,Calibration Issue,0.946,High,30
+EQ-0705,CT Scanner,34.66,64.39,161,Power Surge,0.842,High,69
+EQ-0706,CT Scanner,43.11,75.08,188,Calibration Issue,0.297,High,9
+EQ-0707,Blood Testing Device,40.5,36.8,246,Mechanical Wear,0.077,High,11
+EQ-0708,Blood Testing Device,33.38,71.5,215,Power Surge,0.17,Low,69
+EQ-0709,Blood Testing Device,28.21,37.53,314,Mechanical Wear,0.127,Medium,66
+EQ-0710,Blood Testing Device,49.91,74.65,338,Power Surge,0.123,Low,31
+EQ-0711,Ventilator,32.79,65.24,167,Mechanical Wear,0.519,High,33
+EQ-0712,MRI Machine,33.54,68.29,338,Calibration Issue,0.246,Medium,39
+EQ-0713,CT Scanner,24.91,21.08,192,Calibration Issue,0.358,Low,46
+EQ-0714,Blood Testing Device,43.84,77.77,282,Mechanical Wear,0.99,Low,37
+EQ-0715,Blood Testing Device,40.81,63.6,335,Mechanical Wear,0.684,High,60
+EQ-0716,Blood Testing Device,26.62,38.29,12,Mechanical Wear,0.949,Low,31
+EQ-0717,Ventilator,22.47,69.76,239,Power Surge,0.143,Low,11
+EQ-0718,Blood Testing Device,40.41,36.89,319,Calibration Issue,0.382,Low,2
+EQ-0719,Blood Testing Device,39.64,72.37,146,Power Surge,0.555,Low,27
+EQ-0720,Blood Testing Device,28.2,26.75,203,Calibration Issue,0.077,Low,2
+EQ-0721,MRI Machine,48.53,62.22,79,Overheating,0.004,High,21
+EQ-0722,Ventilator,24.53,52.44,42,Power Surge,0.67,High,58
+EQ-0723,Blood Testing Device,32.97,25.79,88,Calibration Issue,0.642,Low,5
+EQ-0724,CT Scanner,48.31,34.51,147,Calibration Issue,0.411,High,52
+EQ-0725,CT Scanner,32.59,20.74,94,Power Surge,0.49,High,45
+EQ-0726,CT Scanner,39.16,48.13,150,Power Surge,0.415,Medium,20
+EQ-0727,Ventilator,31.93,38.08,1,Calibration Issue,0.024,Low,61
+EQ-0728,Ventilator,28.23,55.9,21,Power Surge,0.335,High,38
+EQ-0729,CT Scanner,49.52,37.83,312,Mechanical Wear,0.177,High,20
+EQ-0730,Blood Testing Device,32.28,38.0,327,Power Surge,0.098,Low,25
+EQ-0731,Ventilator,46.82,64.59,6,Power Surge,0.957,Medium,2
+EQ-0732,CT Scanner,26.9,22.89,205,Power Surge,0.599,Low,32
+EQ-0733,CT Scanner,26.39,74.17,113,Calibration Issue,0.729,Medium,26
+EQ-0734,Blood Testing Device,20.93,71.14,271,Mechanical Wear,0.315,Low,70
+EQ-0735,MRI Machine,39.55,60.07,82,Overheating,0.393,Low,41
+EQ-0736,Ventilator,31.06,55.59,178,Overheating,0.237,Low,67
+EQ-0737,Blood Testing Device,45.93,73.54,209,Mechanical Wear,0.097,Low,1
+EQ-0738,CT Scanner,34.2,31.12,327,Mechanical Wear,0.179,Medium,51
+EQ-0739,CT Scanner,49.05,24.74,123,Mechanical Wear,0.798,Medium,5
+EQ-0740,Blood Testing Device,25.57,34.37,112,Calibration Issue,0.678,High,13
+EQ-0741,Ventilator,46.06,67.67,11,Overheating,0.547,Low,19
+EQ-0742,MRI Machine,43.3,22.08,125,Mechanical Wear,0.475,Medium,12
+EQ-0743,MRI Machine,43.13,54.97,52,Calibration Issue,0.922,Medium,48
+EQ-0744,CT Scanner,45.34,79.73,330,Overheating,0.073,Medium,25
+EQ-0745,Ventilator,42.83,71.34,282,Power Surge,0.281,Low,57
+EQ-0746,MRI Machine,38.79,51.29,139,Calibration Issue,0.35,High,35
+EQ-0747,Ventilator,23.94,23.82,96,Overheating,0.782,Medium,5
+EQ-0748,Ventilator,20.98,69.88,4,Calibration Issue,0.993,Low,22
+EQ-0749,CT Scanner,47.63,55.94,56,Overheating,0.241,Medium,57
+EQ-0750,MRI Machine,38.5,26.9,333,Overheating,0.874,Medium,47
+EQ-0751,Blood Testing Device,43.9,25.63,68,Power Surge,0.831,High,54
+EQ-0752,CT Scanner,34.45,74.58,117,Calibration Issue,0.225,Medium,3
+EQ-0753,MRI Machine,23.52,60.15,58,Mechanical Wear,0.399,Medium,53
+EQ-0754,MRI Machine,23.76,69.76,32,Power Surge,0.41,Low,31
+EQ-0755,MRI Machine,40.57,72.74,317,Power Surge,0.978,Low,69
+EQ-0756,MRI Machine,32.91,54.31,49,Overheating,0.181,High,33
+EQ-0757,MRI Machine,26.02,51.05,18,Mechanical Wear,0.799,Low,50
+EQ-0758,Ventilator,34.75,45.83,213,Calibration Issue,0.334,Low,16
+EQ-0759,CT Scanner,21.93,39.02,196,Mechanical Wear,0.731,High,39
+EQ-0760,Ventilator,37.46,46.08,46,Mechanical Wear,0.42,Medium,46
+EQ-0761,Blood Testing Device,28.07,66.43,166,Mechanical Wear,0.578,High,47
+EQ-0762,MRI Machine,43.93,56.12,288,Mechanical Wear,0.833,Low,44
+EQ-0763,CT Scanner,29.31,73.55,140,Mechanical Wear,0.804,High,9
+EQ-0764,MRI Machine,33.66,46.6,83,Overheating,0.866,Medium,50
+EQ-0765,CT Scanner,20.35,56.43,181,Overheating,0.06,High,60
+EQ-0766,Ventilator,22.17,57.88,78,Power Surge,0.692,Low,15
+EQ-0767,CT Scanner,31.77,55.5,214,Overheating,0.14,Low,36
+EQ-0768,Blood Testing Device,34.4,62.16,13,Power Surge,0.416,High,63
+EQ-0769,Blood Testing Device,38.0,34.25,214,Power Surge,0.549,Medium,69
+EQ-0770,CT Scanner,28.75,50.74,127,Calibration Issue,0.403,High,41
+EQ-0771,CT Scanner,40.85,26.25,309,Mechanical Wear,0.52,Medium,24
+EQ-0772,CT Scanner,45.8,43.07,247,Overheating,0.997,Medium,49
+EQ-0773,CT Scanner,43.4,49.26,28,Calibration Issue,0.135,High,18
+EQ-0774,Blood Testing Device,21.19,59.13,279,Overheating,0.675,Medium,7
+EQ-0775,MRI Machine,34.42,77.03,337,Power Surge,0.396,Low,4
+EQ-0776,CT Scanner,23.15,56.04,318,Overheating,0.133,High,69
+EQ-0777,CT Scanner,27.26,64.62,201,Mechanical Wear,0.159,Medium,60
+EQ-0778,Blood Testing Device,49.6,50.38,360,Power Surge,0.949,Low,55
+EQ-0779,Blood Testing Device,24.27,58.05,56,Power Surge,0.88,High,16
+EQ-0780,Ventilator,34.97,24.26,217,Calibration Issue,0.907,Low,29
+EQ-0781,CT Scanner,38.54,35.26,61,Mechanical Wear,0.992,Low,23
+EQ-0782,Ventilator,41.07,41.71,156,Power Surge,0.208,Low,14
+EQ-0783,Blood Testing Device,36.79,48.35,201,Mechanical Wear,0.355,Medium,49
+EQ-0784,Blood Testing Device,20.29,22.74,16,Overheating,0.669,High,33
+EQ-0785,MRI Machine,29.79,28.4,321,Mechanical Wear,0.484,High,25
+EQ-0786,CT Scanner,35.53,36.61,5,Power Surge,0.418,Medium,21
+EQ-0787,Ventilator,22.64,78.29,57,Calibration Issue,0.358,High,17
+EQ-0788,Blood Testing Device,30.52,39.88,324,Power Surge,0.594,Low,23
+EQ-0789,Blood Testing Device,21.0,48.92,317,Mechanical Wear,0.576,High,57
+EQ-0790,Ventilator,22.36,31.77,168,Mechanical Wear,0.161,Medium,58
+EQ-0791,MRI Machine,31.91,56.65,81,Power Surge,0.472,Low,14
+EQ-0792,Blood Testing Device,23.98,36.84,218,Mechanical Wear,0.553,Medium,20
+EQ-0793,CT Scanner,37.03,32.42,176,Overheating,0.57,Low,30
+EQ-0794,Blood Testing Device,40.68,50.99,203,Power Surge,0.21,Low,19
+EQ-0795,CT Scanner,44.02,20.33,70,Calibration Issue,0.742,High,53
+EQ-0796,Ventilator,26.0,20.46,265,Power Surge,0.025,Low,56
+EQ-0797,CT Scanner,25.02,33.14,97,Overheating,0.355,Medium,23
+EQ-0798,Ventilator,23.14,22.2,344,Overheating,0.78,High,62
+EQ-0799,CT Scanner,39.09,26.48,290,Overheating,0.564,Medium,33
+EQ-0800,Ventilator,41.19,40.33,207,Overheating,0.261,Low,18
+EQ-0801,CT Scanner,20.95,68.16,1,Overheating,0.695,Medium,33
+EQ-0802,MRI Machine,48.09,54.32,123,Calibration Issue,0.567,Medium,32
+EQ-0803,CT Scanner,21.56,50.76,279,Mechanical Wear,0.796,Low,61
+EQ-0804,CT Scanner,36.24,37.61,73,Overheating,0.735,High,54
+EQ-0805,MRI Machine,41.27,75.91,165,Overheating,0.61,Medium,17
+EQ-0806,Blood Testing Device,46.13,43.82,21,Power Surge,0.488,Low,19
+EQ-0807,Blood Testing Device,41.42,25.23,153,Calibration Issue,0.133,High,70
+EQ-0808,CT Scanner,44.05,57.02,294,Calibration Issue,0.261,High,34
+EQ-0809,MRI Machine,30.18,26.83,218,Mechanical Wear,0.419,High,25
+EQ-0810,CT Scanner,44.44,40.71,156,Calibration Issue,0.599,Medium,68
+EQ-0811,Ventilator,22.4,50.44,229,Power Surge,0.514,Medium,11
+EQ-0812,Ventilator,46.84,72.45,19,Power Surge,0.288,Medium,16
+EQ-0813,CT Scanner,36.43,49.61,40,Mechanical Wear,0.006,High,61
+EQ-0814,Blood Testing Device,44.52,62.14,147,Power Surge,0.496,Medium,7
+EQ-0815,Blood Testing Device,33.57,79.57,107,Overheating,0.286,Low,16
+EQ-0816,CT Scanner,39.31,27.89,83,Overheating,0.735,Medium,16
+EQ-0817,CT Scanner,35.79,36.48,321,Power Surge,0.024,Medium,40
+EQ-0818,Ventilator,41.95,43.67,308,Mechanical Wear,0.585,High,12
+EQ-0819,Blood Testing Device,22.45,45.31,289,Calibration Issue,0.941,Medium,35
+EQ-0820,CT Scanner,21.81,44.66,322,Mechanical Wear,0.174,Low,21
+EQ-0821,Ventilator,27.41,74.46,133,Calibration Issue,0.472,High,50
+EQ-0822,Blood Testing Device,24.79,62.84,206,Power Surge,0.091,Low,43
+EQ-0823,MRI Machine,46.15,56.47,282,Power Surge,0.626,High,17
+EQ-0824,Ventilator,26.58,38.56,265,Overheating,0.551,High,32
+EQ-0825,Blood Testing Device,49.28,69.43,72,Calibration Issue,0.407,Medium,41
+EQ-0826,Blood Testing Device,30.11,77.3,351,Mechanical Wear,0.521,Low,6
+EQ-0827,Ventilator,25.46,69.27,47,Power Surge,0.897,High,27
+EQ-0828,MRI Machine,43.69,20.09,325,Mechanical Wear,0.196,Medium,20
+EQ-0829,Ventilator,39.76,58.18,232,Overheating,0.023,High,25
+EQ-0830,Blood Testing Device,34.95,23.07,99,Calibration Issue,0.862,High,66
+EQ-0831,CT Scanner,36.66,35.46,58,Calibration Issue,0.577,High,9
+EQ-0832,CT Scanner,41.58,23.57,257,Power Surge,0.891,High,53
+EQ-0833,Ventilator,26.85,56.23,64,Calibration Issue,0.597,High,61
+EQ-0834,Blood Testing Device,49.89,61.2,82,Power Surge,0.81,High,38
+EQ-0835,CT Scanner,49.24,26.87,153,Overheating,0.43,Medium,3
+EQ-0836,Blood Testing Device,39.51,43.03,265,Calibration Issue,0.75,High,70
+EQ-0837,Ventilator,25.99,47.37,308,Power Surge,0.913,Low,55
+EQ-0838,CT Scanner,40.41,42.14,78,Mechanical Wear,0.572,Medium,1
+EQ-0839,Blood Testing Device,22.17,27.26,314,Power Surge,0.181,Low,70
+EQ-0840,CT Scanner,20.92,45.14,149,Calibration Issue,0.269,High,45
+EQ-0841,Ventilator,27.73,65.07,47,Overheating,0.199,Low,47
+EQ-0842,Blood Testing Device,33.88,24.26,247,Calibration Issue,0.247,High,26
+EQ-0843,CT Scanner,46.05,24.81,277,Calibration Issue,0.306,High,14
+EQ-0844,Ventilator,41.82,41.29,355,Power Surge,0.555,Medium,54
+EQ-0845,CT Scanner,42.28,76.5,97,Mechanical Wear,0.588,Medium,71
+EQ-0846,CT Scanner,32.76,60.11,24,Calibration Issue,0.426,High,46
+EQ-0847,MRI Machine,30.38,60.72,283,Mechanical Wear,0.615,Medium,31
+EQ-0848,MRI Machine,31.13,41.72,300,Power Surge,0.082,Low,59
+EQ-0849,Ventilator,49.63,55.62,67,Mechanical Wear,0.088,Medium,29
+EQ-0850,MRI Machine,21.2,20.61,6,Power Surge,0.172,Medium,17
+EQ-0851,Ventilator,46.01,58.17,304,Overheating,0.518,Low,14
+EQ-0852,MRI Machine,37.36,74.8,136,Mechanical Wear,0.214,Medium,36
+EQ-0853,CT Scanner,33.16,56.75,163,Mechanical Wear,0.283,High,58
+EQ-0854,Ventilator,41.76,72.42,82,Overheating,0.4,Low,24
+EQ-0855,Ventilator,34.6,63.44,137,Mechanical Wear,0.812,High,63
+EQ-0856,CT Scanner,46.2,27.23,72,Overheating,0.014,Low,25
+EQ-0857,Ventilator,47.02,74.15,236,Calibration Issue,0.649,High,59
+EQ-0858,Ventilator,32.65,23.99,45,Power Surge,0.669,High,32
+EQ-0859,MRI Machine,28.3,52.04,105,Overheating,0.799,Medium,18
+EQ-0860,Ventilator,37.77,28.53,287,Mechanical Wear,0.933,High,37
+EQ-0861,Blood Testing Device,47.37,20.7,261,Overheating,0.02,Medium,26
+EQ-0862,CT Scanner,26.32,45.32,175,Mechanical Wear,0.154,Low,9
+EQ-0863,MRI Machine,38.69,37.7,165,Calibration Issue,0.886,High,64
+EQ-0864,MRI Machine,38.95,49.16,144,Overheating,0.459,High,20
+EQ-0865,Blood Testing Device,41.99,54.63,329,Calibration Issue,0.565,Low,54
+EQ-0866,CT Scanner,23.95,22.62,282,Power Surge,0.663,Low,30
+EQ-0867,CT Scanner,41.47,27.38,53,Mechanical Wear,0.679,High,53
+EQ-0868,MRI Machine,47.27,53.52,177,Mechanical Wear,0.932,Low,63
+EQ-0869,Ventilator,25.39,40.59,243,Calibration Issue,0.997,Medium,11
+EQ-0870,MRI Machine,27.13,63.75,340,Power Surge,0.72,Low,31
+EQ-0871,CT Scanner,49.14,59.14,126,Overheating,0.287,Low,49
+EQ-0872,Blood Testing Device,25.43,70.74,270,Overheating,0.88,High,19
+EQ-0873,MRI Machine,45.63,61.55,131,Mechanical Wear,0.049,Medium,12
+EQ-0874,CT Scanner,34.77,45.8,92,Calibration Issue,0.231,Low,15
+EQ-0875,MRI Machine,27.42,60.38,72,Calibration Issue,0.897,Medium,31
+EQ-0876,Ventilator,46.12,36.52,247,Overheating,0.256,Medium,43
+EQ-0877,MRI Machine,33.36,38.38,347,Power Surge,0.221,Medium,37
+EQ-0878,MRI Machine,35.44,67.34,272,Power Surge,0.138,High,29
+EQ-0879,CT Scanner,30.78,46.79,42,Overheating,0.859,Low,26
+EQ-0880,CT Scanner,37.79,67.9,40,Overheating,0.5,High,2
+EQ-0881,CT Scanner,24.91,69.35,169,Calibration Issue,0.675,Low,15
+EQ-0882,MRI Machine,31.73,71.45,211,Power Surge,0.239,Low,4
+EQ-0883,Ventilator,49.08,75.0,167,Overheating,0.758,High,50
+EQ-0884,Blood Testing Device,27.74,45.86,38,Overheating,0.76,Medium,38
+EQ-0885,Blood Testing Device,39.7,39.13,244,Mechanical Wear,0.313,Medium,23
+EQ-0886,CT Scanner,29.76,54.93,150,Overheating,0.411,Low,59
+EQ-0887,CT Scanner,43.2,42.27,110,Overheating,0.21,High,28
+EQ-0888,MRI Machine,23.93,56.06,46,Power Surge,0.977,Medium,66
+EQ-0889,Blood Testing Device,49.09,62.34,62,Calibration Issue,0.646,Medium,8
+EQ-0890,CT Scanner,33.61,61.3,224,Power Surge,0.935,Low,29
+EQ-0891,Ventilator,27.08,42.47,68,Calibration Issue,0.303,Low,11
+EQ-0892,Ventilator,22.2,30.01,298,Mechanical Wear,0.782,High,18
+EQ-0893,CT Scanner,25.09,45.83,289,Overheating,0.766,Low,55
+EQ-0894,CT Scanner,35.59,28.56,295,Mechanical Wear,0.692,Medium,50
+EQ-0895,Blood Testing Device,30.11,73.41,202,Calibration Issue,0.966,Medium,14
+EQ-0896,Blood Testing Device,44.87,40.75,60,Power Surge,0.394,Medium,9
+EQ-0897,MRI Machine,32.93,29.27,317,Power Surge,0.131,Medium,11
+EQ-0898,Blood Testing Device,27.46,21.53,313,Mechanical Wear,0.672,High,63
+EQ-0899,Ventilator,38.51,58.75,160,Calibration Issue,0.729,High,67
+EQ-0900,Ventilator,41.2,58.21,330,Mechanical Wear,0.575,Low,53
+EQ-0901,CT Scanner,25.01,40.44,15,Mechanical Wear,0.207,Low,39
+EQ-0902,Blood Testing Device,25.03,24.3,337,Overheating,0.504,Low,56
+EQ-0903,MRI Machine,21.1,44.58,93,Mechanical Wear,0.312,High,28
+EQ-0904,Ventilator,42.09,38.67,303,Overheating,0.427,Medium,39
+EQ-0905,Ventilator,39.91,60.63,137,Overheating,0.645,Low,25
+EQ-0906,MRI Machine,34.24,56.35,337,Power Surge,0.745,Medium,21
+EQ-0907,MRI Machine,45.33,41.88,37,Overheating,0.232,Low,10
+EQ-0908,Ventilator,44.17,33.07,126,Overheating,0.405,Low,43
+EQ-0909,Ventilator,37.56,79.28,274,Power Surge,0.269,Low,15
+EQ-0910,MRI Machine,46.05,47.24,163,Mechanical Wear,0.199,Low,48
+EQ-0911,Ventilator,26.18,61.3,318,Calibration Issue,0.783,Low,21
+EQ-0912,CT Scanner,23.36,28.43,76,Calibration Issue,0.909,Medium,60
+EQ-0913,CT Scanner,28.09,49.14,173,Calibration Issue,0.37,Low,50
+EQ-0914,MRI Machine,21.71,21.65,357,Mechanical Wear,0.751,Medium,23
+EQ-0915,Blood Testing Device,35.94,50.33,320,Overheating,0.897,High,13
+EQ-0916,MRI Machine,48.1,77.84,90,Calibration Issue,0.846,Low,69
+EQ-0917,MRI Machine,21.18,43.05,237,Mechanical Wear,0.183,Medium,4
+EQ-0918,Blood Testing Device,23.66,22.34,263,Overheating,0.956,High,9
+EQ-0919,Blood Testing Device,33.57,21.86,178,Power Surge,0.377,High,35
+EQ-0920,Blood Testing Device,48.02,43.28,208,Calibration Issue,0.339,High,21
+EQ-0921,CT Scanner,29.48,29.6,72,Overheating,0.062,Medium,58
+EQ-0922,Ventilator,35.22,21.4,106,Calibration Issue,0.486,Low,18
+EQ-0923,CT Scanner,21.25,65.37,344,Calibration Issue,0.109,Low,43
+EQ-0924,Ventilator,24.45,47.51,294,Calibration Issue,0.249,Medium,6
+EQ-0925,CT Scanner,49.6,37.35,283,Overheating,0.317,Low,67
+EQ-0926,Ventilator,48.95,74.0,352,Mechanical Wear,0.809,Medium,12
+EQ-0927,CT Scanner,20.15,26.97,181,Overheating,0.875,Low,12
+EQ-0928,Blood Testing Device,48.55,77.36,36,Calibration Issue,0.302,High,66
+EQ-0929,MRI Machine,39.17,38.84,136,Overheating,0.859,Low,2
+EQ-0930,CT Scanner,46.04,73.3,337,Power Surge,0.857,Medium,15
+EQ-0931,Ventilator,33.64,56.18,55,Mechanical Wear,0.765,Medium,23
+EQ-0932,Blood Testing Device,35.47,69.6,186,Overheating,0.147,High,29
+EQ-0933,CT Scanner,34.67,79.04,340,Power Surge,0.69,Medium,7
+EQ-0934,CT Scanner,40.01,37.3,257,Mechanical Wear,0.945,Low,28
+EQ-0935,Blood Testing Device,24.19,77.67,57,Power Surge,0.683,Low,14
+EQ-0936,CT Scanner,20.9,43.37,362,Mechanical Wear,0.332,High,44
+EQ-0937,MRI Machine,29.24,43.13,122,Overheating,0.501,Medium,30
+EQ-0938,CT Scanner,41.14,40.42,187,Power Surge,0.646,High,32
+EQ-0939,MRI Machine,26.06,52.48,229,Calibration Issue,0.511,Low,70
+EQ-0940,MRI Machine,40.2,29.25,167,Power Surge,0.12,High,6
+EQ-0941,Blood Testing Device,49.1,53.22,113,Mechanical Wear,0.312,Medium,27
+EQ-0942,CT Scanner,22.82,52.5,251,Overheating,0.802,High,24
+EQ-0943,Blood Testing Device,40.18,65.71,106,Mechanical Wear,0.861,Medium,34
+EQ-0944,CT Scanner,33.31,70.02,36,Power Surge,0.137,Medium,40
+EQ-0945,CT Scanner,46.04,46.43,334,Power Surge,0.952,Low,47
+EQ-0946,Ventilator,25.31,38.14,91,Calibration Issue,0.329,Low,24
+EQ-0947,CT Scanner,40.78,35.56,17,Overheating,0.662,Low,65
+EQ-0948,Blood Testing Device,45.14,31.68,353,Overheating,0.752,Medium,18
+EQ-0949,MRI Machine,48.34,23.46,62,Power Surge,0.812,High,44
+EQ-0950,CT Scanner,40.5,40.55,149,Overheating,0.946,Medium,57
+EQ-0951,Ventilator,34.92,36.21,138,Calibration Issue,0.313,Low,28
+EQ-0952,Blood Testing Device,38.54,77.99,185,Mechanical Wear,0.859,Low,71
+EQ-0953,CT Scanner,46.07,53.46,184,Overheating,0.132,High,23
+EQ-0954,Blood Testing Device,37.12,40.84,204,Power Surge,0.705,Low,34
+EQ-0955,Ventilator,20.91,54.83,259,Mechanical Wear,0.742,Low,11
+EQ-0956,Ventilator,47.93,28.35,213,Mechanical Wear,0.678,Low,35
+EQ-0957,Blood Testing Device,40.69,46.64,255,Calibration Issue,0.252,High,42
+EQ-0958,CT Scanner,40.3,57.57,134,Power Surge,0.873,Medium,28
+EQ-0959,MRI Machine,26.47,49.33,60,Overheating,0.169,Low,24
+EQ-0960,Ventilator,39.77,44.11,362,Power Surge,0.054,High,8
+EQ-0961,CT Scanner,31.82,79.63,309,Mechanical Wear,0.717,Low,53
+EQ-0962,CT Scanner,39.54,72.82,87,Power Surge,0.475,High,4
+EQ-0963,MRI Machine,23.2,57.4,323,Overheating,0.849,Low,5
+EQ-0964,Ventilator,39.74,54.16,206,Overheating,0.383,High,49
+EQ-0965,Ventilator,49.98,57.24,128,Calibration Issue,0.168,Low,30
+EQ-0966,CT Scanner,21.45,32.08,310,Overheating,0.836,Medium,63
+EQ-0967,CT Scanner,49.32,43.71,2,Overheating,0.549,Low,47
+EQ-0968,MRI Machine,32.21,22.37,241,Power Surge,0.189,High,26
+EQ-0969,MRI Machine,46.12,48.53,120,Power Surge,0.72,Low,57
+EQ-0970,Ventilator,43.47,52.58,101,Mechanical Wear,0.511,Medium,37
+EQ-0971,Blood Testing Device,37.01,33.66,37,Calibration Issue,0.604,Low,7
+EQ-0972,Ventilator,42.15,77.84,340,Power Surge,0.461,High,40
+EQ-0973,CT Scanner,46.36,74.57,132,Overheating,0.829,High,39
+EQ-0974,Ventilator,32.12,63.33,201,Mechanical Wear,0.83,Medium,62
+EQ-0975,Blood Testing Device,29.81,52.0,347,Power Surge,0.709,High,53
+EQ-0976,MRI Machine,40.03,72.2,20,Calibration Issue,0.105,Low,4
+EQ-0977,Blood Testing Device,44.24,27.84,241,Calibration Issue,0.839,Low,25
+EQ-0978,Blood Testing Device,42.87,67.43,108,Mechanical Wear,0.671,Low,7
+EQ-0979,Blood Testing Device,43.93,27.49,302,Mechanical Wear,0.697,High,28
+EQ-0980,MRI Machine,33.07,67.65,83,Mechanical Wear,0.363,Low,69
+EQ-0981,Blood Testing Device,44.54,36.55,82,Mechanical Wear,0.879,Low,67
+EQ-0982,Blood Testing Device,23.61,72.63,290,Mechanical Wear,0.725,Low,20
+EQ-0983,Blood Testing Device,36.33,76.64,68,Overheating,0.113,Medium,11
+EQ-0984,CT Scanner,20.17,28.93,128,Overheating,0.408,High,67
+EQ-0985,Blood Testing Device,29.74,47.76,195,Power Surge,0.886,High,7
+EQ-0986,MRI Machine,30.99,78.86,139,Calibration Issue,0.047,High,23
+EQ-0987,Blood Testing Device,31.89,49.0,282,Overheating,0.961,Medium,61
+EQ-0988,Blood Testing Device,40.86,71.81,311,Overheating,0.679,High,71
+EQ-0989,MRI Machine,31.66,55.32,233,Overheating,0.631,Medium,34
+EQ-0990,Blood Testing Device,33.46,42.52,22,Power Surge,0.271,Medium,19
+EQ-0991,MRI Machine,27.13,37.15,152,Mechanical Wear,0.249,High,58
+EQ-0992,Blood Testing Device,31.2,32.19,276,Power Surge,0.942,Low,9
+EQ-0993,MRI Machine,26.82,65.71,60,Calibration Issue,0.298,Low,48
+EQ-0994,Blood Testing Device,22.2,43.19,318,Calibration Issue,0.776,High,41
+EQ-0995,Blood Testing Device,38.1,50.68,51,Calibration Issue,0.393,High,48
+EQ-0996,CT Scanner,40.05,49.54,343,Calibration Issue,0.139,Medium,45
+EQ-0997,CT Scanner,38.58,54.64,152,Overheating,0.011,High,25
+EQ-0998,Blood Testing Device,33.9,71.93,236,Overheating,0.544,Medium,25
+EQ-0999,Blood Testing Device,31.39,78.84,310,Power Surge,0.976,High,19
+EQ-1000,Ventilator,45.9,44.46,301,Mechanical Wear,0.369,Low,39
