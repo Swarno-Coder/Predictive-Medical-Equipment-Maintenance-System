@@ -1,15 +1,7 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
-import random
 import joblib  
-# from streamlit_lottie import st_lottie
-# import requests, json
 
-# def load_json(filepath):
-#     with open(filepath, 'r') as f:
-#         return json.load(f)
-# Load trained model
 @st.cache_data
 def load_model():
     return [joblib.load('equipment_model.pkl'),
@@ -22,13 +14,13 @@ model = load_model()
 st.write("# Predictive Medical Equipment Maintenance System ⛑🔬")
 st.write("### This system predicts the probability of equipment failure based on various factors.")
 st.write("The model is a prototype trained on synthetic data and may not reflect real-world scenarios.")
-# break line
+
 st.write("---")
-st.write("### Please enter the equipment details to predict the failure probability.")
+st.write("**Please enter the equipment details to predict the failure probability.**")
 
 # Sidebar for User Inputs
 st.sidebar.header("User Input Parameters")
-equipment_type = st.sidebar.selectbox("Equipment Type", ['Blood Analyzer','CT Scanner', 'MRI Scanner', 'Ventilator', 'Xray Machine'])
+equipment_type = st.sidebar.selectbox("Equipment Type", ['Blood Analyzer','CT Scanner', 'MRI Scanner', 'Ventilator', 'X-ray Machine'])
 temperature = st.sidebar.slider("Temperature (°C)", 18.0, 40.1, 25.0)
 humidity = st.sidebar.slider("Humidity (%)", 20.0, 80.0, 45.0)
 last_maintenance = st.sidebar.slider("Last Maintenance (days)", 0, 730, 180)
@@ -100,18 +92,5 @@ if st.sidebar.button('Predict'):
     st.write(f"**Cost Implications:** ${output[2]['cost_implications'][0]}")
     st.write("---")
     st.write(f"**Updated Uptime (hours):** {output[3]['updated_uptime'][0]}")
+    
     print(input_data)
-
-# st.write("---")
-# st.write("### Simulated Data Table")
-
-# # Load existing data for visualization
-# data = pd.DataFrame()
-# if 'equipment_data.csv' in st.secrets:
-#     data = pd.read_csv('equipment_data.csv')
-# st.dataframe(data)
-
-# st.write("### Failure Probability Distribution by Equipment Type")
-# if not data.empty:
-#     chart_data = data.groupby('equipment_type')['failure_probability'].mean().reset_index()
-#     st.bar_chart(chart_data.set_index('equipment_type'))
