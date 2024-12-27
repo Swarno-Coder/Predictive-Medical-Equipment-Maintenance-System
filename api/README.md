@@ -26,7 +26,7 @@ DISCLAIMER: The model files must be named `equipment_model{i}.pkl`, where `i` is
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/Swarno-Coder/Predictive-Medical-Equipment-Maintenance-System-.git pmems
+git clone https://github.com/Swarno-Coder/Predictive-Medical-Equipment-Maintenance-System.git pmems
 cd pmems/api
 
 # Create a virtual environment

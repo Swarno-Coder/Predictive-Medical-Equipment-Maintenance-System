@@ -23,7 +23,7 @@ This Streamlit application provides a user-friendly interface to predict equipme
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/Swarno-Coder/Predictive-Medical-Equipment-Maintenance-System-.git
+git clone https://github.com/Swarno-Coder/Predictive-Medical-Equipment-Maintenance-System.git
 cd pmems
 
 # Create a virtual environment
