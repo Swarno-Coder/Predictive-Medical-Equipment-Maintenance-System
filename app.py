@@ -1,13 +1,20 @@
 import streamlit as st
 import pandas as pd
 import joblib, os
-
+from pathlib import Path
 @st.cache_data
 def load_model():
-    return [joblib.load(os.path.join('models','equipment_model.pkl')),
-            joblib.load(os.path.join('models','equipment_model2.pkl')),
-            joblib.load(os.path.join('models','equipment_model3.pkl')),
-            joblib.load(os.path.join('models','equipment_model4.pkl'))]  # Load your model file
+    model_dir = Path("models")
+    return [
+        joblib.load(model_dir / "equipment_model.pkl"),
+        joblib.load(model_dir / "equipment_model2.pkl"),
+        joblib.load(model_dir / "equipment_model3.pkl"),
+        joblib.load(model_dir / "equipment_model4.pkl")
+    ]
+    # return [joblib.load(os.path.join('models','equipment_model.pkl')),
+    #         joblib.load(os.path.join('models','equipment_model2.pkl')),
+    #         joblib.load(os.path.join('models','equipment_model3.pkl')),
+    #         joblib.load(os.path.join('models','equipment_model4.pkl'))]  # Load your model file
 
 model = load_model()
 
