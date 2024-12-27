@@ -1,38 +1,54 @@
-from fastapi import FastAPI
-from pydantic import BaseModel
-from typing import List, Union
-import uvicorn
+from fastapi import FastAPI, HTTPException, Request
 import pandas as pd
 import joblib
-import json
 
 app = FastAPI()
+def load_model(): return [joblib.load('equipment_model.pkl'), joblib.load('equipment_model2.pkl'), joblib.load('equipment_model3.pkl'), joblib.load('equipment_model4.pkl')]  # Load your model file
 
-# Load the previously saved model
-model = joblib.load('/path/to/your/saved_model.pkl')
+model = load_model()
 
-class InputData(BaseModel):
-    data: List[List[Union[str, float, int]]]
+@app.post("/predict")
+async def predict_equipment(request: Request):
+    try:
+        # Receive JSON data from frontend
+        input_data = await request.json()
+        input_df = pd.DataFrame([input_data])
 
-class OutputData(BaseModel):
-    data: List[List[float]]
+        # Predict using the model
+        prediction = [model[0].predict(input_df),
+                    model[1].predict(input_df),
+                    model[2].predict(input_df),
+                    model[3].predict(input_df)]
+        
+        output = [pd.DataFrame(prediction[0], columns=['failure_probability']),
+              pd.DataFrame(prediction[3], columns=['failure_reason']),
+              pd.DataFrame(prediction[1], columns=['cost_implications']),
+              pd.DataFrame(prediction[2], columns=['updated_uptime'])]
+        
+        failure_prob = float(output[0]['failure_probability'][0])
 
-@app.post("/process-data", response_model=OutputData)
-async def process_data(input_data: InputData):
-    # Convert the input data to a DataFrame
-    input_df = pd.DataFrame(input_data.data)
-    
-    # Perform inference using the model
-    predictions = model.predict(input_df)
-    
-    # Convert predictions to a list of lists
-    processed_data = predictions.tolist()
-    
-    # Save the processed data to a JSON file
-    with open('/path/to/output.json', 'w') as json_file:
-        json.dump(processed_data, json_file)
-    
-    return OutputData(data=processed_data)
+        if failure_prob < 0.3:
+            health = 'Good'
+            maintenance_level = 'Low'
+        elif failure_prob < 0.6:
+            health = 'Moderate'
+            maintenance_level = 'Medium'
+        else:
+            health = 'Critical'
+            maintenance_level = 'High'
 
-if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+        response = {
+            'equipment_health': health,
+            'maintenance_level': maintenance_level,
+            'failure_probability': failure_prob,
+            'failure_reason': str(output[1]['failure_reason'][0]),
+            'cost_implications': float(output[2]['cost_implications'][0]),
+            'updated_uptime': float(output[3]['updated_uptime'][0])
+        }
+        return response
+    except Exception as e:
+        raise HTTPException(status_code=400, detail=f"Error processing request: {str(e)}")
+
+@app.get("/health")
+def health_check():
+    return {"status": "API is running"}
