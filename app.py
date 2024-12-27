@@ -4,10 +4,10 @@ import joblib, os
 
 @st.cache_data
 def load_model():
-    return [joblib.load(os.path.join(['./models/','equipment_model.pkl'])),
-            joblib.load(os.path.join(['./models/','equipment_model2.pkl'])),
-            joblib.load(os.path.join(['./models/','equipment_model3.pkl'])),
-            joblib.load(os.path.join(['./models/','equipment_model4.pkl']))]  # Load your model file
+    return [joblib.load(os.path.join('models','equipment_model.pkl')),
+            joblib.load(os.path.join('models','equipment_model2.pkl')),
+            joblib.load(os.path.join('models','equipment_model3.pkl')),
+            joblib.load(os.path.join('models','equipment_model4.pkl'))]  # Load your model file
 
 model = load_model()
 
