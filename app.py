@@ -11,10 +11,6 @@ def load_model():
         joblib.load(model_dir / "equipment_model3.pkl"),
         joblib.load(model_dir / "equipment_model4.pkl")
     ]
-    # return [joblib.load(os.path.join('models','equipment_model.pkl')),
-    #         joblib.load(os.path.join('models','equipment_model2.pkl')),
-    #         joblib.load(os.path.join('models','equipment_model3.pkl')),
-    #         joblib.load(os.path.join('models','equipment_model4.pkl'))]  # Load your model file
 
 model = load_model()
 

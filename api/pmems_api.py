@@ -1,10 +1,18 @@
 from fastapi import FastAPI, HTTPException, Request
 import pandas as pd
 import joblib
+from pathlib import Path
 
 app = FastAPI()
-def load_model(): return [joblib.load('..\models\equipment_model.pkl'), joblib.load('..\models\equipment_model2.pkl'), joblib.load('..\models\equipment_model3.pkl'), joblib.load('..\models\equipment_model4.pkl')]  # Load your model file
 
+def load_model():
+    model_dir = Path("models")
+    return [
+        joblib.load(model_dir / "equipment_model.pkl"),
+        joblib.load(model_dir / "equipment_model2.pkl"),
+        joblib.load(model_dir / "equipment_model3.pkl"),
+        joblib.load(model_dir / "equipment_model4.pkl")
+    ]
 model = load_model()
 
 @app.post("/predict")
