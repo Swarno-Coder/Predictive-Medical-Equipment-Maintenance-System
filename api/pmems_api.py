@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 app = FastAPI()
-def load_model(): return [joblib.load('equipment_model.pkl'), joblib.load('equipment_model2.pkl'), joblib.load('equipment_model3.pkl'), joblib.load('equipment_model4.pkl')]  # Load your model file
+def load_model(): return [joblib.load('..\models\equipment_model.pkl'), joblib.load('..\models\equipment_model2.pkl'), joblib.load('..\models\equipment_model3.pkl'), joblib.load('..\models\equipment_model4.pkl')]  # Load your model file
 
 model = load_model()
 

@@ -4,10 +4,10 @@ import joblib
 
 @st.cache_data
 def load_model():
-    return [joblib.load('equipment_model.pkl'),
-            joblib.load('equipment_model2.pkl'),
-            joblib.load('equipment_model3.pkl'),
-            joblib.load('equipment_model4.pkl')]  # Load your model file
+    return [joblib.load('models\equipment_model.pkl'),
+            joblib.load('models\equipment_model2.pkl'),
+            joblib.load('models\equipment_model3.pkl'),
+            joblib.load('models\equipment_model4.pkl')]  # Load your model file
 
 model = load_model()
 

@@ -1,0 +1,13 @@
+{
+    "equipment_type": "MRI Scanner",
+    "temperature_avg": 30.5,
+    "humidity_avg": 50,
+    "last_maintenance_days": 250,
+    "uptime_hours": 3000,
+    "sensor_1": 0.8,
+    "sensor_2": 0.7,
+    "vibration": 4,
+    "voltage_fluctuation": 1.2,
+    "pressure": 110
+  }
+  

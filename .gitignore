@@ -1,6 +1,3 @@
-lot.py
-pred.py
-main.py
-*.json
 /nenv
-dataset.csv
+/api/__pycache__
+main.py
